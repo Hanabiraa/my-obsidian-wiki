@@ -1,0 +1,17 @@
+{
+  "defaultViewMode": "source",
+  "livePreview": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ],
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "assets"
+}

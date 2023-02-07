@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "5ae89fd3af176eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "671dfc9bd735add9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6970f85c8ecbb768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internet/How does the internet work.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1dc65d396a2d7412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "319971386ecd29c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internet/How does the internet work.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72f1d060c05971cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e20ff373a45ffb5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40df559e68d402ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b3af34039968eff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd9c63b04f36009c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e3bcc9afeea27c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "93063c0b829374ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91857df4b8e1ab97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Internet/How does the internet work.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "698b414cf30f2d95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Internet/How does the internet work.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf351be79a54c219",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0be8a915844924e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Internet/How does the internet work.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "40df559e68d402ca",
+  "lastOpenFiles": [
+    "assets/Pasted image 20230207145909.png",
+    "Internet/How does the internet work.md",
+    "Pasted image 20230207145824.png",
+    "Untitled.md",
+    "2023-02-07.md",
+    "Untitled.canvas"
+  ]
+}
