@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
-- **[[wiki/docker/docker]]**
-- [[wiki]]
+- **[[wiki]]**
+	- **[[docker]]**
+	- [[wiki]]
 
 %% End Waypoint %%
