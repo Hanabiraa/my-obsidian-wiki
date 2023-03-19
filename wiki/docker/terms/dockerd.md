@@ -11,7 +11,7 @@ tags:
 
 ## definition
 
-Is a service that runs in the background that listens for Docker Engine API requests and manages Docker objects like images and containers.
+Is a service that runs in the background that listens for Docker Engine API requests and manages [[wiki/docker/terms/Docker|Docker]] objects like [[Docker image|images]] and [[Docker container|containers]].
 
 ## useful links
 
