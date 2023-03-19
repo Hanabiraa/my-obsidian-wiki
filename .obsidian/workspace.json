@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "018c45997b0b898a",
+        "id": "31e5c2d3035ca2d4",
         "type": "tabs",
         "children": [
           {
-            "id": "154c90a5be95a603",
+            "id": "b2b52d3295f3c622",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "wiki/docker/What is Docker? (Basics).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,13 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "wiki/docker/What is Docker? (Basics).md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/docker/What is Docker? (Basics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "wiki/docker/What is Docker? (Basics).md"
+              }
             }
           }
         ],
@@ -138,10 +147,29 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "154c90a5be95a603",
+  "active": "b2b52d3295f3c622",
   "lastOpenFiles": [
-    "assets/templates/term.md",
-    "assets/templates/article.md",
+    "assets/files/Pasted image 20230319160258.png",
+    "[Docker Engine.md",
+    "wiki/docker/terms/Docker.md",
+    "wiki/docker/What is Docker? (Basics).md",
+    "wiki/docker/terms/Docker Engine.md",
+    "wiki/docker/terms/dockerd.md",
+    "assets/templates/term_template.md",
+    "assets/templates/article_template.md",
+    "assets/files/Pasted image 20230319151529.png",
+    "wiki/docker",
+    "Untitled",
+    "wiki",
+    "wiki",
+    "Internet/asdasdqa.md",
+    "assets/files/Pasted image 20230318204527 1.png",
+    "assets/files/Pasted image 20230318204527.png",
+    "assets/files/Pasted image 20230318204526 1.png",
+    "assets/files/Pasted image 20230318204526.png",
+    "assets/files/Pasted image 20230318204516.png",
+    "assets/files/master_theorem.png",
+    "assets/files/master_theorem.png.crdownload",
     "Internet/intenert.md",
     "terms/TCP.md",
     "Untitled.canvas",

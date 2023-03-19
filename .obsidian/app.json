@@ -13,5 +13,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "",
-  "attachmentFolderPath": "assets/files"
+  "attachmentFolderPath": "assets/files",
+  "promptDelete": false
 }

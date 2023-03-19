@@ -1,13 +1,10 @@
 ---
 created: ["{{date: DD-MM-YYYY}} {{time}}"]
-aliases: []
 tags:
-- terms/
+- article/
 ---
 
 # {{title}}
 
-> full term
-
-## definition
+## Chapter 1
 

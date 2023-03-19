@@ -1,0 +1,19 @@
+{
+  "selected": "_system",
+  "custom": {},
+  "modifierBindings": [],
+  "enableLog": false,
+  "timeout": 500,
+  "inAppViewRec": [
+    {
+      "leafId": "1eedb0ef165fa2ea",
+      "url": "https://docs.docker.com/engine/",
+      "mode": 1
+    },
+    {
+      "leafId": "67568d55a40f6c4f",
+      "url": "https://docs.docker.com/engine/",
+      "mode": 0
+    }
+  ]
+}
