@@ -8,14 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8825ac3089775efc",
+            "id": "b5486e3d80e6136e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "wiki/graph diversities/terms/Graph.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c56d44eee686e4eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/graph diversities/terms/Graph.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fe7d5f01f8ff80fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assets/templates/term_template.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7326a33609563124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/math/math.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "186f4d2db79cd2e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/math/Untitled.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -44,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/math/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/math/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,11 +178,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "wiki/math/Untitled.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -135,26 +197,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8825ac3089775efc",
+  "active": "186f4d2db79cd2e0",
   "lastOpenFiles": [
-    "wiki/docker/What is Docker? (Basics).md",
-    "wiki/wiki.md",
     "wiki/docker/docker.md",
-    "Untitled.canvas",
-    "assets/files/Pasted image 20230319160258.png",
-    "[Docker Engine.md",
-    "wiki/docker/terms/Docker.md",
-    "wiki/docker/terms/Docker Engine.md",
     "wiki/docker/terms/dockerd.md",
+    "wiki/math/math.md",
+    "wiki/math/Untitled.md",
+    "wiki/math/linear algebra",
+    "wiki/math/terms",
+    "wiki/math/calculus",
+    "wiki/graph diversities/graph diversities.md",
     "assets/templates/term_template.md",
+    "wiki/math",
+    "Untitled 1.md",
+    "wiki/graph diversities/terms/Graph.md",
+    "Untitled.md",
+    "wiki/wiki.md",
+    "wiki/docker/terms/Docker Engine.md",
+    "wiki/docker/What is Docker? (Basics).md",
+    "wiki/graph diversities/hello.md",
+    "wiki/graph diversities/terms",
     "assets/templates/article_template.md",
+    "wiki/graph diversities",
+    "wiki/graphs diversities measures/graphs diversities measures.md",
+    "wiki/graphs diversities measures",
+    "assets/files/Pasted image 20230319160258.png",
     "assets/files/Pasted image 20230319151529.png",
+    "wiki/docker/terms/Docker.md",
+    "Untitled.canvas",
+    "[Docker Engine.md",
     "wiki/docker",
     "Untitled",
-    "wiki",
     "wiki",
     "Internet/asdasdqa.md",
     "assets/files/Pasted image 20230318204527 1.png",
@@ -163,7 +240,6 @@
     "assets/files/Pasted image 20230318204526.png",
     "assets/files/Pasted image 20230318204516.png",
     "assets/files/master_theorem.png",
-    "assets/files/master_theorem.png.crdownload",
     "Internet/intenert.md",
     "terms/TCP.md",
     "Internet/How does the internet work.md",
