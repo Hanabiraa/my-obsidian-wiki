@@ -5,6 +5,6 @@
   "showNonMarkdownFiles": false,
   "debugLogging": false,
   "useWikiLinks": true,
-  "showEnclosingNote": false,
+  "showEnclosingNote": true,
   "folderNoteType": "INSIDE_FOLDER"
 }

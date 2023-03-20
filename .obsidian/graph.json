@@ -6,17 +6,46 @@
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:wiki/docker/terms",
+      "color": {
+        "a": 1,
+        "rgb": 7001692
+      }
+    },
+    {
+      "query": "path:wiki/docker/nuances",
+      "color": {
+        "a": 1,
+        "rgb": 906713
+      }
+    },
+    {
+      "query": "path:wiki/docker",
+      "color": {
+        "a": 1,
+        "rgb": 98487
+      }
+    },
+    {
+      "query": "path:wiki",
+      "color": {
+        "a": 1,
+        "rgb": 16711744
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.58020833333333,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.786458333333333,
+  "centerStrength": 0.421875,
   "repelStrength": 20,
-  "linkStrength": 0,
+  "linkStrength": 0.796875,
   "linkDistance": 500,
-  "scale": 0.6210237380521978,
+  "scale": 0.3629002628367499,
   "close": false
 }

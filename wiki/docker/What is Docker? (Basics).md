@@ -11,7 +11,7 @@ tags:
 By the end of this article, you should be able to:
 
 1.  Explain what [[wiki/docker/terms/Docker]] is and how it works
-2.  Describe and differentiate between the following concepts and components: [[Docker Engine]], Docker Desktop, Dockerfile, Docker image, and Docker container
+2.  Describe and differentiate between the following concepts and components: [[Docker Engine]], Docker Desktop, [[Dockerfile]], [[Docker image]], and [[Docker container]]
 3.  Follow more complicated tutorials that use [[wiki/docker/terms/Docker]]
 
 ## Containers and Virtual Machines
@@ -61,12 +61,10 @@ If you haven't already, go ahead and install Docker Desktop:
 
 At the heart of [[wiki/docker/terms/Docker]], there are three core concepts:
 
-1.  [Dockerfile](https://docs.docker.com/glossary/#dockerfile) - a text file that serves as a blueprint for your container. In it, you define a list of instructions that Docker uses to build an image.
-2.  [Image](https://docs.docker.com/glossary/#image) - a read-only embodiment of the Dockerfile. It's built out of [layers](https://docs.docker.com/glossary/#layer) -- each layer corresponds to a single line of instructions from a Dockerfile.
-3.  [Container](https://docs.docker.com/glossary/#container) - running a Docker image produces a container, which is a controlled environment for your application. If we draw parallels with object-oriented programming, a container is an instance of a Docker image.
+1. [[Dockerfile]]
+2.  [[Docker Image]]
+3.  [[Docker container]]
 
 ![[Pasted image 20230319160258.png]]
 
-> _A Dockerfile is used to create a Docker image, which is then used to create (multiple) Docker containers._
-
-**доделать**
+> _A [[Dockerfile]] is used to create a [[Docker image]], which is then used to create (multiple) [[Docker container|Docker containers]]._

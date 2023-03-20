@@ -1,9 +1,10 @@
 %% Begin Waypoint %%
+- [[Docker container explanation]]
+- [[Docker image explanation]]
 - [[docker]]
-- **terms**
-	- [[Docker Engine]]
-	- [[Docker]]
-	- [[dockerd]]
+- [[Dockerfile exaplanation]]
+- **[[nuances]]**
+- **[[terms]]**
 - [[What is Docker? (Basics)]]
 
 %% End Waypoint %%
