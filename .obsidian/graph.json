@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 16449791
       }
+    },
+    {
+      "query": "path:wiki/books",
+      "color": {
+        "a": 1,
+        "rgb": 15044117
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0.796875,
   "linkDistance": 500,
-  "scale": 0.5983654405015085,
+  "scale": 0.2009035125678832,
   "close": true
 }

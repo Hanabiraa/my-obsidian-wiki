@@ -1,6 +1,6 @@
 ---
 created: [" 19-03-2023 21:39"]
-aliases: [dockerfile, Dockerfile]
+aliases: [dockerfile, Dockerfile, dockerfile, Dockerfiles]
 tags:
 - terms/
 ---

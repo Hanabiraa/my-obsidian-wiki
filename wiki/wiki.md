@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - **[[wiki]]**
+	- **[[books]]**
 	- **[[docker]]**
 	- **[[math]]**
 	- [[wiki]]

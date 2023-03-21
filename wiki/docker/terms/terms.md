@@ -5,6 +5,6 @@
 - [[Docker]]
 - [[dockerd]]
 - [[Dockerfile]]
-- [[terms]]
+- [[wiki/docker/terms/terms]]
 
 %% End Waypoint %%

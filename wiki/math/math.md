@@ -1,32 +1,7 @@
 %% Begin Waypoint %%
 - **[[math]]**
-	- **calculus**
-	- **linear algebra**
 	- [[math]]
-	- **network science**
-		- [[Complex networks]]
-		- [[Erdos-Renyi graph model]]
-		- [[Hubs in networks]]
-		- [[PageRank]]
-		- [[Phase transition]]
-		- [[Power law]]
-		- [[Preferential attachment graph model]]
-		- [[Random graphs]]
-		- [[Small world graph model]]
-	- **terms**
-		- [[average node degree]]
-		- [[Betweenness centrality]]
-		- [[Degree centrality]]
-		- [[Degree distribution]]
-		- [[Eigenvector centrality]]
-		- [[Friendship Paradox]]
-		- [[Graph density]]
-		- [[Graph diameter]]
-		- [[Graph]]
-		- [[Incident edge and nodes]]
-		- [[Local clustering coefficient]]
-		- [[Network]]
-		- [[Node degree]]
-		- [[transitivity]]
+	- **[[network science]]**
+	- **[[terms]]**
 
 %% End Waypoint %%
