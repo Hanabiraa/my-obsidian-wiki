@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/math/terms/Incident edge and nodes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "83c06dc04241c63e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "wiki/math/network science/Complex networks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "de98018a84d16a52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/math/network science/Hubs in networks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/math/network science/Hubs in networks.md",
+                "file": "wiki/math/network science/Complex networks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/math/network science/Hubs in networks.md",
+                "file": "wiki/math/network science/Complex networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/math/network science/Hubs in networks.md"
+                "file": "wiki/math/network science/Complex networks.md"
               }
             }
           }
@@ -175,11 +148,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de98018a84d16a52",
+  "active": "a5326ae200eedce9",
   "lastOpenFiles": [
-    "assets/files/Pasted image 20230321161616.png",
-    "wiki/math/network science/Complex networks.md",
+    "assets/files/Pasted image 20230321162247.png",
     "wiki/math/network science/Hubs in networks.md",
+    "wiki/math/terms/Incident edge and nodes.md",
+    "wiki/math/network science/Complex networks.md",
+    "assets/files/Pasted image 20230321161616.png",
     "assets/templates/term_template.md",
     "assets/templates/article_template.md",
     "assets/files/Pasted image 20230321161421.png",
@@ -193,10 +168,8 @@
     "assets/files/Pasted image 20230321160207.png",
     "assets/files/Pasted image 20230321160007.png",
     "assets/files/Pasted image 20230321155721.png",
-    "wiki/math/terms/Incident edge and nodes.md",
     "wiki/math/terms/Graph.md",
     "wiki/math/terms/Local clustering coefficient.md",
-    "assets/files/Pasted image 20230321155400.png",
     "wiki/math/terms/transitivity.md",
     "wiki/math/math.md",
     "Untitled.md",

@@ -45,3 +45,12 @@ Take log
 ![[Pasted image 20230321161127.png]]
 
 [[Hubs in networks]]
+
+
+### Moments of power-Law distribution
+![[Pasted image 20230321162247.png]]
+- $\gamma > 2$ - 
+- $\gamma > 3$ - exists second moment
+- $\gamma > m + 1$ -  exists m-th moment
+- something strange happens in $3 < \gamma < 3$
+- 

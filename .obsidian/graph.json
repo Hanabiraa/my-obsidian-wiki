@@ -29,10 +29,10 @@
       }
     },
     {
-      "query": "path:wiki",
+      "query": "path:wiki/math",
       "color": {
         "a": 1,
-        "rgb": 16711744
+        "rgb": 16449791
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 0.796875,
   "linkDistance": 500,
-  "scale": 0.3629002628367499,
-  "close": false
+  "scale": 0.6666903536039593,
+  "close": true
 }
