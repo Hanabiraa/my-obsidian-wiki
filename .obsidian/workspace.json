@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5326ae200eedce9",
+            "id": "67b9f58d526f2136",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/math/network science/Erdos-Renyi graph model.md",
+                "file": "wiki/math/terms/Eigenvector centrality.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "57e638453f3e8a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/docker/terms/dockerd.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/math/network science/Erdos-Renyi graph model.md",
+                "file": "wiki/math/terms/Eigenvector centrality.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/math/network science/Erdos-Renyi graph model.md",
+                "file": "wiki/math/terms/Eigenvector centrality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/math/network science/Erdos-Renyi graph model.md"
+                "file": "wiki/math/terms/Eigenvector centrality.md"
               }
             }
           }
@@ -149,44 +162,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5326ae200eedce9",
+  "active": "67b9f58d526f2136",
   "lastOpenFiles": [
-    "assets/files/Pasted image 20230321174521.png",
-    "wiki/math/network science/Phase transition.md",
-    "assets/files/Pasted image 20230321174442.png",
-    "wiki/math/network science/Power law.md",
-    "wiki/math/network science/Erdos-Renyi graph model.md",
-    "assets/files/Pasted image 20230321174043.png",
-    "wiki/math/network science/Random graphs.md",
-    "average node degree.md",
-    "wiki/math/network science/Hubs in networks.md",
-    "assets/files/Pasted image 20230321173708.png",
-    "assets/files/Pasted image 20230321173551.png",
-    "assets/files/Pasted image 20230321173351.png",
-    "assets/files/Pasted image 20230321173250.png",
-    "assets/files/Pasted image 20230321173121.png",
-    "assets/files/Pasted image 20230321172914.png",
-    "wiki/math/terms/Graph density.md",
-    "assets/files/Pasted image 20230321172740.png",
-    "assets/templates/article_template.md",
-    "assets/templates/term_template.md",
-    "wiki/math/network science/Complex networks.md",
-    "Power law degree distribution.md",
-    "assets/files/Pasted image 20230321171603.png",
-    "wiki/math/terms/Incident edge and nodes.md",
-    "wiki/math/terms/Degree distribution.md",
-    "wiki/math/terms/Node degree.md",
+    "wiki/docker/terms/dockerd.md",
+    "wiki/docker/terms/Docker Engine.md",
+    "wiki/docker/terms/Docker container.md",
+    "wiki/docker/terms/Docker.md",
+    "wiki/docker/Docker container explanation.md",
+    "wiki/docker/Dockerfile exaplanation.md",
+    "wiki/docker/Docker image explanation.md",
+    "wiki/math/terms/Friendship Paradox.md",
+    "assets/files/Pasted image 20230321182514.png",
+    "assets/files/Pasted image 20230321182923.png",
+    "assets/files/Pasted image 20230321182939.png",
+    "assets/files/Pasted image 20230319160258.png",
     "wiki/math/terms/Graph.md",
-    "wiki/math/terms/Local clustering coefficient.md",
-    "wiki/math/terms/transitivity.md",
-    "wiki/math/math.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "wiki/math/terms/Network.md",
-    "wiki/graph diversities/hello.md",
-    "wiki/graph diversities/graph diversities.md",
-    "wiki/math/Untitled.md",
-    "wiki/graph diversities/terms/Graph.md",
+    "wiki/math/network science/PageRank.md",
+    "assets/files/Pasted image 20230321182401.png",
+    "assets/files/Pasted image 20230321182248.png",
+    "assets/files/Pasted image 20230321182210.png",
+    "wiki/math/terms/Eigenvector centrality.md",
+    "assets/files/Pasted image 20230321181905.png",
+    "wiki/math/terms/Betweenness centrality.md",
+    "assets/files/Pasted image 20230321181750.png",
+    "wiki/math/terms/Degree centrality.md",
+    "assets/files/Pasted image 20230321181352.png",
+    "wiki/math/network science/Preferential attachment graph model.md",
+    "wiki/math/network science/Random graphs.md",
+    "wiki/math/network science/Small world graph model.md",
+    "wiki/math/terms/Graph diameter.md",
+    "wiki/math/network science/Erdos-Renyi graph model.md",
+    "wiki/math/network science/Power law.md",
+    "wiki/math/network science/Phase transition.md",
+    "wiki/math/network science/Complex networks.md",
+    "wiki/math/terms/Local clustering coefficient.md",
+    "wiki/math/network science/Hubs in networks.md",
+    "wiki/math/terms/average node degree.md",
+    "wiki/math/terms/Graph density.md",
     "wiki/math/network science",
     "wiki/docker/nuances",
     "wiki/math/linear algebra",

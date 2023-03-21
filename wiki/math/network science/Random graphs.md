@@ -13,6 +13,12 @@ tags:
 #### Generative models:
 - [[Erdos-Renyi graph model]]
 - [[Small world graph model]]
-- [[Preferential attachement graph model]]
+- [[Preferential attachment graph model]]
 - etc...
 
+
+## Model comparison
+
+![[Pasted image 20230321181156.png]]
+
+Some are more suitable for Small-world models

@@ -5,7 +5,7 @@ tags:
 - article/
 ---
 
-# Phase transition in a [[Erdos-Renyi graph model|ER]] graph model
+# Phase transition in a [[Erdos-Renyi graph model|ER]] graph model as an example
 
 ## Derivation
 
@@ -34,3 +34,8 @@ s - size of GCC
 
 ### Summary:
 ![[Pasted image 20230321174442.png]]
+
+
+### Numerical simulation
+phase transition at $\lambda = 1$
+![[Pasted image 20230321174703.png]]

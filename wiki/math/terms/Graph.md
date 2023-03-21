@@ -17,3 +17,4 @@ Example:
 [[Incident edge and nodes]]
 [[transitivity]]
 [[Local clustering coefficient]]
+[[Friendship Paradox]]

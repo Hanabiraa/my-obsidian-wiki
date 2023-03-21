@@ -24,6 +24,23 @@ Average [[Node degree]]:
 Probability of a network to have m edges is given by Bionomial distribution
 ![[Pasted image 20230321173121.png]]
 
+### [[Local clustering coefficient|clustering-coefficient]]:
+
+![[Pasted image 20230321175008.png]]
+- si equal to the probability that 2 nodes are connected
+
+### [[Graph diameter]]
+![[Pasted image 20230321175126.png]]
+
+Graph of average graph distance for some models:
+![[Pasted image 20230321175227.png]]
+random network posess small-world property
+
+
+### Average path length and summary of another properties
+![[Pasted image 20230321175309.png]]
+
+
 
 ## [[Degree distribution]]
 - binomial distribution
@@ -38,3 +55,8 @@ when p starts growing, [[Phase transition]] occurs - suddenly giant connected co
 
 ## Evolution of random network:
 ![[Pasted image 20230321174521.png]]
+
+## Threshold probabilities
+- can predict at which p start getting different structures
+![[Pasted image 20230321174801.png]]
+
