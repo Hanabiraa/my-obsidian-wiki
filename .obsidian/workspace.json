@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/math/network science/Complex networks.md",
+                "file": "wiki/math/network science/Erdos-Renyi graph model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/math/network science/Complex networks.md",
+                "file": "wiki/math/network science/Erdos-Renyi graph model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/math/network science/Complex networks.md",
+                "file": "wiki/math/network science/Erdos-Renyi graph model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/math/network science/Complex networks.md"
+                "file": "wiki/math/network science/Erdos-Renyi graph model.md"
               }
             }
           }
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,24 +151,31 @@
   },
   "active": "a5326ae200eedce9",
   "lastOpenFiles": [
-    "assets/files/Pasted image 20230321162247.png",
+    "assets/files/Pasted image 20230321174521.png",
+    "wiki/math/network science/Phase transition.md",
+    "assets/files/Pasted image 20230321174442.png",
+    "wiki/math/network science/Power law.md",
+    "wiki/math/network science/Erdos-Renyi graph model.md",
+    "assets/files/Pasted image 20230321174043.png",
+    "wiki/math/network science/Random graphs.md",
+    "average node degree.md",
     "wiki/math/network science/Hubs in networks.md",
-    "wiki/math/terms/Incident edge and nodes.md",
-    "wiki/math/network science/Complex networks.md",
-    "assets/files/Pasted image 20230321161616.png",
-    "assets/templates/term_template.md",
+    "assets/files/Pasted image 20230321173708.png",
+    "assets/files/Pasted image 20230321173551.png",
+    "assets/files/Pasted image 20230321173351.png",
+    "assets/files/Pasted image 20230321173250.png",
+    "assets/files/Pasted image 20230321173121.png",
+    "assets/files/Pasted image 20230321172914.png",
+    "wiki/math/terms/Graph density.md",
+    "assets/files/Pasted image 20230321172740.png",
     "assets/templates/article_template.md",
-    "assets/files/Pasted image 20230321161421.png",
-    "assets/files/Pasted image 20230321161127.png",
+    "assets/templates/term_template.md",
+    "wiki/math/network science/Complex networks.md",
+    "Power law degree distribution.md",
+    "assets/files/Pasted image 20230321171603.png",
+    "wiki/math/terms/Incident edge and nodes.md",
     "wiki/math/terms/Degree distribution.md",
-    "assets/files/Pasted image 20230321160926.png",
-    "assets/files/Pasted image 20230321160838.png",
-    "assets/files/Pasted image 20230321160802.png",
     "wiki/math/terms/Node degree.md",
-    "assets/files/Pasted image 20230321160705.png",
-    "assets/files/Pasted image 20230321160207.png",
-    "assets/files/Pasted image 20230321160007.png",
-    "assets/files/Pasted image 20230321155721.png",
     "wiki/math/terms/Graph.md",
     "wiki/math/terms/Local clustering coefficient.md",
     "wiki/math/terms/transitivity.md",
@@ -180,13 +188,6 @@
     "wiki/math/Untitled.md",
     "wiki/graph diversities/terms/Graph.md",
     "wiki/math/network science",
-    "wiki/wiki.md",
-    "conflict-files-obsidian-git.md",
-    "wiki/docker/terms/terms.md",
-    "wiki/docker/terms/Dockerfile.md",
-    "wiki/docker/terms/Docker image.md",
-    "wiki/docker/terms/Docker container.md",
-    "wiki/docker/nuances/nuances.md",
     "wiki/docker/nuances",
     "wiki/math/linear algebra",
     "wiki/math/terms",

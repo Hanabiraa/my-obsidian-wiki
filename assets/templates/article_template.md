@@ -1,5 +1,6 @@
 ---
 created: ["{{date: DD-MM-YYYY}} {{time}}"]
+aliases: []
 tags:
 - article/
 ---
