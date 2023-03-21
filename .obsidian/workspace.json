@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2f11aa503d4b26f2",
+        "id": "033a18e0287b0168",
         "type": "tabs",
         "children": [
           {
-            "id": "4463083b460fc3c2",
+            "id": "88c649a0c4750f3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -147,13 +147,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4463083b460fc3c2",
+  "active": "88c649a0c4750f3d",
   "lastOpenFiles": [
+    "wiki/math/math.md",
+    "wiki/math/terms/transitivity.md",
     "wiki/math/network science/network science.md",
     "wiki/math/network science/Hubs in networks.md",
     "wiki/math/network science/Erdos-Renyi graph model.md",
     "wiki/math/network science/Complex networks.md",
-    "wiki/math/terms/transitivity.md",
     "wiki/math/terms/terms.md",
     "wiki/math/terms/Node degree.md",
     "wiki/math/terms/Network.md",
@@ -170,7 +171,6 @@
     "assets/templates/term_template.md",
     "assets/templates/book_table_template.md",
     "wiki/math/terms/average node degree.md",
-    "wiki/math/math.md",
     "wiki/books/books.md",
     "wiki/books/SQL/SQL.md",
     "wiki/books/code architecture/table.md",
