@@ -9,9 +9,12 @@ tags:
 
 > number of nodes connected to current node
 
-## number of nearest nodes
+## definition
+
+number of nearest nodes
 
 total number of nodes:
 ![[Pasted image 20230321160705.png]]
+
 ## useful links
 [[Degree distribution]]

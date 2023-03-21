@@ -9,6 +9,8 @@ tags:
 
 > full term is identical to short term
 
-## relationships between objects represented as a [[Graph]]
+## definition
+
+relationships between objects represented as a [[Graph]]
 
 ## useful links

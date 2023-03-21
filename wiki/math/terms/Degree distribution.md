@@ -7,12 +7,14 @@ tags:
 
 # Degree distribution
 
+## definition
 
-## fraction of the nodes with degree k
+fraction of the nodes with degree k
 ![[Pasted image 20230321160802.png]]
 
-### One more example - Zachari Karate club:
+One more example - Zachari Karate club:
 ![[Pasted image 20230321160838.png]]
+
 ## useful links
 [[Node degree]]
 [[Degree distribution]]

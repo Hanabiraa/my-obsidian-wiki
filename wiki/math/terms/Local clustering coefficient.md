@@ -11,7 +11,9 @@ tags:
 
 - Number of links in neighborhood  of the node divided by maximum possible number of edged in neighborhood
 
-## How neighbors fo a given node connected to each other
+## definition
+
+How neighbors for a given node connected to each other
 
 
 ## Average clustering coefficient:

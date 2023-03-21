@@ -9,7 +9,9 @@ tags:
 
 > number of shortest paths going through that node (through all pairs)
 
-## node is important if it is bridge
+## definition
+
+node is important if it is bridge
 
 ![[Pasted image 20230321181750.png]]
 

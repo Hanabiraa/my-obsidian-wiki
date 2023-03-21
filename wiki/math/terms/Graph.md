@@ -9,10 +9,13 @@ tags:
 
 > in discrete mathematics,  structure made of vertices and edges. Can be descibed as adjacency matrix
 
-##  structure made of vertices and edges
+## definition
+
+structure made of vertices and edges
 
 Example:
 ![[Pasted image 20230321154600.png]]
+
 ## useful links
 [[Incident edge and nodes]]
 [[transitivity]]

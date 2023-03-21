@@ -8,5 +8,7 @@ tags:
 # Graph density
 
 
-## ratio of the number of presented edges in a graph divided by all possinle amount of edges
+## definition
+
+ratio of the number of presented edges in a graph divided by all possinle amount of edges
 

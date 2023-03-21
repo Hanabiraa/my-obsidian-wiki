@@ -6,11 +6,9 @@ tags:
 ---
 
 # Degree centrality
+
 > Degree centrality - Number of nearest neighbors:
 
-
-
-\
 ![[Pasted image 20230321181352.png]]
 
 ## Useful links

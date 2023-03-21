@@ -7,8 +7,6 @@ tags:
 
 # average node degree
 
-> full term
-
 ## definition
 
 ## useful links

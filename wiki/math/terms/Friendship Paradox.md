@@ -7,7 +7,9 @@ tags:
 
 # Friendship Paradox
 
-## On average your friends have more friend than you do
+## definition
+
+On average your friends have more friend than you do
 
 ![[Pasted image 20230321182939.png]]
 
