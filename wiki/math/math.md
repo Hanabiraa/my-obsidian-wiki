@@ -1,8 +1,9 @@
 %% Begin Waypoint %%
-- **calculus**
-- **linear algebra**
-- [[math]]
-- **terms**
-- [[Untitled]]
+- **[[math]]**
+	- **calculus**
+	- **linear algebra**
+	- [[math]]
+	- **network science**
+	- **terms**
 
 %% End Waypoint %%

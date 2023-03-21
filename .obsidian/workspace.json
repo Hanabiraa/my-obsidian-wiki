@@ -139,16 +139,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86c06b7731dd5c72",
+  "active": "40df559e68d402ca",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "wiki/graph diversities/terms/Graph.md",
-    "assets/templates/term_template.md",
+    "wiki/graph diversities/graph diversities.md",
+    "wiki/math/Untitled.md",
     "wiki/math/math.md",
+    "wiki/graph diversities/terms/Graph.md",
+    "wiki/math/network science",
+    "wiki/wiki.md",
+    "conflict-files-obsidian-git.md",
+    "assets/templates/term_template.md",
     "Untitled 1.md",
     "Untitled.md",
-    "wiki/wiki.md",
-    "wiki/math/Untitled.md",
     "wiki/docker/terms/terms.md",
     "wiki/docker/terms/Dockerfile.md",
     "wiki/docker/terms/Docker image.md",
@@ -174,7 +176,6 @@
     "wiki/math/linear algebra",
     "wiki/math/terms",
     "wiki/math/calculus",
-    "wiki/graph diversities/graph diversities.md",
     "wiki/math",
     "wiki/docker/terms/Docker Engine.md",
     "wiki/docker/What is Docker? (Basics).md",
@@ -182,11 +183,9 @@
     "wiki/graph diversities/terms",
     "assets/templates/article_template.md",
     "wiki/graph diversities",
-    "wiki/graphs diversities measures/graphs diversities measures.md",
     "wiki/graphs diversities measures",
     "assets/files/Pasted image 20230319160258.png",
     "Untitled.canvas",
-    "wiki/docker",
-    "Untitled"
+    "wiki/docker"
   ]
 }

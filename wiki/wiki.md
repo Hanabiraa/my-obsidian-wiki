@@ -1,7 +1,7 @@
 %% Begin Waypoint %%
-- **[[docker]]**
-- **[[graph diversities]]**
-- **[[math]]**
-- [[wiki]]
+- **[[wiki]]**
+	- **[[docker]]**
+	- **[[math]]**
+	- [[wiki]]
 
 %% End Waypoint %%
