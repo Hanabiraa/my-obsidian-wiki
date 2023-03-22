@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **[[code architecture]]**
 	- [[code architecture]]
-	- [[wiki/books/code architecture/table]]
+	- [[table]]
 
 %% End Waypoint %%

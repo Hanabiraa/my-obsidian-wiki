@@ -1,3 +1,4 @@
+
 ---
 created: [" 19-03-2023 22:27"]
 tags:
@@ -59,6 +60,22 @@ Your container gets a unique, quirky name by default, but you can assign your ow
 $ docker container run -p 8000:8000 --name my_great_container my_image
 ```
 
+#### Run in a background - `-d` option:
+
+```bash
+$ docker run -d yandex/clickhouse-server
+>>> 
+```
+#### Specify name - `--name`:
+```bash
+$ docker run --name my_db -d yandex/clickhouse-server
+>>> 
+```
+#### Remove container after stop `--rm` option:
+```bash
+$ docker run --name my_db_2 -d --rm yandex/clickhouse-server
+>>> 
+```
 ### Start
 
 To start a stopped or just created container, you use the [docker container start](https://docs.docker.com/engine/reference/commandline/container_start/) command. Since with this command, you're starting an existing container, you have to specify the _container_ instead of an _image_ (as with `docker container run`).
@@ -95,6 +112,19 @@ Let's take a look at the output for:
 
 > Some of the information is truncated. If you want the untruncated version, add `--no-trunc`.
 
+
+## Entering working container
+
+```bash
+$ docker exec -it <name> <command we want to execute>
+```
+	`-i` - interactive mode - can execute commands
+	`-t` - execute TTY - print terminal name after execution
+
+e.g.:
+`docker exec -it elegant_benz bash` - s
+
+
 ## Stopping
 
 To stop a container, use [docker container stop](https://docs.docker.com/engine/reference/commandline/container_stop/). The name or ID of the stopped container is then returned.
@@ -125,3 +155,19 @@ $ docker container rm festive_euclid festive_euclid
 Example of `docker container prune`:
 
 ![[Pasted image 20230319223717.png]]
+
+
+## Tips
+
+### Save state of the container `docker commit`
+
+```{bash}
+$ docker commit <container name> <container with new version of internals>:<tag>
+```
+### Stop all containers at once:
+
+```{bash}
+docker stop $(docker container list -q)
+```
+* `-q` - quiet output - get only id of containers
+* `$(cmd)` - get output of command `cmd` (`docker container list -q` - list all working containers)
