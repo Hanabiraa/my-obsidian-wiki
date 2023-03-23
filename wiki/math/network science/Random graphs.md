@@ -14,7 +14,8 @@ tags:
 - [[Erdos-Renyi graph model]]
 - [[Small world graph model]]
 - [[Preferential attachment graph model]]
-- etc...
+- [[Stochastic block model]]
+- [[Random geometric graph]]
 
 
 ## Model comparison
