@@ -45,7 +45,12 @@ And this is what the _entrypoint.sh_ file might look like:
 
 python manage.py migrate 
 python manage.py collectstatic --noinput`
+
 ```
+
+### Table of different `CMD`/ `ENTRYPOINT` combinations:
+
+![[Pasted image 20230328183513.png]]
 
 > It's important to understand the difference between `CMD` and `ENTRYPOINT`. For more, check out [official docs](https://docs.docker.com/engine/reference/builder/#understand-how-cmd-and-entrypoint-interact).
 

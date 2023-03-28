@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random geometric graph.md",
+                "file": "wiki/docker/nuances/Difference between ADD and COPY.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "782a45f90c3f28bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/docker/nuances/Difference between CMD and ENTRYPOINT.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random geometric graph.md",
+                "file": "wiki/docker/nuances/Difference between CMD and ENTRYPOINT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random geometric graph.md",
+                "file": "wiki/docker/nuances/Difference between CMD and ENTRYPOINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,17 +140,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random geometric graph.md"
+                "file": "wiki/docker/nuances/Difference between CMD and ENTRYPOINT.md"
               }
+            }
+          },
+          {
+            "id": "ba593bc78d359383",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,34 +170,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1c0ab771902f26b",
+  "active": "782a45f90c3f28bd",
   "lastOpenFiles": [
+    "assets/files/Pasted image 20230328183513.png",
+    "wiki/docker/nuances/nuances.md",
+    "wiki/docker/nuances/Cached layers problem.md",
+    "wiki/docker/nuances/Difference between ADD and COPY.md",
+    "wiki/docker/Docker image explanation.md",
+    "wiki/docker/Docker container explanation.md",
+    "wiki/docker/terms/Docker container.md",
+    "assets/files/Pasted image 20230327230454.png",
+    "assets/files/Pasted image 20230327230249.png",
+    "wiki/docker/nuances/Difference between CMD and ENTRYPOINT.md",
+    "wiki/docker/Docker best practices.md",
+    "wiki/docker/What is Docker? (Basics).md",
+    "wiki/docker/Dockerfile exaplanation.md",
+    "wiki/docker/terms/Dockerfile.md",
+    "wiki/docker/terms/terms.md",
+    "wiki/docker/terms/dockerd.md",
+    "wiki/docker/terms/Docker image.md",
+    "wiki/docker/terms/Docker.md",
+    "wiki/math/network science/Preferential attachment graph model.md",
+    "wiki/math/network science/Small world graph model.md",
     "wiki/math/network science/Random graphs.md",
-    "Random geometric graph.md",
-    "Stochastic block model.md",
+    "wiki/math/network science/Stochastic block model.md",
+    "wiki/math/network science/Random geometric graph.md",
     "wiki/math/network science/Phase transition.md",
     "wiki/math/network science/Power law.md",
-    "Assortative model.md",
-    "Disassortative model.md",
-    "wiki/docker/terms/dockerd.md",
+    "wiki/math/terms/Assortative model.md",
+    "wiki/math/terms/Disassortative model.md",
     "wiki/math/terms/average node degree.md",
-    "wiki/math/terms/terms.md",
-    "wiki/math/math.md",
-    "wiki/wiki.md",
-    "wiki/math/network science/Untitled.md",
-    "wiki/math/network science/network science.md",
-    "wiki/docker/nuances/Difference between ADD and COPY.md",
-    "wiki/docker/Docker container explanation.md",
-    "wiki/docker/nuances/nuances.md",
-    "wiki/docker/Docker image explanation.md",
-    "wiki/docker/terms/Docker image.md",
-    "wiki/docker/terms/Docker container.md",
-    "wiki/docker/terms/Docker.md",
-    "wiki/books/books.md",
-    "wiki/books/code architecture/table.md",
-    "wiki/books/code architecture/code architecture.md",
-    "assets/templates/term_template.md",
-    "assets/templates/book_table_template.md",
     "wiki/books/code architecture",
     "wiki/books/SQL",
     "wiki/books",
@@ -188,8 +211,6 @@
     "assets/files/Pasted image 20230322002939.png",
     "assets/files/Pasted image 20230322002928.png",
     "assets/files/Pasted image 20230322002547.png",
-    "assets/files/Pasted image 20230322002240.png",
-    "assets/files/Pasted image 20230322002200.png",
     "wiki/math/network science",
     "wiki/docker/nuances",
     "wiki/math/linear algebra",

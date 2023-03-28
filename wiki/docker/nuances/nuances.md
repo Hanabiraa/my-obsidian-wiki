@@ -1,6 +1,8 @@
 %% Begin Waypoint %%
-- [[Difference between ADD and COPY]]
-- [[Difference between CMD and ENTRYPOINT]]
-- [[nuances]]
+- **[[nuances]]**
+	- [[Cached layers problem]]
+	- [[Difference between ADD and COPY]]
+	- [[Difference between CMD and ENTRYPOINT]]
+	- [[nuances]]
 
 %% End Waypoint %%
