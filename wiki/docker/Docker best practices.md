@@ -113,7 +113,7 @@ Notes:
 2.  Combine `RUN apt-get update` and `RUN apt-get install` commands. (This also helps to reduce the image size. We'll touch on this shortly.)
 3.  If you want to turn off caching for a particular Docker build, add the `--no-cache=True` flag.
 
-## ### Use Small Docker Base Images
+## Use Small Docker Base Images
 
 _Smaller [[Docker image|Docker images]] are more modular and secure._
 
