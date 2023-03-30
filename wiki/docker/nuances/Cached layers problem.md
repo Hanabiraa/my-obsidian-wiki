@@ -7,6 +7,8 @@ tags:
 
 # Cached layers problem
 
+Detailed explanation in this [[Docker best practices#Minimize the Number of Layers|article part - Minimize the Number of Layers]]
+
 ## When using cached layers
 
 - First case - layer with update is cached
