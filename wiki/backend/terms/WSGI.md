@@ -1,6 +1,6 @@
 ---
 created: [" 02-04-2023 20:57"]
-aliases: []
+aliases: [WSGI, wsgi]
 tags:
 - terms/
 ---

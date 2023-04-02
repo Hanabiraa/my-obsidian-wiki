@@ -3,6 +3,5 @@
 	- [[60 questions about FastAPI]]
 	- [[fastapi]]
 	- [[Migrations with FastAPI + alembic]]
-	- **[[terms]]**
 
 %% End Waypoint %%
