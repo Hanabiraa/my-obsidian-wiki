@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/docker/nuances/Cached layers problem.md",
-                "mode": "preview",
+                "file": "wiki/fastapi/60 questions about FastAPI.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/docker/nuances/Cached layers problem.md",
+                "file": "wiki/fastapi/60 questions about FastAPI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/docker/nuances/Cached layers problem.md",
+                "file": "wiki/fastapi/60 questions about FastAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/docker/nuances/Cached layers problem.md"
+                "file": "wiki/fastapi/60 questions about FastAPI.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,6 +158,15 @@
   },
   "active": "88c649a0c4750f3d",
   "lastOpenFiles": [
+    "wiki/fastapi/Migrations with FastAPI + alembic.md",
+    "wiki/fastapi/terms/WSGI.md",
+    "wiki/fastapi/60 questions about FastAPI.md",
+    "wiki/fastapi/fastapi.md",
+    "wiki/fastapi/terms/ASGI.md",
+    "wiki/fastapi/terms/terms.md",
+    "wiki/fastapi/terms",
+    "wiki/fastapi",
+    "wiki/docker/nuances/Cached layers problem.md",
     "wiki/docker/Docker best practices.md",
     "wiki/docker/docker.md",
     "wiki/docker/terms/Dockerfile.md",
@@ -166,7 +175,6 @@
     "wiki/docker/terms/Docker.md",
     "wiki/docker/nuances/Difference between ADD and COPY.md",
     "wiki/docker/nuances/nuances.md",
-    "wiki/docker/nuances/Cached layers problem.md",
     "wiki/math/terms/Disassortative model.md",
     "wiki/math/terms/Assortative model.md",
     "wiki/math/network science/Stochastic block model.md",
@@ -181,12 +189,6 @@
     "wiki/math/network science/Hubs in networks.md",
     "wiki/math/network science/Erdos-Renyi graph model.md",
     "wiki/math/network science/Complex networks.md",
-    "wiki/math/terms/terms.md",
-    "wiki/math/terms/Node degree.md",
-    "wiki/math/terms/Network.md",
-    "wiki/math/terms/Local clustering coefficient.md",
-    "wiki/math/terms/Incident edge and nodes.md",
-    "wiki/math/terms/Graph diameter.md",
     "wiki/books/SQL",
     "wiki/books/code architecture",
     "wiki/books",
@@ -202,8 +204,6 @@
     "wiki/math/linear algebra",
     "wiki/math/terms",
     "wiki/math/calculus",
-    "wiki/math",
-    "wiki/graph diversities/terms",
     "Untitled.canvas"
   ]
 }

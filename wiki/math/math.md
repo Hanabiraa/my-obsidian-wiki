@@ -2,6 +2,6 @@
 - **[[math]]**
 	- [[math]]
 	- **[[network science]]**
-	- **[[terms]]**
+	- **[[wiki/math/terms/terms]]**
 
 %% End Waypoint %%

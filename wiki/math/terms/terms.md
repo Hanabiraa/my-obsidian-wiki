@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **[[terms]]**
+- **[[wiki/math/terms/terms]]**
 	- [[Assortative model]]
 	- [[average node degree]]
 	- [[Betweenness centrality]]
@@ -15,7 +15,7 @@
 	- [[Local clustering coefficient]]
 	- [[Network]]
 	- [[Node degree]]
-	- [[terms]]
+	- [[wiki/math/terms/terms]]
 	- [[transitivity]]
 
 %% End Waypoint %%

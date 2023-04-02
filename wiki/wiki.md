@@ -2,6 +2,7 @@
 - **[[wiki]]**
 	- **[[books]]**
 	- **[[docker]]**
+	- **[[fastapi]]**
 	- **[[math]]**
 	- [[wiki]]
 

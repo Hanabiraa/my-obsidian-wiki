@@ -6,7 +6,7 @@
 	- [[docker]]
 	- [[Dockerfile exaplanation]]
 	- **[[nuances]]**
-	- **[[terms]]**
+	- **[[wiki/docker/terms/terms]]**
 	- [[What is Docker? (Basics)]]
 
 %% End Waypoint %%
