@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "420b69a737abff94",
+        "id": "0bbf843be3f4cd6e",
         "type": "tabs",
         "children": [
           {
-            "id": "f92c60db2741df49",
+            "id": "79a83c3e1615a67a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/backend/fastapi/60 questions about FastAPI.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/backend/fastapi/60 questions about FastAPI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/backend/fastapi/60 questions about FastAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "wiki/backend/fastapi/60 questions about FastAPI.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,45 +147,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f92c60db2741df49",
+  "active": "79a83c3e1615a67a",
   "lastOpenFiles": [
-    "wiki/backend/terms/WSGI.md",
+    "wiki/backend/backend.md",
+    "wiki/backend/fastapi/fastapi.md",
+    "wiki/backend/fastapi/Migrations with FastAPI + alembic.md",
     "wiki/backend/fastapi/60 questions about FastAPI.md",
+    "wiki/backend/terms/HTTP METHOD PUT.md",
+    "wiki/backend/terms/terms.md",
+    "wiki/backend/terms/WSGI.md",
+    "wiki/docker/docker.md",
+    "wiki/books/books.md",
+    "wiki/wiki.md",
+    "wiki/backend/terms/HTTP METHOD TRACE.md",
+    "wiki/backend/terms/HTTP METHOD POST.md",
     "wiki/backend/terms/HTTP METHOD PATCH.md",
-    "wiki/backend/terms/HTTP METHOD DELETE.md",
-    "assets/files/Pasted image 20230402225215.png",
-    "wiki/backend/terms/HTTP METHOD GET.md",
-    "assets/files/Pasted image 20230402225205.png",
-    "wiki/backend/terms/HTTP METHOD HEAD.md",
-    "assets/files/Pasted image 20230402225155.png",
     "wiki/backend/terms/HTTP METHOD OPTIONS.md",
+    "wiki/backend/terms/HTTP METHOD HEAD.md",
+    "wiki/backend/terms/HTTP METHOD GET.md",
+    "wiki/backend/terms/HTTP METHOD DELETE.md",
+    "wiki/books/SQL/table.md",
+    "wiki/books/SQL/SQL.md",
+    "wiki/books/code architecture/table.md",
+    "wiki/books/code architecture/code architecture.md",
+    "assets/files/Pasted image 20230402225215.png",
+    "assets/files/Pasted image 20230402225205.png",
+    "assets/files/Pasted image 20230402225155.png",
     "assets/files/Pasted image 20230402225138.png",
     "assets/files/Pasted image 20230402225126.png",
-    "wiki/backend/terms/HTTP METHOD POST.md",
     "assets/files/Pasted image 20230402225111.png",
-    "wiki/backend/terms/HTTP METHOD PUT.md",
     "assets/files/Pasted image 20230402225054.png",
-    "wiki/backend/terms/HTTP METHOD TRACE.md",
     "assets/files/Pasted image 20230402225043.png",
     "wiki/backend/terms/ASGI.md",
-    "wiki/backend/fastapi/fastapi.md",
-    "wiki/backend/backend.md",
     "wiki/backend",
     "assets/files/Pasted image 20230402213827.png",
-    "wiki/backend/fastapi/Migrations with FastAPI + alembic.md",
-    "wiki/backend/terms/terms.md",
     "wiki/backend/terms",
     "wiki/backend/fastapi",
     "wiki/docker/nuances/Cached layers problem.md",
     "wiki/docker/Docker best practices.md",
-    "wiki/docker/docker.md",
     "wiki/docker/terms/Dockerfile.md",
     "wiki/docker/terms/Docker Engine.md",
-    "wiki/docker/terms/Docker container.md",
-    "wiki/docker/terms/Docker.md",
-    "wiki/docker/nuances/Difference between ADD and COPY.md",
-    "wiki/docker/nuances/nuances.md",
-    "wiki/math/terms/Disassortative model.md",
     "assets/files/Pasted image 20230328183513.png",
     "wiki/books/SQL",
     "wiki/books/code architecture",

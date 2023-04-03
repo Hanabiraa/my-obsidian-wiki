@@ -82,7 +82,7 @@ This article about tech interview questions on topic `FastAPI`
 	* [[HTTP METHOD PATCH|PATCH]]
 	* [[HTTP METHOD TRACE|TRACE]]
 
-1. Как добавить самый простой ендпоинт в FastAPI?
+8. Как добавить самый простой ендпоинт в FastAPI?
 	
 	```Python
 	from fastapi import FastAPI
@@ -95,7 +95,7 @@ This article about tech interview questions on topic `FastAPI`
 	    return {"message": "Hello World"}
 	```
 
-1. Как добавить ендпоинт в FastAPI с динамическим путем? (т.е. на конце ендпоинта например у нас динамическкая переменная, зависящая например от id чего-нибудь)
+9. Как добавить ендпоинт в FastAPI с динамическим путем? (т.е. на конце ендпоинта например у нас динамическкая переменная, зависящая например от id чего-нибудь)
 
 	```Python
 	from fastapi import FastAPI
@@ -108,13 +108,13 @@ This article about tech interview questions on topic `FastAPI`
 	    return {"item_id": item_id}
 	```
 
-1. Что такое pydantic? зачем он нужен?
+10. Что такое pydantic? зачем он нужен?
 
 	Pydantic -  это библиотека для проверки данных и управление настройками с использованием аннотаций типа Python.
 	
 	Вся проверка данных выполняется Pydantic «под капотом» FastAPI. 
 
-10. Предположим мы хотим иметь ендпоинт и с path-parameter, но хотим задать ограничения на такие параметры. Приведите способ это сделать
+11. Предположим мы хотим иметь ендпоинт и с path-parameter, но хотим задать ограничения на такие параметры. Приведите способ это сделать
 	
 	```Python
 	from enum import Enum
@@ -142,7 +142,7 @@ This article about tech interview questions on topic `FastAPI`
 	    return {"model_name": model_name, "message": "Have some residuals"}
 	```
 
-11. А если хотим тоже самое, но указать как path parameter - путь до файла?
+12. А если хотим тоже самое, но указать как path parameter - путь до файла?
 	
 	Using an option directly from Starlette you can declare a _path parameter_ containing a _path_ using a URL like:
 	
@@ -161,7 +161,7 @@ This article about tech interview questions on topic `FastAPI`
 	    return {"file_path": file_path}
 	```
 
-12. Как создать ендпоинт с определенными полями запроса (Query Parameters)?
+13. Как создать ендпоинт с определенными полями запроса (Query Parameters)?
 
 	```Python
 	from fastapi import FastAPI
@@ -198,7 +198,7 @@ This article about tech interview questions on topic `FastAPI`
 	-   Data validation
 	-   Automatic documentation
 
-13. Как создать ендпоинт с multiple path and query parameters в FastAPI?
+14. Как создать ендпоинт с multiple path and query parameters в FastAPI?
 
 	```Python
 	from fastapi import FastAPI
@@ -220,7 +220,7 @@ This article about tech interview questions on topic `FastAPI`
 	    return item
 	```
 
-14. Как создать ендпоинт с определенным телом запроса? (т.е. запрос должен содержать определенные поля)
+15. Как создать ендпоинт с определенным телом запроса? (т.е. запрос должен содержать определенные поля)
 
 	```Python
 	from fastapi import FastAPI
@@ -253,7 +253,7 @@ This article about tech interview questions on topic `FastAPI`
 	* Generate JSON Schema definitions for your model, you can also use them anywhere else you like if it makes sense for your project.
 	* Those schemas will be part of the generated OpenAPI schema, and used by the automatic documentation UIs.
 
-15. Как создать ендпоинт с body + path + query parameters 
+16. Как создать ендпоинт с body + path + query parameters 
 
 	```Python
 	from fastapi import FastAPI
@@ -284,7 +284,7 @@ This article about tech interview questions on topic `FastAPI`
 	* If the parameter is of a singular type (like int, float, str, bool, etc) it will be interpreted as a query parameter.
 	* If the parameter is declared to be of the type of a Pydantic model, it will be interpreted as a request body.
 
-16. Расскажите о `Query` в FastAPI и почему он полезен как query parameter и string validation?
+17. Расскажите о `Query` в FastAPI и почему он полезен как query parameter и string validation?
 
 	При помощи Query можно задать дополнительную информацию для валидации параметра при реквесте
 
@@ -316,7 +316,7 @@ This article about tech interview questions on topic `FastAPI`
 	async def read_items(q: Annotated[str, Query(min_length=3)] = Required):
 	```
 
-17. Расскажите о `Path` в FastAPI и почему он полезен как path parameter и numeric validation?
+18. Расскажите о `Path` в FastAPI и почему он полезен как path parameter и numeric validation?
 
 	In the same way that you can declare more validations and metadata for query parameters with Query, you can declare the same type of validations and metadata for path parameters with Path.
 
@@ -344,7 +344,7 @@ This article about tech interview questions on topic `FastAPI`
 	    return results
 	```
 
-17. Расскажите о `Body` в FastAPI
+19. Расскажите о `Body` в FastAPI
 
 	Now that we have seen how to use `Path` and `Query`, let's see more advanced uses of request body declarations.
 	
@@ -488,5 +488,235 @@ This article about tech interview questions on topic `FastAPI`
 	}
 	```
 
-18. Продолжить с Body Fields
-https://fastapi.tiangolo.com/tutorial/body-fields/
+20. Допустим мы хотим задекларировать пример реквеста для SwaggerUI. Как это сделать?
+
+	* Первый вариант при помощи **Pydantic** `schema_extra`
+
+	```Python
+	from fastapi import FastAPI
+	from pydantic import BaseModel
+	
+	app = FastAPI()
+	
+	
+	class Item(BaseModel):
+	    name: str
+	    description: str | None = None
+	    price: float
+	    tax: float | None = None
+	
+	    class Config:
+	        schema_extra = {
+	            "example": {
+	                "name": "Foo",
+	                "description": "A very nice Item",
+	                "price": 35.4,
+	                "tax": 3.2,
+	            }
+	        }
+	
+	
+	@app.put("/items/{item_id}")
+	async def update_item(item_id: int, item: Item):
+	    results = {"item_id": item_id, "item": item}
+	    return results
+	```
+
+	* Второй вариант - использовать **Pydantic** `Field` аргументы
+
+	```Python
+	from fastapi import FastAPI
+	from pydantic import BaseModel, Field
+	
+	app = FastAPI()
+	
+	
+	class Item(BaseModel):
+	    name: str = Field(example="Foo")
+	    description: str | None = Field(default=None, example="A very nice Item")
+	    price: float = Field(example=35.4)
+	    tax: float | None = Field(default=None, example=3.2)
+	
+	
+	@app.put("/items/{item_id}")
+	async def update_item(item_id: int, item: Item):
+	    results = {"item_id": item_id, "item": item}
+	    return results
+	```
+
+	* Третий вариант - example and examples переменных следующих функций FastAPI:
+		* Path()
+		* Query()
+		* Header()
+		* Cookie()
+		* Body()
+		* Form()
+		* File()
+		you can also declare a data example or a group of examples with additional information that will be added to OpenAPI.
+
+	```Python
+	from typing import Annotated
+	
+	from fastapi import Body, FastAPI
+	from pydantic import BaseModel
+	
+	app = FastAPI()
+	
+	
+	class Item(BaseModel):
+	    name: str
+	    description: str | None = None
+	    price: float
+	    tax: float | None = None
+	
+	
+	@app.put("/items/{item_id}")
+	async def update_item(
+	    item_id: int,
+	    item: Annotated[
+	        Item,
+	        Body(
+	            example={
+	                "name": "Foo",
+	                "description": "A very nice Item",
+	                "price": 35.4,
+	                "tax": 3.2,
+	            },
+	        ),
+	    ],
+	):
+	    results = {"item_id": item_id, "item": item}
+	    return results
+	```
+
+21. Какие существуют дополнительные типы данных для реквестов и респонсов в FastAPI? (помимо int, float, str, bool)
+
+	-   `UUID`:
+		* A standard "Universally Unique Identifier", common as an ID in many databases and systems.
+		* In requests and responses will be represented as a `str`.
+	-   `datetime.datetime`:
+		*  A Python `datetime.datetime`.
+		* In requests and responses will be represented as a `str` in ISO 8601 format, like: `2008-09-15T15:53:00+05:00`.
+	-   `datetime.date`:
+		*  Python `datetime.date`.
+		*  In requests and responses will be represented as a `str` in ISO 8601 format, like: `2008-09-15`.
+	-   `datetime.time`:
+		* A Python `datetime.time`.
+		* In requests and responses will be represented as a `str` in ISO 8601 format, like: `14:23:55.003`.
+	-   `datetime.timedelta`:
+		* A Python `datetime.timedelta`.
+		* In requests and responses will be represented as a `float` of total seconds.
+		* Pydantic also allows representing it as a "ISO 8601 time diff encoding", [see the docs for more info](https://pydantic-docs.helpmanual.io/usage/exporting_models/#json_encoders).
+	-   `frozenset`:
+		* In requests and responses, treated the same as a `set`:
+			* In requests, a list will be read, eliminating duplicates and converting it to a `set`.
+			* In responses, the `set` will be converted to a `list`.
+			* The generated schema will specify that the `set` values are unique (using JSON Schema's `uniqueItems`).
+	-   `bytes`:
+		* Standard Python `bytes`.
+		* In requests and responses will be treated as `str`.
+		* The generated schema will specify that it's a `str` with `binary` "format".
+	-   `Decimal`:
+		* Standard Python `Decimal`.
+		* In requests and responses, handled the same as a `float`.
+		
+	-   You can check all the valid pydantic data types here: [Pydantic data types](https://pydantic-docs.helpmanual.io/usage/types).
+	
+	Example:
+	
+	```Python
+	from datetime import datetime, time, timedelta
+	from typing import Annotated
+	from uuid import UUID
+	
+	from fastapi import Body, FastAPI
+	
+	app = FastAPI()
+	
+	
+	@app.put("/items/{item_id}")
+	async def read_items(
+	    item_id: UUID,
+	    start_datetime: Annotated[datetime | None, Body()] = None,
+	    end_datetime: Annotated[datetime | None, Body()] = None,
+	    repeat_at: Annotated[time | None, Body()] = None,
+	    process_after: Annotated[timedelta | None, Body()] = None,
+	):
+	    start_process = start_datetime + process_after
+	    duration = end_datetime - start_process
+	    return {
+	        "item_id": item_id,
+	        "start_datetime": start_datetime,
+	        "end_datetime": end_datetime,
+	        "repeat_at": repeat_at,
+	        "process_after": process_after,
+	        "start_process": start_process,
+	        "duration": duration,
+	    }
+	```
+
+
+22. Как установить куки при помощи fastAPI? (иначе говоря Response Coockie)
+
+	* Use a `Response` parameter
+	
+		You can declare a parameter of type Response in your path operation function.	
+		And then you can set cookies in that temporal response object.
+		```Python
+		from fastapi import FastAPI, Response
+		
+		app = FastAPI()
+		
+		
+		@app.post("/cookie-and-object/")
+		def create_cookie(response: Response):
+			response.set_cookie(key="fakesession", value="fake-cookie-session-value")
+			return {"message": "Come to the dark side, we have cookies"}
+		```
+		And then you can return any object you need, as you normally would (a `dict`, a database model, etc).
+		
+		And if you declared a `response_model`, it will still be used to filter and convert the object you returned.
+		
+		FastAPI will use that temporal response to extract the cookies (also headers and status code), and will put them in the final response that contains the value you returned, filtered by any `response_model`.
+		
+		You can also declare the `Response` parameter in dependencies, and set cookies (and headers) in them.
+
+	* Return a `Response` directly
+	
+		You can also create cookies when returning a `Response` directly in your code.
+		
+		To do that, you can create a response as described in Return a Response Directly.
+		
+		Then set Cookies in it, and then return it:
+	
+		```Python
+		from fastapi import FastAPI
+		from fastapi.responses import JSONResponse
+		
+		app = FastAPI()
+		
+		
+		@app.post("/cookie/")
+		def create_cookie():
+		    content = {"message": "Come to the dark side, we have cookies"}
+		    response = JSONResponse(content=content)
+		    response.set_cookie(key="fakesession", value="fake-cookie-session-value")
+		    return response
+		```
+	
+23. Как получить Coockie на сервере FastAPI? (иначе говоря запросить куки с клиента)
+
+	```Python
+	from typing import Annotated
+	
+	from fastapi import Cookie, FastAPI
+	
+	app = FastAPI()
+	
+	
+	@app.get("/items/")
+	async def read_items(ads_id: Annotated[str | None, Cookie()] = None):
+	    return {"ads_id": ads_id}
+	```
+
+

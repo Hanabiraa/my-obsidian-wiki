@@ -1,6 +1,6 @@
 ---
 created: [" 02-04-2023 21:48"]
-aliases: [http options, HTTP OPTIONS, OPTIONS, method OPTIONS]
+aliases: [HTTP OPTIONS, OPTIONS, method OPTIONS]
 tags:
 - terms/
 ---

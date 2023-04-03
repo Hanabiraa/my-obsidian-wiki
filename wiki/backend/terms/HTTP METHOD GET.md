@@ -1,6 +1,6 @@
 ---
 created: [" 02-04-2023 21:40"]
-aliases: [http get, HTTP GET, GET, method GET]
+aliases: [HTTP GET, GET, method GET]
 tags:
 - terms/
 ---

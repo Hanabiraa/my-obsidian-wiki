@@ -1,6 +1,6 @@
 ---
 created: [" 02-04-2023 21:42"]
-aliases: [http post, HTTP POST, POST, method POST]
+aliases: [HTTP POST, POST, method POST]
 tags:
 - terms/
 ---

@@ -1,6 +1,6 @@
 ---
 created: [" 02-04-2023 22:47"]
-aliases: [http patch, HTTP PATCH, PATCH, method PATCH]
+aliases: [HTTP PATCH, PATCH, method PATCH]
 tags:
 - terms/
 ---

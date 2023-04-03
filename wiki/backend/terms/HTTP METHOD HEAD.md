@@ -1,6 +1,6 @@
 ---
 created: [" 02-04-2023 22:45"]
-aliases: [http head, HTTP HEAD, HEAD, method HEAD]
+aliases: [HTTP HEAD, HEAD, method HEAD]
 tags:
 - terms/
 ---

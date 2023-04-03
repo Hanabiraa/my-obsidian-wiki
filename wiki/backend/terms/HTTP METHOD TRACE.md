@@ -1,6 +1,6 @@
 ---
 created: [" 02-04-2023 22:49"]
-aliases: [http trace, HTTP TRACE, TRACE, method TRACE]
+aliases: [HTTP TRACE, TRACE, method TRACE]
 tags:
 - terms/
 ---

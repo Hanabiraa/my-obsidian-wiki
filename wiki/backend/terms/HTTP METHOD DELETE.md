@@ -1,6 +1,6 @@
 ---
 created: [" 02-04-2023 21:45"]
-aliases: [http delete, HTTP DELETE, DELETE, method DELETE]
+aliases: [HTTP DELETE, DELETE, method DELETE]
 tags:
 - terms/
 ---

@@ -8,51 +8,58 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:wiki/docker/terms",
+      "query": "tag:#article/",
       "color": {
         "a": 1,
-        "rgb": 7001692
+        "rgb": 6151156
       }
     },
     {
-      "query": "path:wiki/docker/nuances",
+      "query": "tag:#terms/",
       "color": {
         "a": 1,
-        "rgb": 906713
+        "rgb": 4977060
       }
     },
     {
-      "query": "path:wiki/docker",
+      "query": "tag:#books/",
       "color": {
         "a": 1,
-        "rgb": 98487
+        "rgb": 15237816
       }
     },
     {
-      "query": "path:wiki/math",
+      "query": "section:(wiki)",
       "color": {
         "a": 1,
-        "rgb": 16449791
+        "rgb": 16711680
       }
     },
     {
-      "query": "path:wiki/books",
+      "query": "section:(backend)",
       "color": {
         "a": 1,
-        "rgb": 15044117
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.58020833333333,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 1.42708333333333,
   "collapse-forces": false,
-  "centerStrength": 0.421875,
-  "repelStrength": 20,
-  "linkStrength": 0.796875,
+  "centerStrength": 0,
+  "repelStrength": 15.5208333333333,
+  "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.0936157653217509,
+  "scale": 0.0971607124769812,
   "close": true
 }

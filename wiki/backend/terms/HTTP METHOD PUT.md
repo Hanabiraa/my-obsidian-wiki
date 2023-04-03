@@ -1,6 +1,6 @@
 ---
 created: [" 02-04-2023 21:43"]
-aliases: [http put, HTTP PUT, PUT, method PUT]
+aliases: [HTTP PUT, PUT, method PUT]
 tags:
 - terms/
 ---
