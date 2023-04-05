@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0bbf843be3f4cd6e",
+        "id": "6398f1180bfcfbfc",
         "type": "tabs",
         "children": [
           {
-            "id": "79a83c3e1615a67a",
+            "id": "687d8c7551c362d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "wiki/backend/fastapi/60 questions about FastAPI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/backend/fastapi/60 questions about FastAPI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/backend/fastapi/60 questions about FastAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "wiki/backend/fastapi/60 questions about FastAPI.md"
+              }
             }
           },
           {
@@ -130,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,12 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79a83c3e1615a67a",
+  "active": "687d8c7551c362d3",
   "lastOpenFiles": [
+    "wiki/backend/terms/HTTP METHOD HEAD.md",
+    "wiki/backend/fastapi/60 questions about FastAPI.md",
     "wiki/backend/backend.md",
     "wiki/backend/fastapi/fastapi.md",
     "wiki/backend/fastapi/Migrations with FastAPI + alembic.md",
-    "wiki/backend/fastapi/60 questions about FastAPI.md",
     "wiki/backend/terms/HTTP METHOD PUT.md",
     "wiki/backend/terms/terms.md",
     "wiki/backend/terms/WSGI.md",
@@ -163,7 +173,6 @@
     "wiki/backend/terms/HTTP METHOD POST.md",
     "wiki/backend/terms/HTTP METHOD PATCH.md",
     "wiki/backend/terms/HTTP METHOD OPTIONS.md",
-    "wiki/backend/terms/HTTP METHOD HEAD.md",
     "wiki/backend/terms/HTTP METHOD GET.md",
     "wiki/backend/terms/HTTP METHOD DELETE.md",
     "wiki/books/SQL/table.md",
