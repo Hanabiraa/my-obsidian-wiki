@@ -3,5 +3,6 @@
 	- [[backend]]
 	- **[[fastapi]]**
 	- **[[terms]]**
+	- [[Вопросы с собеса]]
 
 %% End Waypoint %%

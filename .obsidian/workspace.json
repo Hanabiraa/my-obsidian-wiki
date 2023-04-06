@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
+                "file": "wiki/backend/terms/HTTP METHOD POST.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f2709eb002966a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/backend/Вопросы с собеса.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
+                "file": "wiki/backend/Вопросы с собеса.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
+                "file": "wiki/backend/Вопросы с собеса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/backend/fastapi/60 questions about FastAPI (40-60).md"
+                "file": "wiki/backend/Вопросы с собеса.md"
               }
             }
           },
@@ -156,15 +170,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21b978ea596c79a6",
+  "active": "f2709eb002966a08",
   "lastOpenFiles": [
-    "wiki/backend/fastapi/60 questions about FastAPI (1- 40).md",
-    "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
-    "wiki/backend/terms/HTTP METHOD HEAD.md",
+    "wiki/backend/terms/HTTP METHOD POST.md",
+    "wiki/backend/Вопросы с собеса.md",
+    "wiki/backend/terms/HTTP METHOD GET.md",
     "wiki/backend/terms/HTTP METHOD OPTIONS.md",
+    "wiki/backend/terms/HTTP METHOD HEAD.md",
+    "wiki/backend/terms/ASGI.md",
+    "wiki/backend/terms/HTTP METHOD DELETE.md",
+    "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
+    "wiki/backend/fastapi/60 questions about FastAPI (1- 40).md",
     "wiki/backend/terms/HTTP METHOD PATCH.md",
     "wiki/backend/terms/HTTP METHOD TRACE.md",
-    "wiki/backend/terms/HTTP METHOD POST.md",
     "assets/files/Pasted image 20230405204952.png",
     "assets/files/Pasted image 20230405204942.png",
     "assets/files/Pasted image 20230405204923.png",
@@ -184,19 +202,15 @@
     "wiki/docker/docker.md",
     "wiki/books/books.md",
     "wiki/wiki.md",
-    "wiki/backend/terms/HTTP METHOD GET.md",
-    "wiki/backend/terms/HTTP METHOD DELETE.md",
     "wiki/books/SQL/table.md",
     "wiki/books/SQL/SQL.md",
     "wiki/books/code architecture/table.md",
     "wiki/books/code architecture/code architecture.md",
-    "wiki/backend/terms/ASGI.md",
     "wiki/backend",
     "wiki/backend/terms",
     "wiki/backend/fastapi",
     "wiki/docker/nuances/Cached layers problem.md",
     "wiki/docker/Docker best practices.md",
-    "wiki/docker/terms/Dockerfile.md",
     "wiki/books/SQL",
     "wiki/books/code architecture",
     "wiki/books",
