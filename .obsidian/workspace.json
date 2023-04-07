@@ -1,33 +1,28 @@
 {
   "main": {
-    "id": "5ae89fd3af176eeb",
+    "id": "19547ba4ca0ec11f",
     "type": "split",
     "children": [
       {
-        "id": "d31deaabce6df115",
+        "id": "581877df1468e174",
         "type": "tabs",
         "children": [
           {
-            "id": "b1c0ab771902f26b",
+            "id": "3183fa7d2fd07fc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/docker/nuances/Difference between ADD and COPY.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "782a45f90c3f28bd",
+            "id": "4f848dc9c6251fdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/docker/nuances/Difference between CMD and ENTRYPOINT.md",
-                "mode": "preview",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -40,15 +35,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "72f1d060c05971cc",
+    "id": "29b31b9ca2ddbad1",
     "type": "split",
     "children": [
       {
-        "id": "e20ff373a45ffb5c",
+        "id": "df42c44df4df7a79",
         "type": "tabs",
         "children": [
           {
-            "id": "40df559e68d402ca",
+            "id": "bc4c01eca03ceb07",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +53,7 @@
             }
           },
           {
-            "id": "7b3af34039968eff",
+            "id": "187ea9db37c15641",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +68,7 @@
             }
           },
           {
-            "id": "dd9c63b04f36009c",
+            "id": "ed11e12cd55c14a2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -87,44 +82,44 @@
     "width": 300
   },
   "right": {
-    "id": "6e3bcc9afeea27c0",
+    "id": "ef110092ddae6f0f",
     "type": "split",
     "children": [
       {
-        "id": "93063c0b829374ca",
+        "id": "ca4159804bb8815f",
         "type": "tabs",
         "children": [
           {
-            "id": "91857df4b8e1ab97",
+            "id": "c9cd6d86b21adb68",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/docker/nuances/Difference between CMD and ENTRYPOINT.md",
-                "collapseAll": true,
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "698b414cf30f2d95",
+            "id": "d202fad556a46c66",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/docker/nuances/Difference between CMD and ENTRYPOINT.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cf351be79a54c219",
+            "id": "db59195b96af23f1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,89 +130,33 @@
             }
           },
           {
-            "id": "0be8a915844924e4",
+            "id": "1455c3c487cae138",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/docker/nuances/Difference between CMD and ENTRYPOINT.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
-          },
-          {
-            "id": "ba593bc78d359383",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "782a45f90c3f28bd",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "wiki/docker/nuances/Difference between CMD and ENTRYPOINT.md",
-    "assets/files/RedBook_OpenGL.pdf",
-    "README.md",
-    "assets/files/Pasted image 20230328183513.png",
-    "wiki/docker/nuances/nuances.md",
-    "wiki/docker/nuances/Cached layers problem.md",
-    "wiki/docker/nuances/Difference between ADD and COPY.md",
-    "wiki/docker/Docker image explanation.md",
-    "wiki/docker/Docker container explanation.md",
-    "wiki/docker/terms/Docker container.md",
-    "assets/files/Pasted image 20230327230454.png",
-    "assets/files/Pasted image 20230327230249.png",
-    "wiki/docker/Docker best practices.md",
-    "wiki/docker/What is Docker? (Basics).md",
-    "wiki/docker/Dockerfile exaplanation.md",
-    "wiki/docker/terms/Dockerfile.md",
-    "wiki/docker/terms/terms.md",
-    "wiki/docker/terms/dockerd.md",
-    "wiki/docker/terms/Docker image.md",
-    "wiki/docker/terms/Docker.md",
-    "wiki/math/network science/Preferential attachment graph model.md",
-    "wiki/math/network science/Small world graph model.md",
-    "wiki/math/network science/Random graphs.md",
-    "wiki/math/network science/Stochastic block model.md",
-    "wiki/math/network science/Random geometric graph.md",
-    "wiki/math/network science/Phase transition.md",
-    "wiki/math/network science/Power law.md",
-    "wiki/math/terms/Assortative model.md",
-    "wiki/math/terms/Disassortative model.md",
-    "wiki/books/code architecture",
-    "wiki/books/SQL",
-    "wiki/books",
-    "assets/files/Pasted image 20230322005422.png",
-    "assets/files/Pasted image 20230322004906.png",
-    "assets/files/Pasted image 20230322004851.png",
-    "assets/files/Pasted image 20230322004524.png",
-    "assets/files/Pasted image 20230322003723.png",
-    "assets/files/Pasted image 20230322002939.png",
-    "assets/files/Pasted image 20230322002928.png",
-    "wiki/math/network science",
-    "wiki/docker/nuances",
-    "wiki/math/linear algebra",
-    "wiki/math/terms",
-    "wiki/math/calculus",
-    "wiki/math",
-    "Untitled.canvas"
-  ]
+  "active": "4f848dc9c6251fdd",
+  "lastOpenFiles": []
 }
