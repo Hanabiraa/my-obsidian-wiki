@@ -2,7 +2,7 @@
 - **[[backend]]**
 	- [[backend]]
 	- **[[fastapi]]**
-	- **[[terms]]**
+	- **[[wiki/backend/terms/terms]]**
 	- [[Вопросы с собеса]]
 
 %% End Waypoint %%

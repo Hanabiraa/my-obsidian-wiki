@@ -11,17 +11,48 @@
             "id": "3183fa7d2fd07fc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "wiki/ML/ML.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           },
           {
-            "id": "4f848dc9c6251fdd",
+            "id": "1aa3028e3acbe45d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "wiki/ML/diffusion models/diffusion models.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6fa3a24d8f10a339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/ML/diffusion models/Diffusion models basics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7da3b30d33cf25ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/ML/diffusion models/Energy-based models.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -29,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "wiki/ML/diffusion models/Energy-based models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "wiki/ML/diffusion models/Energy-based models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "wiki/ML/diffusion models/Energy-based models.md"
               }
             }
           }
@@ -157,6 +188,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f848dc9c6251fdd",
-  "lastOpenFiles": []
+  "active": "7da3b30d33cf25ac",
+  "lastOpenFiles": [
+    "assets/files/Pasted image 20230407190754.png",
+    "assets/files/Pasted image 20230407190605.png",
+    "assets/files/Pasted image 20230407190530.png",
+    "assets/files/Pasted image 20230407190053.png",
+    "assets/files/Pasted image 20230407185856.png",
+    "assets/files/Pasted image 20230407185357.png",
+    "wiki/ML/terms/Backpropagation.md",
+    "wiki/ML/diffusion models/Energy-based models.md",
+    "assets/files/Pasted image 20230407184426.png",
+    "assets/files/Pasted image 20230407184318.png",
+    "assets/files/Pasted image 20230407184151.png",
+    "assets/files/Pasted image 20230407184021.png",
+    "assets/files/Pasted image 20230407183847.png",
+    "wiki/ML/terms/Maximum likelihood estimation.md",
+    "wiki/ML/diffusion models/Diffusion models basics.md",
+    "wiki/ML/diffusion models/diffusion models.md",
+    "wiki/ML/terms/terms.md",
+    "wiki/ML/terms",
+    "wiki/ML/ML.md",
+    "wiki/wiki.md",
+    "README.md",
+    "wiki/math/math.md",
+    "wiki/ML/diffusion models",
+    "Untitled 1",
+    "wiki/ML",
+    "conflict-files-obsidian-git.md"
+  ]
 }
