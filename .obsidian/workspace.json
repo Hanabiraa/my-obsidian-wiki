@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "581877df1468e174",
+        "id": "e093840e5e87dcde",
         "type": "tabs",
         "children": [
           {
-            "id": "3183fa7d2fd07fc7",
+            "id": "95880e41db134c87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/ML/ML.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1aa3028e3acbe45d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/ML/diffusion models/diffusion models.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6fa3a24d8f10a339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/ML/diffusion models/Diffusion models basics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7da3b30d33cf25ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/ML/diffusion models/Energy-based models.md",
+                "file": "wiki/backend/Вопросы с собеса.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/ML/diffusion models/Energy-based models.md",
+                "file": "wiki/backend/Вопросы с собеса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/ML/diffusion models/Energy-based models.md",
+                "file": "wiki/backend/Вопросы с собеса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/ML/diffusion models/Energy-based models.md"
+                "file": "wiki/backend/Вопросы с собеса.md"
               }
             }
           }
@@ -188,30 +148,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7da3b30d33cf25ac",
+  "active": "95880e41db134c87",
   "lastOpenFiles": [
-    "assets/files/Pasted image 20230407190754.png",
-    "assets/files/Pasted image 20230407190605.png",
-    "assets/files/Pasted image 20230407190530.png",
-    "assets/files/Pasted image 20230407190053.png",
-    "assets/files/Pasted image 20230407185856.png",
-    "assets/files/Pasted image 20230407185357.png",
-    "wiki/ML/terms/Backpropagation.md",
-    "wiki/ML/diffusion models/Energy-based models.md",
-    "assets/files/Pasted image 20230407184426.png",
-    "assets/files/Pasted image 20230407184318.png",
-    "assets/files/Pasted image 20230407184151.png",
-    "assets/files/Pasted image 20230407184021.png",
-    "assets/files/Pasted image 20230407183847.png",
-    "wiki/ML/terms/Maximum likelihood estimation.md",
-    "wiki/ML/diffusion models/Diffusion models basics.md",
     "wiki/ML/diffusion models/diffusion models.md",
     "wiki/ML/terms/terms.md",
-    "wiki/ML/terms",
     "wiki/ML/ML.md",
+    "wiki/math/math.md",
+    "wiki/ML/diffusion models/DDPM.md",
+    "wiki/ML/terms/Backpropagation.md",
+    "wiki/ML/terms/KL- Dvergence.md",
+    "wiki/ML/terms/Skip connection.md",
+    "wiki/ML/terms/Maximum likelihood estimation.md",
+    "wiki/ML/terms/ELBO.md",
+    "wiki/ML/diffusion models/Energy-based models.md",
+    "wiki/ML/diffusion models/Cross-attention and self attention.md",
+    "assets/files/Pasted image 20230409112639.png",
+    "assets/files/Pasted image 20230409112323.png",
+    "assets/files/Pasted image 20230409112216.png",
+    "wiki/ML/diffusion models/Diffusion models basics.md",
+    "assets/files/Pasted image 20230409111844.png",
+    "assets/files/Pasted image 20230409111843.png",
+    "assets/files/Pasted image 20230409111401.png",
+    "assets/files/Pasted image 20230409111339.png",
+    "assets/files/Pasted image 20230409111254.png",
+    "assets/files/Pasted image 20230409111208.png",
+    "assets/files/Pasted image 20230409111119.png",
+    "wiki/ML/diffusion models/Diffusion models math and notation.md",
+    "assets/files/Diffusion models math-2.pdf",
     "wiki/wiki.md",
     "README.md",
-    "wiki/math/math.md",
+    "Диффузионная модель.md",
+    "wiki/ML/terms",
     "wiki/ML/diffusion models",
     "Untitled 1",
     "wiki/ML",

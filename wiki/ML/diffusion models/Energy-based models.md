@@ -139,4 +139,4 @@ Score function нужна для
 ![[Pasted image 20230407190754.png]]
 
 
-\
+## [[DDPM]] - другая модель
