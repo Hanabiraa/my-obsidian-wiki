@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d300859d61041c93",
+        "id": "225e30b465b8f511",
         "type": "tabs",
         "children": [
           {
-            "id": "9cd994f4f8739d34",
+            "id": "4bbdbcf4eeb46d7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/ML/generative models/Cross-attention and self attention.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8b556442eb73021c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/ML/generative models/Variational autoencoder.md",
+                "file": "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/ML/generative models/Variational autoencoder.md",
+                "file": "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/ML/generative models/Variational autoencoder.md",
+                "file": "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/ML/generative models/Variational autoencoder.md"
+                "file": "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md"
               }
             }
           }
@@ -162,12 +148,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b556442eb73021c",
+  "active": "4bbdbcf4eeb46d7b",
   "lastOpenFiles": [
-    "wiki/ML/generative models/Cross-attention and self attention.md",
-    "wiki/ML/generative models/Variational autoencoder.md",
+    "assets/files/Pasted image 20230409134439.png",
+    "assets/files/Pasted image 20230409134102.png",
+    "assets/files/Pasted image 20230409134054.png",
+    "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
+    "wiki/ML/generative models/Flow-based learning.md",
+    "assets/files/Pasted image 20230409133123.png",
+    "assets/files/Pasted image 20230409132941.png",
+    "assets/files/Pasted image 20230409132626.png",
+    "wiki/ML/generative models/Generative adversarial network.md",
+    "wiki/ML/generative models/Generative recursive neural network.md",
+    "assets/files/Pasted image 20230409132159.png",
+    "assets/files/Pasted image 20230409131926.png",
+    "assets/files/Pasted image 20230409131733.png",
     "wiki/ML/generative models/Energy-based models.md",
+    "assets/files/Pasted image 20230409131245.png",
+    "assets/files/Pasted image 20230409125143.png",
+    "wiki/ML/generative models/Variational autoencoder.md",
+    "wiki/ML/generative models/Cross-attention and self attention.md",
     "wiki/ML/generative models/generative models.md",
+    "wiki/ML/terms/ELBO.md",
     "wiki/ML/generative models/Diffusion models.md",
     "wiki/backend/fastapi/60 questions about FastAPI (1- 40).md",
     "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
@@ -184,26 +186,10 @@
     "wiki/ML/terms/KL- Dvergence.md",
     "wiki/ML/terms/Skip connection.md",
     "wiki/ML/terms/Maximum likelihood estimation.md",
-    "wiki/ML/terms/ELBO.md",
-    "assets/files/Pasted image 20230409112639.png",
-    "assets/files/Pasted image 20230409112323.png",
-    "assets/files/Pasted image 20230409112216.png",
-    "assets/files/Pasted image 20230409111844.png",
-    "assets/files/Pasted image 20230409111843.png",
-    "assets/files/Pasted image 20230409111401.png",
-    "assets/files/Pasted image 20230409111339.png",
-    "assets/files/Pasted image 20230409111254.png",
-    "assets/files/Pasted image 20230409111208.png",
-    "assets/files/Pasted image 20230409111119.png",
-    "wiki/ML/generative models/Diffusion models math and notation.md",
     "assets/files/Diffusion models math-2.pdf",
-    "wiki/wiki.md",
-    "README.md",
-    "Диффузионная модель.md",
     "wiki/ML/terms",
     "wiki/ML/generative models",
     "Untitled 1",
-    "wiki/ML",
-    "conflict-files-obsidian-git.md"
+    "wiki/ML"
   ]
 }

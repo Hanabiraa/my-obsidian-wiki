@@ -36,7 +36,7 @@
   "obsidian-git:commit": [
     {
       "modifiers": [
-        "Shift"
+        "Ctrl"
       ],
       "key": "C"
     }
@@ -44,8 +44,8 @@
   "obsidian-git:push2": [
     {
       "modifiers": [
-        "Ctrl",
-        "Shift"
+        "Alt",
+        "Ctrl"
       ],
       "key": "P"
     }
@@ -53,8 +53,7 @@
   "obsidian-git:pull": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Ctrl"
       ],
       "key": "P"
     }

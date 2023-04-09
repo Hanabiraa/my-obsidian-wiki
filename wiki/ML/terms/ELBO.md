@@ -1,6 +1,6 @@
 ---
 created: [" 07-04-2023 23:27"]
-aliases: []
+aliases: [Evidence lower bound, evidence lower bound]
 tags:
 - terms/
 ---
