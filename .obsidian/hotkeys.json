@@ -27,8 +27,8 @@
   "obsidian-git:commit-specified-message": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Ctrl",
+        "Mod"
       ],
       "key": "C"
     }

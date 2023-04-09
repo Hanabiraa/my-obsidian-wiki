@@ -32,9 +32,15 @@ One **solution** for addressing this challenge is to approximate Q(s, a) using a
 * **Some of approximations is DQN (Deep Q-Network)** - it approximates the Q-value function with a non-linear deep convolutional network, which also automatically creates useful features to represent the internal states of the RL, as shown in [[Pasted image 20230409134439.png]]
 * In DQN, the agent interacts with the environment in $i$ discrete iterations, aiming to maximize its long term reward
 * DQN has shown great power in generating sequential objects by taking a series of actions. A sequential object is **generated based on a sequence of actions that are taken**:
-
-
-
+	* During the generation, DQN selects the action at each step using an $\epsilon$-greedy implementation.
+	* With probability $\epsilon$, a random action is selected from the range of possible actions, otherwise the action which results in high Q-value score is selected.
+	* To perform experience replay, the agent’s experiences $e_t = (s_t, a_t, r_t, s_{t+1})$ at each time-step $t$ are stored in a data set $D_t = \{e_1,\dots , e_t\}$
+	* At each iteration $i$ in the learning process, the updates of the learning weights are applied on samples of experience $(s_t, a_t, r_t, s_{t+1}) \sim U (D)$, drawn randomly from the pool of stored samples, with the following loss function:
+		![[Pasted image 20230409135250.png]]
+		where $θ_i$ -   parameters of the Q-network at iteration $i$ 
+		and $θ^{-}_i$ -  parameters used to compute the target at iteration $i$.
+	* The target network parameters $θ^{-}_i$ are only updated with the Q-network parameters $θ_i$ **every several steps** and are **held fixed between individual updates**. 
+	* The process of generating the data after training is similar to that of the training process
 
 
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "225e30b465b8f511",
+        "id": "8d2d22052cb8c69e",
         "type": "tabs",
         "children": [
           {
-            "id": "4bbdbcf4eeb46d7b",
+            "id": "11153746a402b387",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,12 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bbdbcf4eeb46d7b",
+  "active": "11153746a402b387",
   "lastOpenFiles": [
+    "assets/files/Pasted image 20230409135250.png",
+    "wiki/ML/generative models/Variational autoencoder.md",
+    "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
     "assets/files/Pasted image 20230409134439.png",
     "assets/files/Pasted image 20230409134102.png",
     "assets/files/Pasted image 20230409134054.png",
-    "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
     "wiki/ML/generative models/Flow-based learning.md",
     "assets/files/Pasted image 20230409133123.png",
     "assets/files/Pasted image 20230409132941.png",
@@ -165,8 +167,6 @@
     "assets/files/Pasted image 20230409131733.png",
     "wiki/ML/generative models/Energy-based models.md",
     "assets/files/Pasted image 20230409131245.png",
-    "assets/files/Pasted image 20230409125143.png",
-    "wiki/ML/generative models/Variational autoencoder.md",
     "wiki/ML/generative models/Cross-attention and self attention.md",
     "wiki/ML/generative models/generative models.md",
     "wiki/ML/terms/ELBO.md",
