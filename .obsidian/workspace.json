@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e093840e5e87dcde",
+        "id": "d300859d61041c93",
         "type": "tabs",
         "children": [
           {
-            "id": "95880e41db134c87",
+            "id": "9cd994f4f8739d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/backend/Вопросы с собеса.md",
+                "file": "wiki/docker/nuances/Cached layers problem.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/backend/Вопросы с собеса.md",
+                "file": "wiki/docker/nuances/Cached layers problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/backend/Вопросы с собеса.md",
+                "file": "wiki/docker/nuances/Cached layers problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/backend/Вопросы с собеса.md"
+                "file": "wiki/docker/nuances/Cached layers problem.md"
               }
             }
           }
@@ -148,8 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95880e41db134c87",
+  "active": "9cd994f4f8739d34",
   "lastOpenFiles": [
+    "wiki/docker/nuances/nuances.md",
+    "wiki/docker/nuances/Difference between ADD and COPY.md",
+    "wiki/backend/Вопросы с собеса.md",
     "wiki/ML/diffusion models/diffusion models.md",
     "wiki/ML/terms/terms.md",
     "wiki/ML/ML.md",

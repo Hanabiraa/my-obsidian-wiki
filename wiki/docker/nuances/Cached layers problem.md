@@ -15,6 +15,6 @@ Detailed explanation in this [[Docker best practices#Minimize the Number of Laye
 - Second case
 ![[Pasted image 20230327230249.png]]
 
-
-
 ![[Pasted image 20230327230454.png]]
+
+- in the second case, whenever our files are changed, docker will not install each dependencies at each time we build container, and will use cached layer, which improves speed of container building
