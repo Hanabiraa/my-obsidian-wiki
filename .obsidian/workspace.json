@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/docker/nuances/Cached layers problem.md",
+                "file": "wiki/ML/generative models/Cross-attention and self attention.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8b556442eb73021c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/ML/generative models/Variational autoencoder.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/docker/nuances/Cached layers problem.md",
+                "file": "wiki/ML/generative models/Variational autoencoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/docker/nuances/Cached layers problem.md",
+                "file": "wiki/ML/generative models/Variational autoencoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/docker/nuances/Cached layers problem.md"
+                "file": "wiki/ML/generative models/Variational autoencoder.md"
               }
             }
           }
@@ -148,27 +162,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cd994f4f8739d34",
+  "active": "8b556442eb73021c",
   "lastOpenFiles": [
+    "wiki/ML/generative models/Cross-attention and self attention.md",
+    "wiki/ML/generative models/Variational autoencoder.md",
+    "wiki/ML/generative models/Energy-based models.md",
+    "wiki/ML/generative models/generative models.md",
+    "wiki/ML/generative models/Diffusion models.md",
+    "wiki/backend/fastapi/60 questions about FastAPI (1- 40).md",
+    "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
+    "wiki/backend/fastapi/fastapi.md",
+    "wiki/docker/nuances/Cached layers problem.md",
     "wiki/docker/nuances/nuances.md",
     "wiki/docker/nuances/Difference between ADD and COPY.md",
     "wiki/backend/Вопросы с собеса.md",
-    "wiki/ML/diffusion models/diffusion models.md",
     "wiki/ML/terms/terms.md",
     "wiki/ML/ML.md",
     "wiki/math/math.md",
-    "wiki/ML/diffusion models/DDPM.md",
+    "wiki/ML/generative models/DDPM.md",
     "wiki/ML/terms/Backpropagation.md",
     "wiki/ML/terms/KL- Dvergence.md",
     "wiki/ML/terms/Skip connection.md",
     "wiki/ML/terms/Maximum likelihood estimation.md",
     "wiki/ML/terms/ELBO.md",
-    "wiki/ML/diffusion models/Energy-based models.md",
-    "wiki/ML/diffusion models/Cross-attention and self attention.md",
     "assets/files/Pasted image 20230409112639.png",
     "assets/files/Pasted image 20230409112323.png",
     "assets/files/Pasted image 20230409112216.png",
-    "wiki/ML/diffusion models/Diffusion models basics.md",
     "assets/files/Pasted image 20230409111844.png",
     "assets/files/Pasted image 20230409111843.png",
     "assets/files/Pasted image 20230409111401.png",
@@ -176,13 +195,13 @@
     "assets/files/Pasted image 20230409111254.png",
     "assets/files/Pasted image 20230409111208.png",
     "assets/files/Pasted image 20230409111119.png",
-    "wiki/ML/diffusion models/Diffusion models math and notation.md",
+    "wiki/ML/generative models/Diffusion models math and notation.md",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/wiki.md",
     "README.md",
     "Диффузионная модель.md",
     "wiki/ML/terms",
-    "wiki/ML/diffusion models",
+    "wiki/ML/generative models",
     "Untitled 1",
     "wiki/ML",
     "conflict-files-obsidian-git.md"

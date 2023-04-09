@@ -7,7 +7,7 @@ tags:
 
 # DDPM (Denoising diffusion probabilistic model)
 
-## Тоже [[Diffusion models basics|Диффузионная модель]]
+## Тоже [[Diffusion models|Диффузионная модель]]
 
 ## Суть - введем больше уровней, однц цепочку будет проходить одну цепочку (убирая шум или добавляя, смотря в какую сторону идем)
 
