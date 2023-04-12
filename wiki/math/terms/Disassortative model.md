@@ -11,4 +11,4 @@ tags:
 a graph (or network) in which nodes of low [[Node degree]] are more likely to connect with nodes of a high degree
 ## useful links
 [[Assortative model]]
-[[Random graphs]]
+[[Graphs generation]]

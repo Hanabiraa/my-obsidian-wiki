@@ -4,6 +4,7 @@
 	- [[DDPM]]
 	- [[Diffusion models math and notation]]
 	- [[Diffusion models]]
+	- [[Discrete denoising diffusion for graph generation]]
 	- [[Energy-based models]]
 	- [[Flow-based learning]]
 	- [[Generative adversarial network]]

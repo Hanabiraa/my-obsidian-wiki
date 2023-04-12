@@ -4,7 +4,7 @@ tags:
 - article/
 ---
 
-# Random graphs
+# Graphs generation
 
 #### Empirical network features:
 - [[Power law]] [[Degree distribution]]

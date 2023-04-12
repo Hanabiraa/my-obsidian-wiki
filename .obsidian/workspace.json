@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11153746a402b387",
+            "id": "ba9dab216a937986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
+                "file": "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1e880cd3a0a7b3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/math/network science/Graphs generation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
+                "file": "wiki/math/network science/Graphs generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
+                "file": "wiki/math/network science/Graphs generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md"
+                "file": "wiki/math/network science/Graphs generation.md"
               }
             }
           }
@@ -148,11 +162,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11153746a402b387",
+  "active": "1e880cd3a0a7b3bf",
   "lastOpenFiles": [
+    "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
+    "assets/files/Pasted image 20230412173253.png",
+    "assets/files/Pasted image 20230412172811.png",
+    "wiki/math/terms/Graph.md",
+    "wiki/backend/Вопросы с собеса.md",
+    "wiki/backend/terms/WSGI.md",
+    "wiki/backend/terms/terms.md",
+    "wiki/backend/terms/HTTP METHOD TRACE.md",
+    "wiki/backend/terms/HTTP METHOD PUT.md",
+    "wiki/backend/terms/HTTP METHOD POST.md",
+    "wiki/backend/terms/HTTP METHOD PATCH.md",
+    "wiki/backend/terms/HTTP METHOD OPTIONS.md",
+    "wiki/backend/terms/HTTP METHOD HEAD.md",
+    "wiki/backend/terms/HTTP METHOD GET.md",
+    "wiki/backend/terms/HTTP METHOD DELETE.md",
+    "wiki/backend/fastapi/60 questions about FastAPI (1- 40).md",
+    "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
+    "wiki/math/network science/Power law.md",
+    "wiki/math/network science/Preferential attachment graph model.md",
+    "assets/files/Pasted image 20230411005808.png",
+    "wiki/math/network science/Hubs in networks.md",
+    "wiki/math/network science/network science.md",
+    "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
     "assets/files/Pasted image 20230409135250.png",
     "wiki/ML/generative models/Variational autoencoder.md",
-    "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
     "assets/files/Pasted image 20230409134439.png",
     "assets/files/Pasted image 20230409134102.png",
     "assets/files/Pasted image 20230409134054.png",
@@ -162,30 +198,7 @@
     "assets/files/Pasted image 20230409132626.png",
     "wiki/ML/generative models/Generative adversarial network.md",
     "wiki/ML/generative models/Generative recursive neural network.md",
-    "assets/files/Pasted image 20230409132159.png",
-    "assets/files/Pasted image 20230409131926.png",
-    "assets/files/Pasted image 20230409131733.png",
     "wiki/ML/generative models/Energy-based models.md",
-    "assets/files/Pasted image 20230409131245.png",
-    "wiki/ML/generative models/Cross-attention and self attention.md",
-    "wiki/ML/generative models/generative models.md",
-    "wiki/ML/terms/ELBO.md",
-    "wiki/ML/generative models/Diffusion models.md",
-    "wiki/backend/fastapi/60 questions about FastAPI (1- 40).md",
-    "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
-    "wiki/backend/fastapi/fastapi.md",
-    "wiki/docker/nuances/Cached layers problem.md",
-    "wiki/docker/nuances/nuances.md",
-    "wiki/docker/nuances/Difference between ADD and COPY.md",
-    "wiki/backend/Вопросы с собеса.md",
-    "wiki/ML/terms/terms.md",
-    "wiki/ML/ML.md",
-    "wiki/math/math.md",
-    "wiki/ML/generative models/DDPM.md",
-    "wiki/ML/terms/Backpropagation.md",
-    "wiki/ML/terms/KL- Dvergence.md",
-    "wiki/ML/terms/Skip connection.md",
-    "wiki/ML/terms/Maximum likelihood estimation.md",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",

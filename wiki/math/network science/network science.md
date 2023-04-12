@@ -2,6 +2,7 @@
 - **[[network science]]**
 	- [[Complex networks]]
 	- [[Erdos-Renyi graph model]]
+	- [[Graphs generation]]
 	- [[Hubs in networks]]
 	- [[network science]]
 	- [[PageRank]]
@@ -9,7 +10,6 @@
 	- [[Power law]]
 	- [[Preferential attachment graph model]]
 	- [[Random geometric graph]]
-	- [[Random graphs]]
 	- [[Small world graph model]]
 	- [[Stochastic block model]]
 

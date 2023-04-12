@@ -45,8 +45,8 @@ degrees of older nodes will always have higher [[Node degree]] than newr ones
 
 # Non-linear PA
 
-- proportional to soe power
-![[Pasted image 20230321180357.png]]
+- proportional to some power
+![[Pasted image 20230411005808.png]]
 
 
 # Copying model

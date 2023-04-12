@@ -16,4 +16,4 @@ In a social network, for example, **we have assortative mixing if the gregariou
 
 ## useful links
 [[Disassortative model]]
-[[Random graphs]]
+[[Graphs generation]]
