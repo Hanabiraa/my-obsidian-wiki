@@ -14,7 +14,33 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
-                "mode": "preview",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d4e0536c9c45b6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cross-Entropy loss.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5735418377189d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Message-passing neural networks.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -176,19 +202,23 @@
   },
   "active": "ba9dab216a937986",
   "lastOpenFiles": [
+    "assets/files/Pasted image 20230413155133.png",
+    "assets/files/Pasted image 20230413155031.png",
+    "assets/files/Pasted image 20230413153953.png",
+    "assets/files/Pasted image 20230413153650.png",
+    "Cross-Entropy loss.md",
+    "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
+    "assets/files/Pasted image 20230413153405.png",
+    "Message-passing neural networks.md",
     "assets/files/Pasted image 20230413152720.png",
     "assets/files/Pasted image 20230413152614.png",
     "assets/files/Pasted image 20230413152155.png",
     "assets/files/Pasted image 20230413151758.png",
     "assets/files/Pasted image 20230413151740.png",
     "transformer.md",
-    "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
     "wiki/math/network science/Graphs generation.md",
     "wiki/ML/generative models/Challenges on graphs generation.md",
     "assets/files/Pasted image 20230412174420.png",
-    "assets/files/Pasted image 20230412174244.png",
-    "assets/files/Pasted image 20230412173253.png",
-    "assets/files/Pasted image 20230412172811.png",
     "wiki/math/terms/Graph.md",
     "wiki/backend/Вопросы с собеса.md",
     "wiki/backend/terms/WSGI.md",
@@ -205,13 +235,9 @@
     "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
     "wiki/math/network science/Power law.md",
     "wiki/math/network science/Preferential attachment graph model.md",
-    "assets/files/Pasted image 20230411005808.png",
     "wiki/math/network science/Hubs in networks.md",
     "wiki/math/network science/network science.md",
     "wiki/ML/generative models/Reinforcement Learning and Deep Q-Network.md",
-    "assets/files/Pasted image 20230409135250.png",
-    "wiki/ML/generative models/Variational autoencoder.md",
-    "wiki/ML/generative models/Flow-based learning.md",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",

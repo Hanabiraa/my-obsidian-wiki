@@ -66,11 +66,62 @@ tags:
 
 - **need sparse graph - may take many iterations**
 
-#### Improving DiGress
+### Improving DiGress
 
 - start from uniform transition matrix - problem with sparsity
 - choose a noise model that preserves the marginal distribution of node and edge types  at every step $\implies$ probability of jumping from $i$ to $j$ is proportional to marginal distribution of $j$ in the training set
 	![[Pasted image 20230413152614.png]]
 
+- different transition matrix at different $t$
+- $\alpha_t$, $\beta_t$ - cosine scale
+- $m^{`}_X$ and $m^{`}_X$ are computed during training
+
 **result:**
 ![[Pasted image 20230413152720.png]]
+
+### Structural and spectral features
+
+*Problem* - [[Message-passing neural networks]] have limited representation power and cannot detect substructures such as cycles
+*Solutions*
+1. Use more expressive net -> *costly* in practise
+2. Add features that the **network cannot compute by itself**
+	1. Cycle counts
+	2. Spectral features (# 0 eigenvalues, first nonzero eigenvalues, first eigenvalulues)
+
+Computed on noisy graphs as they are discrete
+
+![[Pasted image 20230413153405.png]]
+
+### Algorithm of DiGress
+
+**Training**
+1. Sample graph
+2. Sample timestep
+3. add noise 
+4. Compute structural and spectral features of a noisy graph
+5. Give noisy graph and features to the denoising network
+6. Compute [[Cross-Entropy loss]]
+![[Pasted image 20230413153650.png]]
+
+**Sampling**
+1. Sample number of nodes
+2. Sample random graph
+3. At each iteration
+	1. Compute the features
+	2. Predict the clean graph
+	3. Combine the distributions of edges and nodes of clean graph and samples from them
+4. Sample
+![[Pasted image 20230413153953.png]]
+
+### Evaluation
+- compare properties of generated graphs with graphs from dataset
+	- Validity
+	- Uniqueness
+	- Novelty
+
+### Discrete regression guidance
+![[Pasted image 20230413155031.png]]
+
+#### Sampling with discrete guidance
+![[Pasted image 20230413155133.png]]
+
