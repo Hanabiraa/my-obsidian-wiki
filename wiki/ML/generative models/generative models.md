@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - **[[generative models]]**
+	- [[Challenges on graphs generation]]
 	- [[Cross-attention and self attention]]
 	- [[DDPM]]
 	- [[Diffusion models math and notation]]

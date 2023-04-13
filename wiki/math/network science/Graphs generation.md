@@ -18,8 +18,13 @@ tags:
 - [[Random geometric graph]]
 
 
-## Model comparison
+## Random model comparison
 
 ![[Pasted image 20230321181156.png]]
 
 Some are more suitable for Small-world models
+
+
+## Deep learning metods
+see [[generative models]] volume, [[DDPM]], [[Discrete denoising diffusion for graph generation|Digress]] in particular
+

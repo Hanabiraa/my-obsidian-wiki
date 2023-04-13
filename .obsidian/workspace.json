@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "d22875d7f35f853b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/ML/generative models/Challenges on graphs generation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "1e880cd3a0a7b3bf",
             "type": "leaf",
             "state": {
@@ -33,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/math/network science/Graphs generation.md",
+                "file": "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/math/network science/Graphs generation.md",
+                "file": "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/math/network science/Graphs generation.md"
+                "file": "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md"
               }
             }
           }
@@ -162,9 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e880cd3a0a7b3bf",
+  "active": "ba9dab216a937986",
   "lastOpenFiles": [
+    "assets/files/Pasted image 20230413152155.png",
+    "assets/files/Pasted image 20230413151758.png",
+    "assets/files/Pasted image 20230413151740.png",
+    "transformer.md",
     "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
+    "wiki/math/network science/Graphs generation.md",
+    "wiki/ML/generative models/Challenges on graphs generation.md",
+    "assets/files/Pasted image 20230412174420.png",
+    "assets/files/Pasted image 20230412174244.png",
     "assets/files/Pasted image 20230412173253.png",
     "assets/files/Pasted image 20230412172811.png",
     "wiki/math/terms/Graph.md",
@@ -191,14 +211,7 @@
     "wiki/ML/generative models/Variational autoencoder.md",
     "assets/files/Pasted image 20230409134439.png",
     "assets/files/Pasted image 20230409134102.png",
-    "assets/files/Pasted image 20230409134054.png",
     "wiki/ML/generative models/Flow-based learning.md",
-    "assets/files/Pasted image 20230409133123.png",
-    "assets/files/Pasted image 20230409132941.png",
-    "assets/files/Pasted image 20230409132626.png",
-    "wiki/ML/generative models/Generative adversarial network.md",
-    "wiki/ML/generative models/Generative recursive neural network.md",
-    "wiki/ML/generative models/Energy-based models.md",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",
