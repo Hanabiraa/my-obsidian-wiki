@@ -50,7 +50,7 @@ Link- [Original video](https://www.youtube.com/watch?v=k2saMtP-Fn8)
 ### Denoising network
 
 - want to predict edge features
-- use graph [[transformer]] layers - incorporate info from edges
+- use graph [[Transformer]] layers - incorporate info from edges
 ![[Pasted image 20230413151740.png]]
 
 **transformer layer:**
