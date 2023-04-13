@@ -7,6 +7,8 @@ tags:
 
 # Discrete denoising diffusion for [[Graph]] generation
 
+Link- [Original video](https://www.youtube.com/watch?v=k2saMtP-Fn8)
+
 ## [[DDPM|Denoising diffusion probabilistic model]] - refreshing
 
 - Noise model -> Denoising network
@@ -71,6 +73,7 @@ tags:
 - start from uniform transition matrix - problem with sparsity
 - choose a noise model that preserves the marginal distribution of node and edge types  at every step $\implies$ probability of jumping from $i$ to $j$ is proportional to marginal distribution of $j$ in the training set
 	![[Pasted image 20230413152614.png]]
+	(*e.g.: suppose in the training set we have graphs with 0.8 sparsity, 0.1 edges are type $a$, 0.1 edges are type $b$ $\implies$ probability of jumping from any state to no-edge is 8 times bigger then prob of jumping from any state to type $a$ of edge*)
 
 - different transition matrix at different $t$
 - $\alpha_t$, $\beta_t$ - cosine scale
