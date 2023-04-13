@@ -42,6 +42,10 @@ Link- [Original video](https://www.youtube.com/watch?v=k2saMtP-Fn8)
 
 ![[Pasted image 20230412174244.png]]
 
+
+![[Pasted image 20230413162851.png]]
+
+
 #### Sampling
 - start from random graph - prior distribution that we start from should be the limit distribution of our noise
 - number of nodes doesn't change
@@ -127,4 +131,3 @@ Computed on noisy graphs as they are discrete
 
 #### Sampling with discrete guidance
 ![[Pasted image 20230413155133.png]]
-

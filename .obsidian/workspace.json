@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba9dab216a937986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/docker/Docker best practices.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d4e0536c9c45b6af",
             "type": "leaf",
             "state": {
@@ -65,14 +52,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/math/network science/Graphs generation.md",
+                "file": "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "11051c7c70393cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4540d2619b1d9e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/math/analytical geometry/Прямая на плоскости.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/docker/Docker best practices.md",
+                "file": "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/docker/Docker best practices.md",
+                "file": "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/docker/Docker best practices.md"
+                "file": "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md"
               }
             }
           }
@@ -200,15 +214,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba9dab216a937986",
+  "active": "11051c7c70393cd0",
   "lastOpenFiles": [
+    "wiki/math/analytical geometry/Прямая на плоскости.md",
+    "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
+    "wiki/ML/generative models/Challenges on graphs generation.md",
+    "wiki/math/analytical geometry/analytical geometry.md",
     "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
+    "assets/files/Pasted image 20230413162851.png",
+    "wiki/math/network science/Graphs generation.md",
+    "Message-passing neural networks.md",
     "Cross-Entropy loss.md",
+    "wiki/docker/Docker best practices.md",
     "wiki/math/analytical geometry",
     "wiki/math/math.md",
     "wiki/math/network science/Complex networks.md",
     "wiki/ML/ML.md",
-    "Message-passing neural networks.md",
     "Transformer.md",
     "assets/files/Pasted image 20230413155133.png",
     "assets/files/Pasted image 20230413155031.png",
@@ -219,9 +240,6 @@
     "assets/files/Pasted image 20230413152614.png",
     "assets/files/Pasted image 20230413152155.png",
     "assets/files/Pasted image 20230413151758.png",
-    "assets/files/Pasted image 20230413151740.png",
-    "wiki/math/network science/Graphs generation.md",
-    "wiki/ML/generative models/Challenges on graphs generation.md",
     "wiki/math/terms/Graph.md",
     "wiki/backend/Вопросы с собеса.md",
     "wiki/backend/terms/WSGI.md",
@@ -235,9 +253,6 @@
     "wiki/backend/terms/HTTP METHOD GET.md",
     "wiki/backend/terms/HTTP METHOD DELETE.md",
     "wiki/backend/fastapi/60 questions about FastAPI (1- 40).md",
-    "wiki/backend/fastapi/60 questions about FastAPI (40-60).md",
-    "wiki/math/network science/Power law.md",
-    "wiki/math/network science/Preferential attachment graph model.md",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",

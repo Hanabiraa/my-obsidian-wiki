@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **[[math]]**
-	- **analytical geometry**
+	- **[[analytical geometry]]**
 	- **calculus**
 	- **linear algebra**
 	- [[math]]
