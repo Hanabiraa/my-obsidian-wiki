@@ -68,4 +68,9 @@ tags:
 
 #### Improving DiGress
 
-- choose a noise model that preservse the marginal distribution of node and edge types
+- start from uniform transition matrix - problem with sparsity
+- choose a noise model that preserves the marginal distribution of node and edge types  at every step $\implies$ probability of jumping from $i$ to $j$ is proportional to marginal distribution of $j$ in the training set
+	![[Pasted image 20230413152614.png]]
+
+**result:**
+![[Pasted image 20230413152720.png]]
