@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
+                "file": "wiki/math/analytical geometry/Уравнение плоскости.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -66,7 +66,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -214,13 +210,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11051c7c70393cd0",
+  "active": "bc4c01eca03ceb07",
   "lastOpenFiles": [
-    "wiki/math/analytical geometry/Прямая на плоскости.md",
+    "wiki/cryptocurrency",
+    "README.md",
+    "wiki/Untitled.md",
+    "wiki/math/analytical geometry/Уравнение плоскости.md",
+    "assets/files/Pasted image 20230413194413.png",
+    "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
     "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
+    "wiki/math/analytical geometry/Прямая на плоскости.md",
+    "wiki/docker/terms/Docker container.md",
+    "assets/files/Pasted image 20230413192608.png",
     "wiki/ML/generative models/Challenges on graphs generation.md",
     "wiki/math/analytical geometry/analytical geometry.md",
-    "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
     "assets/files/Pasted image 20230413162851.png",
     "wiki/math/network science/Graphs generation.md",
     "Message-passing neural networks.md",
@@ -238,8 +241,6 @@
     "assets/files/Pasted image 20230413153405.png",
     "assets/files/Pasted image 20230413152720.png",
     "assets/files/Pasted image 20230413152614.png",
-    "assets/files/Pasted image 20230413152155.png",
-    "assets/files/Pasted image 20230413151758.png",
     "wiki/math/terms/Graph.md",
     "wiki/backend/Вопросы с собеса.md",
     "wiki/backend/terms/WSGI.md",
@@ -248,11 +249,6 @@
     "wiki/backend/terms/HTTP METHOD PUT.md",
     "wiki/backend/terms/HTTP METHOD POST.md",
     "wiki/backend/terms/HTTP METHOD PATCH.md",
-    "wiki/backend/terms/HTTP METHOD OPTIONS.md",
-    "wiki/backend/terms/HTTP METHOD HEAD.md",
-    "wiki/backend/terms/HTTP METHOD GET.md",
-    "wiki/backend/terms/HTTP METHOD DELETE.md",
-    "wiki/backend/fastapi/60 questions about FastAPI (1- 40).md",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",
