@@ -52,15 +52,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/cryptocurrency/terms/Leverage.md",
+                "file": "wiki/math/analytical geometry/Прямая на плоскости.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "61637ac5ecf25c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "0c86dd3af542359d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/cryptocurrency/terms/Leverage.md",
+                "file": "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/cryptocurrency/terms/Leverage.md",
+                "file": "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/cryptocurrency/terms/Leverage.md"
+                "file": "wiki/math/analytical geometry/Уравнения прямой в пространстве.md"
               }
             }
           }
@@ -188,18 +209,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4439556e335403e9",
+  "active": "61637ac5ecf25c8b",
   "lastOpenFiles": [
+    "wiki/math/analytical geometry/Прямая на плоскости.md",
+    "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
+    "wiki/math/analytical geometry/Плоскость в пространстве.md",
     "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
+    "wiki/cryptocurrency/Farming.md",
+    "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
     "wiki/cryptocurrency/terms/Leverage.md",
     "wiki/cryptocurrency/terms/AirDrop.md",
-    "wiki/cryptocurrency/Farming.md",
     "wiki/cryptocurrency/Pooling.md",
-    "wiki/math/analytical geometry/Уравнение плоскости.md",
     "Message-passing neural networks.md",
     "Cross-Entropy loss.md",
-    "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
-    "wiki/math/analytical geometry/Прямая на плоскости.md",
     "wiki/cryptocurrency/terms/Блокчейн.md",
     "wiki/ML/generative models/Challenges on graphs generation.md",
     "wiki/cryptocurrency/terms/terms.md",
@@ -228,7 +250,6 @@
     "assets/files/Pasted image 20230413153405.png",
     "assets/files/Pasted image 20230413152720.png",
     "assets/files/Pasted image 20230413152614.png",
-    "wiki/math/terms/Graph.md",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",
