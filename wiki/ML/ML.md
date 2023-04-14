@@ -8,6 +8,6 @@
 		- [[generative models]]
 		- [[Energy-based models]]
 	- [[ML]]
-	- **[[terms]]**
+	- **[[wiki/ML/terms/terms]]**
 
 %% End Waypoint %%

@@ -2,7 +2,7 @@
 - **[[wiki]]**
 	- **[[backend]]**
 	- **[[books]]**
-	- **cryptocurrency**
+	- **[[cryptocurrency]]**
 	- **[[docker]]**
 	- **[[math]]**
 	- **[[ML]]**

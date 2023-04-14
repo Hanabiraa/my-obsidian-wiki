@@ -60,6 +60,32 @@
             }
           },
           {
+            "id": "a6b4ba15208a7812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/cryptocurrency/terms/terms.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ba85e40aa0722ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/cryptocurrency/cryptocurrency.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "11051c7c70393cd0",
             "type": "leaf",
             "state": {
@@ -86,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/cryptocurrency/cryptocurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/cryptocurrency/cryptocurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "wiki/cryptocurrency/cryptocurrency.md"
+              }
             }
           }
         ]
@@ -210,11 +240,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc4c01eca03ceb07",
+  "active": "3ba85e40aa0722ad",
   "lastOpenFiles": [
+    "wiki/cryptocurrency/terms/terms.md",
+    "wiki/cryptocurrency/cryptocurrency.md",
+    "wiki/Untitled.md",
+    "wiki/cryptocurrency/terms",
     "wiki/cryptocurrency",
     "README.md",
-    "wiki/Untitled.md",
     "wiki/math/analytical geometry/Уравнение плоскости.md",
     "assets/files/Pasted image 20230413194413.png",
     "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
@@ -248,7 +281,6 @@
     "wiki/backend/terms/HTTP METHOD TRACE.md",
     "wiki/backend/terms/HTTP METHOD PUT.md",
     "wiki/backend/terms/HTTP METHOD POST.md",
-    "wiki/backend/terms/HTTP METHOD PATCH.md",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",
