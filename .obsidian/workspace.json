@@ -78,7 +78,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/cryptocurrency/cryptocurrency.md",
+                "file": "wiki/cryptocurrency/terms/terms.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e6814c03ecbc5bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/cryptocurrency/terms/Блокчейн.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/cryptocurrency/cryptocurrency.md",
+                "file": "wiki/cryptocurrency/terms/Блокчейн.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/cryptocurrency/cryptocurrency.md",
+                "file": "wiki/cryptocurrency/terms/Блокчейн.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/cryptocurrency/cryptocurrency.md"
+                "file": "wiki/cryptocurrency/terms/Блокчейн.md"
               }
             }
           }
@@ -240,9 +253,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba85e40aa0722ad",
+  "active": "e6814c03ecbc5bf8",
   "lastOpenFiles": [
     "wiki/cryptocurrency/terms/terms.md",
+    "wiki/cryptocurrency/terms/Блокчейн.md",
     "wiki/cryptocurrency/cryptocurrency.md",
     "wiki/Untitled.md",
     "wiki/cryptocurrency/terms",
@@ -280,7 +294,6 @@
     "wiki/backend/terms/terms.md",
     "wiki/backend/terms/HTTP METHOD TRACE.md",
     "wiki/backend/terms/HTTP METHOD PUT.md",
-    "wiki/backend/terms/HTTP METHOD POST.md",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",
