@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **[[analytical geometry]]**
 	- [[analytical geometry]]
+	- [[Untitled]]
 	- [[Плоскость в пространстве]]
 	- [[Простейшие задачи с прямой на плоскости]]
 	- [[Прямая на плоскости]]

@@ -73,6 +73,19 @@
             }
           },
           {
+            "id": "f2d05bfc0cb49463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/math/analytical geometry/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "0c86dd3af542359d",
             "type": "leaf",
             "state": {
@@ -81,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
+                "file": "wiki/math/analytical geometry/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
+                "file": "wiki/math/analytical geometry/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/math/analytical geometry/Уравнения прямой в пространстве.md"
+                "file": "wiki/math/analytical geometry/Untitled.md"
               }
             }
           }
@@ -209,10 +222,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61637ac5ecf25c8b",
+  "active": "f2d05bfc0cb49463",
   "lastOpenFiles": [
-    "wiki/math/analytical geometry/Прямая на плоскости.md",
     "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
+    "wiki/math/analytical geometry/Untitled.md",
+    "wiki/math/analytical geometry/Прямая на плоскости.md",
     "wiki/math/analytical geometry/Плоскость в пространстве.md",
     "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
     "wiki/cryptocurrency/Farming.md",
@@ -242,7 +256,6 @@
     "wiki/math/math.md",
     "wiki/math/network science/Complex networks.md",
     "wiki/ML/ML.md",
-    "Transformer.md",
     "assets/files/Pasted image 20230413155133.png",
     "assets/files/Pasted image 20230413155031.png",
     "assets/files/Pasted image 20230413153953.png",
