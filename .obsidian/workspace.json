@@ -86,6 +86,19 @@
             }
           },
           {
+            "id": "283d0a3799cdcfa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "0c86dd3af542359d",
             "type": "leaf",
             "state": {
@@ -94,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
+                "file": "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
+                "file": "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md"
+                "file": "wiki/math/analytical geometry/Задачи с прямой в пространстве.md"
               }
             }
           }
@@ -222,11 +235,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2d05bfc0cb49463",
+  "active": "283d0a3799cdcfa8",
   "lastOpenFiles": [
+    "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
+    "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
     "assets/files/Pasted image 20230415201900.png",
     "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
-    "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
     "wiki/math/analytical geometry/Прямая на плоскости.md",
     "wiki/math/analytical geometry/Плоскость в пространстве.md",
     "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
@@ -262,7 +276,6 @@
     "assets/files/Pasted image 20230413153650.png",
     "assets/files/Pasted image 20230413153405.png",
     "assets/files/Pasted image 20230413152720.png",
-    "assets/files/Pasted image 20230413152614.png",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",
