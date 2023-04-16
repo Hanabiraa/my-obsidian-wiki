@@ -3,6 +3,7 @@ created: [" 12-04-2023 17:24"]
 aliases: [Digress, discrete diffusion, Discrete diffusion]
 tags:
 - article/
+- graph_generation
 ---
 
 # Discrete denoising diffusion for [[Graph]] generation

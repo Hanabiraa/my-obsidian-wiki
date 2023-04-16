@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18eaac2ea5a6e09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/cryptocurrency/Farming.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "213860309e345d8e",
             "type": "leaf",
             "state": {
@@ -28,19 +15,6 @@
               "state": {
                 "file": "wiki/cryptocurrency/Farming.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9816dd8f8aa749da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,28 +60,20 @@
             }
           },
           {
-            "id": "283d0a3799cdcfa8",
+            "id": "489bf28605495ed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
+                "file": "wiki/ML/generative models/SPECTRE graph generation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "0c86dd3af542359d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ef110092ddae6f0f",
@@ -173,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
+                "file": "wiki/ML/generative models/SPECTRE graph generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
+                "file": "wiki/ML/generative models/SPECTRE graph generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/math/analytical geometry/Задачи с прямой в пространстве.md"
+                "file": "wiki/ML/generative models/SPECTRE graph generation.md"
               }
             }
           }
@@ -235,16 +202,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "283d0a3799cdcfa8",
+  "active": "489bf28605495ed0",
   "lastOpenFiles": [
+    "assets/files/Pasted image 20230416162157.png",
+    "wiki/math/analytical geometry/Прямая на плоскости.md",
     "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
+    "wiki/ML/generative models/SPECTRE graph generation.md",
+    "wiki/ML/generative models/Generative adversarial network.md",
+    "wiki/math/network science/Graphs generation.md",
+    "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
+    "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
+    "wiki/cryptocurrency/Farming.md",
     "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
     "assets/files/Pasted image 20230415201900.png",
-    "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
-    "wiki/math/analytical geometry/Прямая на плоскости.md",
     "wiki/math/analytical geometry/Плоскость в пространстве.md",
-    "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
-    "wiki/cryptocurrency/Farming.md",
     "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
     "wiki/cryptocurrency/terms/Leverage.md",
     "wiki/cryptocurrency/terms/AirDrop.md",
@@ -265,11 +236,7 @@
     "assets/files/Pasted image 20230413192608.png",
     "wiki/math/analytical geometry/analytical geometry.md",
     "assets/files/Pasted image 20230413162851.png",
-    "wiki/math/network science/Graphs generation.md",
-    "wiki/docker/Docker best practices.md",
     "wiki/math/analytical geometry",
-    "wiki/math/math.md",
-    "wiki/math/network science/Complex networks.md",
     "assets/files/Pasted image 20230413155133.png",
     "assets/files/Pasted image 20230413155031.png",
     "assets/files/Pasted image 20230413153953.png",

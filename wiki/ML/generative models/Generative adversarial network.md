@@ -1,6 +1,6 @@
 ---
 created: [" 09-04-2023 12:50"]
-aliases: []
+aliases: [GAN]
 tags:
 - article/
 ---

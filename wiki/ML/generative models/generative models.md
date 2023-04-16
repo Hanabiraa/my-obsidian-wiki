@@ -12,6 +12,7 @@
 	- [[generative models]]
 	- [[Generative recursive neural network]]
 	- [[Reinforcement Learning and Deep Q-Network]]
+	- [[SPECTRE graph generation]]
 	- [[Variational autoencoder]]
 
 %% End Waypoint %%
