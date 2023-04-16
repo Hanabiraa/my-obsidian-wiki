@@ -14,7 +14,30 @@ tags:
 - generate only small graphs
 
 ## Take inspiration from spectral graph theory
-**Idea:** generate top-k eigenvectors/values first and use them to **condition the graph generation**
+**Idea:** generate top-k eigenvectors/values of **normalised laplacian** first and use them to **condition the graph generation**
 
 ![[Pasted image 20230416162157.png]]
 
+### Work of [[GAN]] inside
+![[Pasted image 20230416162751.png]]
+
+- $k$ is the number of top k eigenvalues and eigenvectors pairs, $n$ is the number of nodes
+- 3 different generators and estimators
+	- A - Adjacency generation
+	- $\lambda$ - eigenvalues generation
+	- $U$ - eigenvectors generation
+
+- Sets are samples from normal distribution
+- *normalise to the unit length the inputs of MLP*
+- eigenvectors are orthogonal
+
+
+#### $g_U$ - eigenvector generator
+![[Pasted image 20230416165426.png]]
+
+top k eigenvectors lie on some manifold (*Stiefel manifold*)
+
+![[Pasted image 20230416165622.png]]
+- generate rotation matrices
+- apply to some vectors which could be possibly eigenvectors ti improve
+- ==> move across this Stiefel manifold by multiplying on rotation matrices
