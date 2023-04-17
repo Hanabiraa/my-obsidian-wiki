@@ -19,7 +19,7 @@ tags:
 ![[Pasted image 20230416162157.png]]
 
 ### Work of [[GAN]] inside
-![[Pasted image 20230416162751.png]]
+![[Pasted image 20230417184212.png]]
 
 - $k$ is the number of top k eigenvalues and eigenvectors pairs, $n$ is the number of nodes
 - 3 different generators and estimators
@@ -41,3 +41,9 @@ top k eigenvectors lie on some manifold (*Stiefel manifold*)
 - generate rotation matrices
 - apply to some vectors which could be possibly eigenvectors ti improve
 - ==> move across this Stiefel manifold by multiplying on rotation matrices
+- 3 layers don't share weights
+
+### Dealing with cospectral graphs - nothing explicit
+
+### Problem to check whether $U^{(k)}$ can produce graph or not
+

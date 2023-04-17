@@ -66,7 +66,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/ML/generative models/SPECTRE graph generation.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -204,6 +204,7 @@
   },
   "active": "489bf28605495ed0",
   "lastOpenFiles": [
+    "assets/files/Pasted image 20230417184212.png",
     "assets/files/Pasted image 20230416165622.png",
     "assets/files/Pasted image 20230416165426.png",
     "assets/files/Pasted image 20230416162751.png",
@@ -242,7 +243,6 @@
     "wiki/math/analytical geometry",
     "assets/files/Pasted image 20230413155133.png",
     "assets/files/Pasted image 20230413155031.png",
-    "assets/files/Pasted image 20230413153953.png",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",
