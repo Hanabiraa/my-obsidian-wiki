@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5346de6f96cc6a7d",
+        "id": "9330965651ab183b",
         "type": "tabs",
         "children": [
           {
-            "id": "213860309e345d8e",
+            "id": "cca71b435657a2e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/cryptocurrency/Farming.md",
+                "file": "wiki/soft-skills/terms/terms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "4439556e335403e9",
+            "id": "746a5f9f6f43aa03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/math/analytical geometry/Прямая на плоскости.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "61637ac5ecf25c8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
+                "file": "wiki/soft-skills/terms/SCRUM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,12 +34,12 @@
             }
           },
           {
-            "id": "f2d05bfc0cb49463",
+            "id": "375727cbbab49bb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
+                "file": "wiki/soft-skills/terms/Product Owner.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -60,20 +47,20 @@
             }
           },
           {
-            "id": "489bf28605495ed0",
+            "id": "bb1e47169329c24a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/ML/generative models/SPECTRE graph generation.md",
-                "mode": "preview",
+                "file": "wiki/soft-skills/terms/Scrum Team.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ef110092ddae6f0f",
@@ -140,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/ML/generative models/SPECTRE graph generation.md",
+                "file": "wiki/soft-skills/terms/Scrum Team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +143,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/ML/generative models/SPECTRE graph generation.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "wiki/soft-skills/terms/Scrum Team.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -180,43 +166,52 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/ML/generative models/SPECTRE graph generation.md"
+                "file": "wiki/soft-skills/terms/Scrum Team.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "489bf28605495ed0",
+  "active": "bb1e47169329c24a",
   "lastOpenFiles": [
+    "wiki/soft-skills/terms/Product Owner.md",
+    "wiki/soft-skills/terms/Scrum Team.md",
+    "wiki/soft-skills/terms/terms.md",
+    "wiki/soft-skills/terms/SCRUM.md",
+    "wiki/soft-skills/soft-skills.md",
+    "wiki/soft-skills/terms",
+    "wiki/wiki.md",
+    "wiki/Untitled.md",
+    "wiki/soft-skills",
+    "wiki/cryptocurrency/Farming.md",
+    "wiki/ML/generative models/SPECTRE graph generation.md",
+    "wiki/math/analytical geometry/Прямая на плоскости.md",
     "assets/files/Pasted image 20230417184212.png",
     "assets/files/Pasted image 20230416165622.png",
     "assets/files/Pasted image 20230416165426.png",
     "assets/files/Pasted image 20230416162751.png",
     "assets/files/Pasted image 20230416162157.png",
-    "wiki/math/analytical geometry/Прямая на плоскости.md",
     "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
-    "wiki/ML/generative models/SPECTRE graph generation.md",
     "wiki/ML/generative models/Generative adversarial network.md",
     "wiki/math/network science/Graphs generation.md",
     "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
     "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
-    "wiki/cryptocurrency/Farming.md",
     "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
     "assets/files/Pasted image 20230415201900.png",
     "wiki/math/analytical geometry/Плоскость в пространстве.md",
@@ -229,20 +224,13 @@
     "wiki/cryptocurrency/terms/Блокчейн.md",
     "wiki/ML/generative models/Challenges on graphs generation.md",
     "wiki/cryptocurrency/terms/terms.md",
-    "wiki/cryptocurrency/cryptocurrency.md",
-    "wiki/cryptocurrency/terms/Смарт-контракт.md",
-    "wiki/Untitled.md",
     "wiki/cryptocurrency/terms",
     "wiki/cryptocurrency",
-    "README.md",
     "assets/files/Pasted image 20230413194413.png",
-    "wiki/docker/terms/Docker container.md",
     "assets/files/Pasted image 20230413192608.png",
-    "wiki/math/analytical geometry/analytical geometry.md",
     "assets/files/Pasted image 20230413162851.png",
     "wiki/math/analytical geometry",
     "assets/files/Pasted image 20230413155133.png",
-    "assets/files/Pasted image 20230413155031.png",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",

@@ -3,6 +3,6 @@
 	- [[cryptocurrency]]
 	- [[Farming]]
 	- [[Pooling]]
-	- **[[terms]]**
+	- **[[wiki/cryptocurrency/terms/terms]]**
 
 %% End Waypoint %%
