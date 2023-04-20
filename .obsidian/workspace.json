@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9330965651ab183b",
+        "id": "5fac6defb255dfd9",
         "type": "tabs",
         "children": [
           {
-            "id": "cca71b435657a2e8",
+            "id": "b797bf4667d2c45b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/soft-skills/terms/terms.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "746a5f9f6f43aa03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/soft-skills/terms/SCRUM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "375727cbbab49bb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/soft-skills/terms/Product Owner.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bb1e47169329c24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/soft-skills/terms/Scrum Team.md",
+                "file": "wiki/soft-skills/scrum/Scrum простыми словами.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/soft-skills/terms/Scrum Team.md",
+                "file": "wiki/soft-skills/scrum/Scrum простыми словами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/soft-skills/terms/Scrum Team.md",
+                "file": "wiki/soft-skills/scrum/Scrum простыми словами.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/soft-skills/terms/Scrum Team.md"
+                "file": "wiki/soft-skills/scrum/Scrum простыми словами.md"
               }
             }
           }
@@ -188,53 +148,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb1e47169329c24a",
+  "active": "b797bf4667d2c45b",
   "lastOpenFiles": [
-    "wiki/soft-skills/terms/Product Owner.md",
-    "wiki/soft-skills/terms/Scrum Team.md",
-    "wiki/soft-skills/terms/terms.md",
-    "wiki/soft-skills/terms/SCRUM.md",
-    "wiki/soft-skills/soft-skills.md",
+    "wiki/soft-skills/scrum/Жизненный цикл Scrum.md",
+    "wiki/soft-skills/scrum/terms/Sprint Review.md",
+    "wiki/soft-skills/scrum/Scrum простыми словами.md",
+    "wiki/soft-skills/scrum/terms/Epic.md",
+    "wiki/soft-skills/scrum/terms/Definition of Done (DoD).md",
+    "wiki/soft-skills/scrum/terms/Burnup Chart.md",
+    "wiki/soft-skills/scrum/terms/Burndown Chart.md",
+    "wiki/soft-skills/scrum/terms/Sprint Goal.md",
+    "wiki/soft-skills/scrum/terms/Product Backlog.md",
+    "wiki/soft-skills/scrum/terms/Scrum Master.md",
+    "wiki/soft-skills/scrum/terms/Development Team.md",
+    "wiki/soft-skills/scrum/terms/Product Owner.md",
+    "wiki/soft-skills/scrum/terms/Scrum Team.md",
+    "wiki/soft-skills/scrum/terms/Velocity.md",
+    "wiki/soft-skills/scrum/terms/User Story.md",
+    "wiki/soft-skills/scrum/terms/terms.md",
+    "wiki/soft-skills/scrum/terms/Task.md",
+    "wiki/soft-skills/scrum/terms/Story Points.md",
+    "wiki/soft-skills/scrum/terms/Stakeholders.md",
+    "wiki/soft-skills/scrum/terms/Sprint Retrospective Meeting.md",
+    "wiki/soft-skills/scrum/terms/Sprint Planning Meeting.md",
+    "wiki/soft-skills/scrum/terms/Sprint.md",
+    "wiki/soft-skills/scrum/terms/Scrum Poker.md",
+    "wiki/soft-skills/scrum/terms/Daily Scrum Meeting.md",
+    "wiki/soft-skills/scrum/terms/Abnormal Termination.md",
+    "assets/files/Pasted image 20230420133048.png",
+    "assets/files/Pasted image 20230420132456.png",
+    "wiki/soft-skills/terms/Scrum.md",
+    "wiki/soft-skills/scrum/terms",
+    "wiki/soft-skills/scrum",
     "wiki/soft-skills/terms",
-    "wiki/wiki.md",
-    "wiki/Untitled.md",
     "wiki/soft-skills",
-    "wiki/cryptocurrency/Farming.md",
-    "wiki/ML/generative models/SPECTRE graph generation.md",
-    "wiki/math/analytical geometry/Прямая на плоскости.md",
     "assets/files/Pasted image 20230417184212.png",
     "assets/files/Pasted image 20230416165622.png",
     "assets/files/Pasted image 20230416165426.png",
     "assets/files/Pasted image 20230416162751.png",
     "assets/files/Pasted image 20230416162157.png",
-    "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
-    "wiki/ML/generative models/Generative adversarial network.md",
-    "wiki/math/network science/Graphs generation.md",
-    "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
-    "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
-    "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
     "assets/files/Pasted image 20230415201900.png",
-    "wiki/math/analytical geometry/Плоскость в пространстве.md",
-    "wiki/math/analytical geometry/Простейшие задачи с прямой на плоскости.md",
-    "wiki/cryptocurrency/terms/Leverage.md",
-    "wiki/cryptocurrency/terms/AirDrop.md",
-    "wiki/cryptocurrency/Pooling.md",
-    "Message-passing neural networks.md",
-    "Cross-Entropy loss.md",
-    "wiki/cryptocurrency/terms/Блокчейн.md",
-    "wiki/ML/generative models/Challenges on graphs generation.md",
-    "wiki/cryptocurrency/terms/terms.md",
     "wiki/cryptocurrency/terms",
     "wiki/cryptocurrency",
     "assets/files/Pasted image 20230413194413.png",
     "assets/files/Pasted image 20230413192608.png",
-    "assets/files/Pasted image 20230413162851.png",
     "wiki/math/analytical geometry",
-    "assets/files/Pasted image 20230413155133.png",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
-    "wiki/ML/generative models",
-    "Untitled 1",
-    "wiki/ML"
+    "wiki/ML/generative models"
   ]
 }

@@ -1,8 +1,6 @@
 %% Begin Waypoint %%
 - **[[terms]]**
-	- [[Product Owner]]
-	- [[Scrum Team]]
-	- [[SCRUM]]
+	- [[Scrum]]
 	- [[terms]]
 
 %% End Waypoint %%

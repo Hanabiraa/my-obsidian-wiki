@@ -1,20 +1,5 @@
 {
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Delete"
-    }
-  ],
+  "workspace:undo-close-pane": [],
   "insert-template": [
     {
       "modifiers": [
@@ -22,40 +7,6 @@
         "Shift"
       ],
       "key": "I"
-    }
-  ],
-  "obsidian-git:commit-specified-message": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "C"
-    }
-  ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": "P"
-    }
-  ],
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "P"
     }
   ]
 }
