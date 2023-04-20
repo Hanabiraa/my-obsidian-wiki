@@ -1,6 +1,6 @@
 ---
 created: [" 20-04-2023 11:35"]
-aliases: []
+aliases: [скрам тим]
 tags:
 - terms/
 ---
