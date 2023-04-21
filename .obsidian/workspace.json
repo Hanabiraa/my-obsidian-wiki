@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/cryptocurrency/Farming.md",
+                "file": "wiki/ML/terms/KL-Divergence.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4439556e335403e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/math/analytical geometry/Прямая на плоскости.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -52,28 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "489bf28605495ed0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/ML/generative models/SPECTRE graph generation.md",
+                "file": "wiki/ML/generative models/Energy-based models.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,12 +92,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ef110092ddae6f0f",
@@ -140,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/ML/generative models/SPECTRE graph generation.md",
+                "file": "wiki/ML/terms/KL-Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/ML/generative models/SPECTRE graph generation.md",
+                "file": "wiki/ML/terms/KL-Divergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/ML/generative models/SPECTRE graph generation.md"
+                "file": "wiki/ML/terms/KL-Divergence.md"
               }
             }
           }
@@ -202,21 +175,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "489bf28605495ed0",
+  "active": "213860309e345d8e",
   "lastOpenFiles": [
+    "wiki/ML/generative models/DDPM.md",
+    "wiki/cryptocurrency/Farming.md",
+    "wiki/ML/generative models/Energy-based models.md",
+    "wiki/ML/generative models/Diffusion models.md",
+    "wiki/ML/generative models/Diffusion models math and notation.md",
+    "методом Монте-Карло.md",
+    "wiki/ML/terms/ELBO.md",
+    "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
+    "wiki/math/analytical geometry/Прямая на плоскости.md",
+    "wiki/ML/generative models/Generative adversarial network.md",
+    "wiki/cryptocurrency/cryptocurrency.md",
+    "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
+    "wiki/ML/generative models/SPECTRE graph generation.md",
     "assets/files/Pasted image 20230417184212.png",
     "assets/files/Pasted image 20230416165622.png",
     "assets/files/Pasted image 20230416165426.png",
     "assets/files/Pasted image 20230416162751.png",
     "assets/files/Pasted image 20230416162157.png",
-    "wiki/math/analytical geometry/Прямая на плоскости.md",
-    "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
-    "wiki/ML/generative models/SPECTRE graph generation.md",
-    "wiki/ML/generative models/Generative adversarial network.md",
     "wiki/math/network science/Graphs generation.md",
     "wiki/ML/generative models/Discrete denoising diffusion for graph generation.md",
-    "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
-    "wiki/cryptocurrency/Farming.md",
     "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
     "assets/files/Pasted image 20230415201900.png",
     "wiki/math/analytical geometry/Плоскость в пространстве.md",
@@ -229,20 +209,13 @@
     "wiki/cryptocurrency/terms/Блокчейн.md",
     "wiki/ML/generative models/Challenges on graphs generation.md",
     "wiki/cryptocurrency/terms/terms.md",
-    "wiki/cryptocurrency/cryptocurrency.md",
-    "wiki/cryptocurrency/terms/Смарт-контракт.md",
-    "wiki/Untitled.md",
     "wiki/cryptocurrency/terms",
     "wiki/cryptocurrency",
-    "README.md",
     "assets/files/Pasted image 20230413194413.png",
-    "wiki/docker/terms/Docker container.md",
     "assets/files/Pasted image 20230413192608.png",
-    "wiki/math/analytical geometry/analytical geometry.md",
     "assets/files/Pasted image 20230413162851.png",
     "wiki/math/analytical geometry",
     "assets/files/Pasted image 20230413155133.png",
-    "assets/files/Pasted image 20230413155031.png",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",

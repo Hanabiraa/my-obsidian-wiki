@@ -10,7 +10,7 @@ tags:
 
 ## Basic idea of diffusion model:
 
-1) Apply random noise to object sequentially (noide have Normal distribution)
+1) Apply random noise to object sequentially (noises have Normal distribution)
 ![[Pasted image 20230409102844.png]]
 2) Try to restore image from noise thus learning latent distributuion - **reverse diffusion process** - done by neural network gradually
 ![[Pasted image 20230409102944.png]]

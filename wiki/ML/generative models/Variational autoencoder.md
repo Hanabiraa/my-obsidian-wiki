@@ -22,7 +22,7 @@ tags:
 Then the marginal likelihoods of individual data points can be rewritten as follows:
 ![[Pasted image 20230409124203.png]]
 
-* First term - [[KL- Dvergence]] between true and the approximate posterior
+* First term - [[KL-Divergence]] between true and the approximate posterior
 * Second term - [[ELBO]] on the marginal likelihood
 
 Thus, maximizing L(φ, θ; x, z) is to maximize the lower bound of the true objective L(φ, θ; x, z) = Eqφ(z|x)[logpθ(x|z)] − DKL(qφ(z|x)||p(z))

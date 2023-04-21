@@ -30,7 +30,7 @@ Score function нужна для
 **Иллюстрация score-mutching** - хотим чтоьы правый набор векторов был похож на левый:
 ![[Pasted image 20230407182059.png]]
 
-## Denosing score mutching
+## Denosing score matching
 - нет доступа ко всем-всем данным, только к нашим семплам
 - надо обобщить score-функцию
 
@@ -42,7 +42,7 @@ Score function нужна для
 
 ![[Pasted image 20230407182216.png]]
 
-## Sliced score mutching
+## Sliced score matching
 
 Преобразования - хотим избавиться от градиента log_{p_data}, расписывая квадрат разности
 
@@ -89,7 +89,7 @@ Score function нужна для
 
 На большом K x получится из настоящего распределения p_x
 
-## Score mutching промежуточные итоги
+## Score matching промежуточные итоги
 
 ![[Pasted image 20230407184426.png]]
 

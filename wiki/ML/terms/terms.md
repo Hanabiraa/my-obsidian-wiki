@@ -1,10 +1,10 @@
 %% Begin Waypoint %%
-- **[[wiki/ML/terms/terms]]**
+- **[[terms]]**
 	- [[Backpropagation]]
 	- [[ELBO]]
-	- [[KL- Dvergence]]
+	- [[KL-Divergence]]
 	- [[Maximum likelihood estimation]]
 	- [[Skip connection]]
-	- [[wiki/ML/terms/terms]]
+	- [[terms]]
 
 %% End Waypoint %%
