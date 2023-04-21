@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/ML/terms/KL-Divergence.md",
+                "file": "wiki/ML/generative models/Variational autoencoder.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -92,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/ML/terms/KL-Divergence.md",
+                "file": "wiki/ML/generative models/Variational autoencoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/ML/terms/KL-Divergence.md",
+                "file": "wiki/ML/generative models/Variational autoencoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/ML/terms/KL-Divergence.md"
+                "file": "wiki/ML/generative models/Variational autoencoder.md"
               }
             }
           }
@@ -177,6 +176,8 @@
   },
   "active": "213860309e345d8e",
   "lastOpenFiles": [
+    "assets/files/Pasted image 20230421223525.png",
+    "wiki/ML/terms/KL-Divergence.md",
     "wiki/ML/generative models/DDPM.md",
     "wiki/cryptocurrency/Farming.md",
     "wiki/ML/generative models/Energy-based models.md",
@@ -207,8 +208,6 @@
     "Message-passing neural networks.md",
     "Cross-Entropy loss.md",
     "wiki/cryptocurrency/terms/Блокчейн.md",
-    "wiki/ML/generative models/Challenges on graphs generation.md",
-    "wiki/cryptocurrency/terms/terms.md",
     "wiki/cryptocurrency/terms",
     "wiki/cryptocurrency",
     "assets/files/Pasted image 20230413194413.png",

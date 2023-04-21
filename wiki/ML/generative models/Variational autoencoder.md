@@ -11,6 +11,8 @@ tags:
 - VAE is a latent variable-based model that pairs a top-down generator with a bottom-up inference network. 
 - Instead of directly performing maximum likelihood estimation on the intractable marginal log-likelihood, training is done by optimizing the tractable [[ELBO|evidence lower bound]]:
 
+![[Pasted image 20230421223525.png]]
+
 - Suppose we have a dataset of samples $x$ from a distribution parameterized by ground truth generative latent codes $z \in \mathbf{R}^c$ ( c refers to the length of the latent codes). 
 - VAE aims to learn a joint distribution between the latent space z ∼ p(z) and the input space x ∼ p(x). 
 - Specifically, in the probabilistic setting of a VAE, the encoder is defined by a variational posterior $q_{\phi}(z|x)$, 

@@ -18,6 +18,7 @@ for continuous distribution:
 ![{\displaystyle D_{\text{KL}}(P\parallel Q)=\int _{-\infty }^{\infty }p(x)\log \left({\frac {p(x)}{q(x)}}\right)\,dx}](https://wikimedia.org/api/rest_v1/media/math/render/svg/756dd25036c5da76a59e58a001f3196e059f537d)
 
 Or it can be written as: 
+$$\mathbf{E}_{x\sim{P}}\left[\log{\frac{p(x)}{q(x)}}\right]$$
 
 - High where $p(x) > q(x)$
 - Not interested in areas where $p(x)$ is 0 or close to 0
