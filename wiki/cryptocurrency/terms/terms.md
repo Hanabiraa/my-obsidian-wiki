@@ -1,8 +1,8 @@
 %% Begin Waypoint %%
-- **[[terms]]**
+- **[[wiki/cryptocurrency/terms/terms]]**
 	- [[AirDrop]]
 	- [[Leverage]]
-	- [[terms]]
+	- [[wiki/cryptocurrency/terms/terms]]
 	- [[Блокчейн]]
 	- [[Смарт-контракт]]
 

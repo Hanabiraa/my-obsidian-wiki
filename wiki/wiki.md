@@ -6,6 +6,7 @@
 	- **[[docker]]**
 	- **[[math]]**
 	- **[[ML]]**
+	- **[[soft-skills]]**
 	- [[wiki]]
 
 %% End Waypoint %%
