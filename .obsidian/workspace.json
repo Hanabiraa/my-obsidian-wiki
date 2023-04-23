@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/ML/generative models/Variational autoencoder.md",
-                "mode": "source",
+                "file": "методом Монте-Карло.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/ML/generative models/Variational autoencoder.md",
+                "file": "методом Монте-Карло.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/ML/generative models/Variational autoencoder.md",
+                "file": "методом Монте-Карло.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/ML/generative models/Variational autoencoder.md"
+                "file": "методом Монте-Карло.md"
               }
             }
           }
@@ -176,15 +176,17 @@
   },
   "active": "213860309e345d8e",
   "lastOpenFiles": [
-    "assets/files/Pasted image 20230421223525.png",
     "wiki/ML/terms/KL-Divergence.md",
+    "wiki/ML/terms/Maximum likelihood estimation.md",
+    "wiki/ML/terms/ELBO.md",
+    "wiki/ML/generative models/Variational autoencoder.md",
+    "assets/files/Pasted image 20230421223525.png",
     "wiki/ML/generative models/DDPM.md",
     "wiki/cryptocurrency/Farming.md",
     "wiki/ML/generative models/Energy-based models.md",
     "wiki/ML/generative models/Diffusion models.md",
     "wiki/ML/generative models/Diffusion models math and notation.md",
     "методом Монте-Карло.md",
-    "wiki/ML/terms/ELBO.md",
     "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
     "wiki/math/analytical geometry/Прямая на плоскости.md",
     "wiki/ML/generative models/Generative adversarial network.md",
@@ -207,14 +209,12 @@
     "wiki/cryptocurrency/Pooling.md",
     "Message-passing neural networks.md",
     "Cross-Entropy loss.md",
-    "wiki/cryptocurrency/terms/Блокчейн.md",
     "wiki/cryptocurrency/terms",
     "wiki/cryptocurrency",
     "assets/files/Pasted image 20230413194413.png",
     "assets/files/Pasted image 20230413192608.png",
     "assets/files/Pasted image 20230413162851.png",
     "wiki/math/analytical geometry",
-    "assets/files/Pasted image 20230413155133.png",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
     "wiki/ML/generative models",
