@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **[[terms]]**
 	- [[AirDrop]]
+	- [[Lending-маркеты]]
 	- [[Leverage]]
 	- [[terms]]
 	- [[Блокчейн]]

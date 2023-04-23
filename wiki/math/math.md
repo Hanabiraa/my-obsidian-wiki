@@ -5,6 +5,7 @@
 	- **linear algebra**
 	- [[math]]
 	- **[[network science]]**
-	- **[[wiki/math/terms/terms]]**
+	- **[[terms]]**
+	- [[методом Монте-Карло]]
 
 %% End Waypoint %%

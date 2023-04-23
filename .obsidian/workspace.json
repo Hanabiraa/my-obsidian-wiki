@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/cryptocurrency/Полезные ссылки.md",
+                "file": "wiki/cryptocurrency/Пулы ликвидности.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/cryptocurrency/Полезные ссылки.md",
+                "file": "wiki/cryptocurrency/Пулы ликвидности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/cryptocurrency/Полезные ссылки.md",
+                "file": "wiki/cryptocurrency/Пулы ликвидности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/cryptocurrency/Полезные ссылки.md"
+                "file": "wiki/cryptocurrency/Пулы ликвидности.md"
               }
             }
           },
@@ -171,17 +171,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20656a23f6dc3eab",
+  "active": "bc4c01eca03ceb07",
   "lastOpenFiles": [
+    "wiki/math/методом Монте-Карло.md",
+    "wiki/cryptocurrency/Пулы ликвидности.md",
+    "wiki/ML/Message-passing neural networks.md",
+    "wiki/ML/terms/Cross-Entropy loss.md",
+    "wiki/cryptocurrency/terms/Lending-маркеты.md",
+    "wiki/cryptocurrency/Полезные ссылки.md",
     "wiki/cryptocurrency/Основы безопасности в криптовалюте.md",
-    "Lending-маркеты.md",
     "wiki/cryptocurrency/DeFi.md",
     "wiki/cryptocurrency/terms/Стейкинг.md",
-    "Пулы ликвидности.md",
-    "MATIC.md",
-    "wiki/cryptocurrency/Полезные ссылки.md",
-    "AVAX.md",
-    "ETH.md",
+    "wiki/cryptocurrency/MATIC.md",
+    "wiki/cryptocurrency/AVAX.md",
+    "wiki/cryptocurrency/ETH.md",
     "wiki/cryptocurrency/Криптокошелек.md",
     "wiki/soft-skills/scrum/terms/Burndown Chart.md",
     "wiki/soft-skills/scrum/Scrum простыми словами.md",
@@ -196,9 +199,6 @@
     "wiki/cryptocurrency/terms/Майнинг.md",
     "wiki/cryptocurrency/terms/Стейблкойн.md",
     "wiki/cryptocurrency/terms/Блокчейн.md",
-    "wiki/cryptocurrency/Pooling.md",
-    "wiki/cryptocurrency/cryptocurrency.md",
-    "wiki/cryptocurrency/terms/terms.md",
     "wiki/soft-skills/scrum/terms",
     "wiki/soft-skills/terms",
     "wiki/soft-skills/scrum",
