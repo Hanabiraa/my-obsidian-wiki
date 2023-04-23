@@ -1,8 +1,14 @@
 %% Begin Waypoint %%
 - **[[cryptocurrency]]**
 	- [[cryptocurrency]]
-	- [[Farming]]
+	- [[DeFi]]
 	- [[Pooling]]
-	- **[[wiki/cryptocurrency/terms/terms]]**
+	- **[[terms]]**
+	- [[Заработок]]
+	- [[Криптокошелек]]
+	- [[Основы безопасности в криптовалюте]]
+	- [[Полезные ссылки]]
+	- [[Риски в криптовалюте]]
+	- [[Фазы рынка]]
 
 %% End Waypoint %%

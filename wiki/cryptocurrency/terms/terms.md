@@ -1,9 +1,13 @@
 %% Begin Waypoint %%
-- **[[wiki/cryptocurrency/terms/terms]]**
+- **[[terms]]**
 	- [[AirDrop]]
 	- [[Leverage]]
-	- [[wiki/cryptocurrency/terms/terms]]
+	- [[terms]]
 	- [[Блокчейн]]
+	- [[Криптовалюта]]
+	- [[Майнинг]]
 	- [[Смарт-контракт]]
+	- [[Стейблкойн]]
+	- [[Стейкинг]]
 
 %% End Waypoint %%

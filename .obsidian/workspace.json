@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "19547ba4ca0ec11f",
+    "type": "split",
+    "children": [
+      {
+        "id": "526bd4acb032ae8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbcade58b166af9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/cryptocurrency/terms/Стейкинг.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fa4ee38de903071f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/cryptocurrency/DeFi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "20656a23f6dc3eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/cryptocurrency/Основы безопасности в криптовалюте.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "607c648e3cd3902b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/cryptocurrency/Полезные ссылки.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1eb149bf83938cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATIC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "18fc227f31a40799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AVAX.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c8d575bceaea141c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETH.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29b31b9ca2ddbad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "df42c44df4df7a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc4c01eca03ceb07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "187ea9db37c15641",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed11e12cd55c14a2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef110092ddae6f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca4159804bb8815f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9cd6d86b21adb68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/cryptocurrency/Полезные ссылки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d202fad556a46c66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/cryptocurrency/Полезные ссылки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db59195b96af23f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1455c3c487cae138",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/cryptocurrency/Полезные ссылки.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "607c648e3cd3902b",
+  "lastOpenFiles": [
+    "wiki/cryptocurrency/Основы безопасности в криптовалюте.md",
+    "MATIC.md",
+    "wiki/cryptocurrency/Полезные ссылки.md",
+    "AVAX.md",
+    "ETH.md",
+    "wiki/cryptocurrency/terms/Стейкинг.md",
+    "wiki/cryptocurrency/Криптокошелек.md",
+    "wiki/soft-skills/scrum/terms/Burndown Chart.md",
+    "wiki/soft-skills/scrum/Scrum простыми словами.md",
+    "wiki/soft-skills/scrum/Жизненный цикл Scrum.md",
+    "wiki/soft-skills/terms/Scrum.md",
+    "wiki/cryptocurrency/DeFi.md",
+    "wiki/cryptocurrency/Риски в криптовалюте.md",
+    "wiki/cryptocurrency/terms/Криптовалюта.md",
+    "wiki/cryptocurrency/Заработок.md",
+    "wiki/cryptocurrency/terms/AirDrop.md",
+    "wiki/cryptocurrency/Фазы рынка.md",
+    "wiki/cryptocurrency/terms/Смарт-контракт.md",
+    "wiki/cryptocurrency/terms/Майнинг.md",
+    "wiki/cryptocurrency/terms/Стейблкойн.md",
+    "wiki/cryptocurrency/terms/Блокчейн.md",
+    "wiki/cryptocurrency/Pooling.md",
+    "wiki/cryptocurrency/cryptocurrency.md",
+    "wiki/cryptocurrency/terms/terms.md",
+    "wiki/ML/generative models/Energy-based models.md",
+    "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
+    "wiki/soft-skills/scrum/terms",
+    "wiki/soft-skills/terms",
+    "wiki/soft-skills/scrum",
+    "wiki/soft-skills",
+    "assets/files/Pasted image 20230420133048.png",
+    "assets/files/Pasted image 20230420132456.png",
+    "assets/files/Pasted image 20230421223525.png",
+    "assets/files/Pasted image 20230417184212.png",
+    "assets/files/Pasted image 20230416165622.png",
+    "assets/files/Pasted image 20230416165426.png",
+    "assets/files/Pasted image 20230416162751.png",
+    "assets/files/Pasted image 20230416162157.png",
+    "assets/files/Pasted image 20230415201900.png",
+    "wiki/cryptocurrency/terms",
+    "wiki/cryptocurrency",
+    "assets/files/Pasted image 20230413194413.png",
+    "wiki/math/analytical geometry",
+    "assets/files/Diffusion models math-2.pdf",
+    "wiki/ML/terms",
+    "wiki/ML/generative models"
+  ]
+}
