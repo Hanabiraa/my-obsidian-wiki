@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "526bd4acb032ae8c",
+        "id": "fea0e19adb5c1aa5",
         "type": "tabs",
         "children": [
           {
-            "id": "fa4ee38de903071f",
+            "id": "7f948c15bd69f53f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/cryptocurrency/DeFi.md",
+                "file": "wiki/ML/ML.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "20656a23f6dc3eab",
+            "id": "8de18c629ca7f491",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/cryptocurrency/Пулы ликвидности.md",
-                "mode": "preview",
+                "file": "wiki/ML/Genetic algorithm.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ef110092ddae6f0f",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/cryptocurrency/Пулы ликвидности.md",
+                "file": "wiki/ML/Genetic algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/cryptocurrency/Пулы ликвидности.md",
+                "file": "wiki/ML/Genetic algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/cryptocurrency/Пулы ликвидности.md"
+                "file": "wiki/ML/Genetic algorithm.md"
               }
             }
           },
@@ -171,16 +172,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc4c01eca03ceb07",
+  "active": "8de18c629ca7f491",
   "lastOpenFiles": [
-    "wiki/math/методом Монте-Карло.md",
-    "wiki/cryptocurrency/Пулы ликвидности.md",
+    "assets/files/Pasted image 20230424184456.png",
+    "assets/files/Pasted image 20230424184425.png",
+    "assets/files/Pasted image 20230424184349.png",
+    "assets/files/Pasted image 20230424184327.png",
+    "assets/files/Pasted image 20230424184126.png",
+    "assets/files/Pasted image 20230424183758.png",
+    "wiki/ML/ML.md",
+    "wiki/ML/Genetic algorithm.md",
+    "wiki/ML/Transformer.md",
     "wiki/ML/Message-passing neural networks.md",
+    "wiki/cryptocurrency/DeFi.md",
+    "wiki/cryptocurrency/Пулы ликвидности.md",
+    "wiki/math/методом Монте-Карло.md",
     "wiki/ML/terms/Cross-Entropy loss.md",
     "wiki/cryptocurrency/terms/Lending-маркеты.md",
     "wiki/cryptocurrency/Полезные ссылки.md",
     "wiki/cryptocurrency/Основы безопасности в криптовалюте.md",
-    "wiki/cryptocurrency/DeFi.md",
     "wiki/cryptocurrency/terms/Стейкинг.md",
     "wiki/cryptocurrency/MATIC.md",
     "wiki/cryptocurrency/AVAX.md",
@@ -195,10 +205,6 @@
     "wiki/cryptocurrency/Заработок.md",
     "wiki/cryptocurrency/terms/AirDrop.md",
     "wiki/cryptocurrency/Фазы рынка.md",
-    "wiki/cryptocurrency/terms/Смарт-контракт.md",
-    "wiki/cryptocurrency/terms/Майнинг.md",
-    "wiki/cryptocurrency/terms/Стейблкойн.md",
-    "wiki/cryptocurrency/terms/Блокчейн.md",
     "wiki/soft-skills/scrum/terms",
     "wiki/soft-skills/terms",
     "wiki/soft-skills/scrum",
@@ -208,13 +214,8 @@
     "assets/files/Pasted image 20230421223525.png",
     "assets/files/Pasted image 20230417184212.png",
     "assets/files/Pasted image 20230416165622.png",
-    "assets/files/Pasted image 20230416165426.png",
-    "assets/files/Pasted image 20230416162751.png",
-    "assets/files/Pasted image 20230416162157.png",
-    "assets/files/Pasted image 20230415201900.png",
     "wiki/cryptocurrency/terms",
     "wiki/cryptocurrency",
-    "assets/files/Pasted image 20230413194413.png",
     "wiki/math/analytical geometry",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms",
