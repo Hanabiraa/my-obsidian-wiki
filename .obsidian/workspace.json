@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39e8083fc46e49d9",
+        "id": "85c632070ded4c15",
         "type": "tabs",
         "children": [
           {
-            "id": "ff4d95df56546748",
+            "id": "e6e3f5a848adf9e0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ff4d95df56546748",
+  "active": "e6e3f5a848adf9e0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "wiki/ML/Genetic algorithm.md",
+    "assets/files/Pasted image 20230424184456.png",
+    "assets/files/Pasted image 20230424184425.png",
+    "assets/files/Pasted image 20230424184349.png",
+    "assets/files/Pasted image 20230424184327.png",
+    "assets/files/Pasted image 20230424184126.png",
+    "assets/files/Pasted image 20230424183758.png",
     "wiki/networks/Протокол внешнего шлюза (BGP).md",
     "wiki/networks/Протокол внутреннего шлюза (OSPF).md",
     "wiki/networks/Протокол динамической настройки хостов (DHCP).md",
@@ -174,8 +182,6 @@
     "wiki/networks/Свойства циклических кодов.md",
     "wiki/networks/Формирование кадров.md",
     "wiki/networks/Множественный доступ с кодовым разделением (CDMA).md",
-    "wiki/networks/Протоколы произвольного доступа. CSMA с обнаружением и разделением коллизий.md",
-    "wiki/networks/Протоколы произвольного доступа. CSMA с обнаружением коллизий и повторной передачей.md",
     "wiki/networks",
     "assets/files/Pasted image 20230421223525.png",
     "assets/files/Pasted image 20230420133048.png",
@@ -185,14 +191,8 @@
     "wiki/soft-skills/terms",
     "wiki/soft-skills",
     "assets/files/Pasted image 20230417184212.png",
-    "assets/files/Pasted image 20230416165622.png",
-    "assets/files/Pasted image 20230416165426.png",
-    "assets/files/Pasted image 20230416162751.png",
-    "assets/files/Pasted image 20230416162157.png",
-    "assets/files/Pasted image 20230415201900.png",
     "wiki/cryptocurrency/terms",
     "wiki/cryptocurrency",
-    "assets/files/Pasted image 20230413194413.png",
     "wiki/math/analytical geometry",
     "assets/files/Diffusion models math-2.pdf",
     "wiki/ML/terms"
