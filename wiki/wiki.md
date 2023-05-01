@@ -6,6 +6,7 @@
 	- **[[docker]]**
 	- **[[math]]**
 	- **[[ML]]**
+	- **[[networks]]**
 	- **[[soft-skills]]**
 	- [[wiki]]
 
