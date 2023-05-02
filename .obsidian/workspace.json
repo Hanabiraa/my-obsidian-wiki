@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/ML/Genetic algorithm.md",
-                "mode": "source",
+                "file": "wiki/math/analytical geometry/Плоскость в пространстве.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ef110092ddae6f0f",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/ML/Genetic algorithm.md",
+                "file": "wiki/math/analytical geometry/Плоскость в пространстве.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/ML/Genetic algorithm.md",
+                "file": "wiki/math/analytical geometry/Плоскость в пространстве.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/ML/Genetic algorithm.md"
+                "file": "wiki/math/analytical geometry/Плоскость в пространстве.md"
               }
             }
           },
@@ -174,6 +173,13 @@
   },
   "active": "8de18c629ca7f491",
   "lastOpenFiles": [
+    "wiki/math/analytical geometry/Задачи с прямой в пространстве.md",
+    "wiki/math/analytical geometry/Задачи с прямой и плоскостью.md",
+    "wiki/math/analytical geometry/Прямая на плоскости.md",
+    "wiki/math/analytical geometry/Уравнения прямой в пространстве.md",
+    "wiki/math/analytical geometry/Плоскость в пространстве.md",
+    "wiki/math/network science/Power law.md",
+    "wiki/ML/Genetic algorithm.md",
     "assets/files/Pasted image 20230424184456.png",
     "assets/files/Pasted image 20230424184425.png",
     "assets/files/Pasted image 20230424184349.png",
@@ -181,7 +187,6 @@
     "assets/files/Pasted image 20230424184126.png",
     "assets/files/Pasted image 20230424183758.png",
     "wiki/ML/ML.md",
-    "wiki/ML/Genetic algorithm.md",
     "wiki/ML/Transformer.md",
     "wiki/ML/Message-passing neural networks.md",
     "wiki/cryptocurrency/DeFi.md",
@@ -200,11 +205,6 @@
     "wiki/soft-skills/scrum/Scrum простыми словами.md",
     "wiki/soft-skills/scrum/Жизненный цикл Scrum.md",
     "wiki/soft-skills/terms/Scrum.md",
-    "wiki/cryptocurrency/Риски в криптовалюте.md",
-    "wiki/cryptocurrency/terms/Криптовалюта.md",
-    "wiki/cryptocurrency/Заработок.md",
-    "wiki/cryptocurrency/terms/AirDrop.md",
-    "wiki/cryptocurrency/Фазы рынка.md",
     "wiki/soft-skills/scrum/terms",
     "wiki/soft-skills/terms",
     "wiki/soft-skills/scrum",
@@ -213,7 +213,6 @@
     "assets/files/Pasted image 20230420132456.png",
     "assets/files/Pasted image 20230421223525.png",
     "assets/files/Pasted image 20230417184212.png",
-    "assets/files/Pasted image 20230416165622.png",
     "wiki/cryptocurrency/terms",
     "wiki/cryptocurrency",
     "wiki/math/analytical geometry",
