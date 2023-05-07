@@ -1,6 +1,7 @@
 # to exclude some Obsidian workspace settings (including hotkey configurations)
 
 .obsidian/hotkeys.json
+.obsidian/workspace.json
 
 # This file is used to keep track of last auto backup/pull
 .obsidian-git-data
