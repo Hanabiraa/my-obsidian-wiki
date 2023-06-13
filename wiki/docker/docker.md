@@ -6,7 +6,8 @@
 	- [[docker]]
 	- [[Dockerfile exaplanation]]
 	- **[[nuances]]**
-	- **[[wiki/docker/terms/terms]]**
+	- **[[terms]]**
+	- [[Volume & bind mount]]
 	- [[What is Docker? (Basics)]]
 
 %% End Waypoint %%
