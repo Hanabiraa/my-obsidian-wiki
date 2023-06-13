@@ -19,7 +19,6 @@ tags:
 ### create and remove volume(s)
 
 ```{bash}
-
 docker volume create <vol_name>
 ```
 
@@ -55,3 +54,5 @@ docker run --rm -d -v <abs_path_to_dir>:<dir_in_container_where_to_bind> <image_
 ```
 
 Этой командой мы прокинули папку => синхронизируется ПАПКА (добавил в контейнере папку - она добавилась на компе)
+
+### See also [[Bind mount dangers]]
