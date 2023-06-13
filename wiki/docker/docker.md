@@ -6,6 +6,7 @@
 	- [[docker]]
 	- [[Dockerfile exaplanation]]
 	- [[Environmental variables]]
+	- [[Logs in container]]
 	- **[[nuances]]**
 	- **[[terms]]**
 	- [[Volume & bind mount]]

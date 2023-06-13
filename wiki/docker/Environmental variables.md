@@ -7,6 +7,11 @@ tags:
 
 # Environmental variables
 
-## Chapter 1
+## In [[Dockerfile]] - non-secret variables
+`ENV <VAR>=...` - environmental variable `VAR`
 
+## Get secret variables while starting docker:
+```{bash}
+docker run -it --rm -e ENV_VAR=$SECRET_TOKEN ubuntu
+```
 
