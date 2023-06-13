@@ -8,6 +8,7 @@
 	- [[Environmental variables]]
 	- [[Logs in container]]
 	- **[[nuances]]**
+	- [[Ports in container]]
 	- **[[terms]]**
 	- [[Volume & bind mount]]
 	- [[What is Docker? (Basics)]]
