@@ -5,6 +5,7 @@
 	- [[Docker image explanation]]
 	- [[docker]]
 	- [[Dockerfile exaplanation]]
+	- [[Environmental variables]]
 	- **[[nuances]]**
 	- **[[terms]]**
 	- [[Volume & bind mount]]
