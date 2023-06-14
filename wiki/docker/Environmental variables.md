@@ -15,3 +15,4 @@ tags:
 docker run -it --rm -e ENV_VAR=$SECRET_TOKEN ubuntu
 ```
 
+### Assign file with variables with option `--env-file`

@@ -30,3 +30,11 @@ or can add ip-address:
 
 ## Expose ports in [[Dockerfile]] - `EXPOSE <PORT> [<PORT>/protocol]`
 - container will listen on the specified network port at runtime
+
+## Discover which port container is listening (in case you didn't use `EXPOSE` command...)
+
+1. Enter container with bash: `docker exec -it <container> bash`
+2. Check status of network: `netstat -tuplen`:
+	![[Pasted image 20230615003718.png]]
+
+	and you can see the port!
