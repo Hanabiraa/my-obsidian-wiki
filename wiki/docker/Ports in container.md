@@ -14,7 +14,7 @@ Some programs need ports
 In container:
 ![[Pasted image 20230614011139.png]]
 
-## Map ports on host with ports in container
+## Map ports host's port with port in container
 
 `docker run -p <PORT_ON_HOST>:<PORT_ON_CONTAINER>`
 
