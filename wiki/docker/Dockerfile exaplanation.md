@@ -92,3 +92,12 @@ see [[Difference between ADD and COPY]]
 ### Another commands
 
 see [official docs](https://docs.docker.com/engine/reference/builder/)
+
+
+## Multi-stage builds
+- build image on the top of already built image - save space and get rid of redundant packages/dependencies
+
+![[Pasted image 20230615162444.png]]
+
+- only last stage layers will be kept in image
+- to build only current stage, use `--target <BUILD_NAME>` option for `docker build`
