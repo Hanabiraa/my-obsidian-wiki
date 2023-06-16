@@ -3,6 +3,7 @@
 	- [[Docker best practices]]
 	- [[Docker container explanation]]
 	- [[Docker image explanation]]
+	- [[Docker-compose]]
 	- [[docker]]
 	- [[Dockerfile exaplanation]]
 	- [[Environmental variables]]
