@@ -20,6 +20,8 @@ To start app, you need to be in the directory with compose `.yaml` file:
 - `-d` - detached mode
 - `-f docker-compose.dev.yml` - set `docker-compose.yaml` file to be used for building
 
+***hint:*** when app is running but you have changed `.yaml` file, you can update containers by running `docker-compose run -d` again without stopping existing containers - this will update changed containers
+
 ### list of working containers
 `docker-compose ps`
 
@@ -38,9 +40,29 @@ To start app, you need to be in the directory with compose `.yaml` file:
 
 - `version: ` 
 - `services: ` - containers
+	- keys are services names
 - `volumes` - volumes
+	- can define relative pat
 	- can explicitly define name, otherwise name will be assigned from directory name:
 		![[Pasted image 20230617123727.png]]
+	Some instructions with its analogous from single container `docker run` command:
+
+| **docker-compose.yaml keyword** | **docker run container command**                     |
+| ------------------------------- | ---------------------------------------------------- |
+| build                           | docker build -f \<Dockerfile path>                   |
+| image                           | docker build \<image>                                |
+| container_name                  | docker run --name \<contaner name>                   |
+| volumes                         | docker run -v <host_path/volume>/<path_in_container> |
+| environment                     | docker run -e <VARIABLE_NAME>=\<value>               |
+| networks                        | docker run --net<network_name>                       |
+| ports - port_1:port_2                           | docker run -p <host_port>:<port_in_container>        |
+
+**new instructions**:
+	- `restart`, `restart_policy` - actions in case of container failure
+	- `deploy: replicas: N` - number of instances of container
+	- `depends_on` - dependency of container from another (e.g. backend should run after database start and not vice-versa)
+	- `healthcheck` - run sanity-check of container work after start
+
 - `networks` - networks used
 	- same name definition as with volumes:
 		![[Pasted image 20230617123816.png]]
