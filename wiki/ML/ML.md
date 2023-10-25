@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - **[[ML]]**
+	- **[[computer vision]]**
 	- **[[generative models]]**
 	- [[Genetic algorithm]]
 	- **[[graph neural networks]]**

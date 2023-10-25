@@ -18,7 +18,7 @@ tags:
 
 ![[Pasted image 20230416162157.png]]
 
-### Work of [[GAN]] inside
+### Work of [[Generative adversarial network|GAN]] inside
 ![[Pasted image 20230417184212.png]]
 
 - $k$ is the number of top k eigenvalues and eigenvectors pairs, $n$ is the number of nodes
