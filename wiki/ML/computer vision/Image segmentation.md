@@ -11,3 +11,9 @@ tags:
 ## [[Superpixels segmentation]]
 
 ## [[Semantic segmentation]]
+
+## [[Interactive segmentation]]
+
+## [[Instance segmentation]]
+
+## [[Panoptic segmentation]]

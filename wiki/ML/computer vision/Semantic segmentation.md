@@ -77,7 +77,7 @@ Can combine and have Atrous pyramid:
 ![[Pasted image 20231108184111.png]]
 
 
-## Transformers!
+## Transformers!!!
 
 ### SegFormer
 ![[Pasted image 20231108184830.png]]
