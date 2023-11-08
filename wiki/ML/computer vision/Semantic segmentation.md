@@ -92,4 +92,6 @@ Efficient Self-atttention:
 
 **Decoder:**
 - Upsample after MLP - works, because:
-	- 
+	- all features are more high-level => can upsample faster
+- MLP and classification of n classes
+
