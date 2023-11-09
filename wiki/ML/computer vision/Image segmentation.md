@@ -32,4 +32,3 @@ in some range (described by Gaussian): -> then get argmax
 ### OpenPose
 ![[Pasted image 20231108195022.png]]
 - Also predict affinity field to match limb to only one person
-
