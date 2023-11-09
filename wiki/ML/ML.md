@@ -6,6 +6,8 @@
 	- **[[graph neural networks]]**
 	- [[Message-passing neural networks]]
 	- [[ML]]
+	- **[[NLP]]**
+	- [[Precision & Recall]]
 	- **[[terms]]**
 	- [[Transformer]]
 
