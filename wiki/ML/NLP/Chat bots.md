@@ -83,7 +83,7 @@ Or - prompt language model
 #### InstructGPT
 ![[Pasted image 20231109185741.png]]
 
-**Step 1. Supervised fine-tuning (SFT). Collect demonstration data and train a supervised policy.**
+##### **Step 1. Supervised fine-tuning (SFT). Collect demonstration data and train a supervised policy.**
 - prompt is sampled from prompt dataset
 - labeler demonstrates the knowledge
 - data is used to fine-tuned GPT-3 with supervised learning
@@ -96,7 +96,7 @@ Or - prompt language model
 	1) easier to collect less SFT data and the n use RL to maximize preferable answers
 2) SFT promotes hallucinations
 
-**Step 2. Reward model.**
+##### **Step 2. Reward model.**
 
 train reward model
 ![[Pasted image 20231109194046.png]]
@@ -111,8 +111,37 @@ $r_{\theta}$ - reward model. $y_w$ - reward winning, $y_l$- reward for losing hy
 
 
 
-**Step 3.* Reinforcement learning*
+##### Step 3. Reinforcement learning
 
 ![[Pasted image 20231109195932.png]]
 
-$\pi(a|s)$ - policy of an action given some state. $$
+$\pi(a|s)$ - policy of an action given some state. $\pi(a|s)=\prod_{y_i\in a}P(y_i|s)$.
+
+
+**REINFORCE algorithm**
+Average reward:
+
+$$\mathcal{J} = \sum_a \pi_{theta}(a|s) * R(a,s)$$
+
+$R(a, s)$ - reward. This expression is too costly to calculate. Can approximate:
+
+$$\frac{1}{N}\sum_{a_i}^NR(a_i,s)$$
+- can calculate it, but cannot maximize
+
+
+Gradient for loss (with fixed $\theta$, reward doesn't depend on $\theta$), estimation:
+$$\nabla_{\theta}\mathcal{J} = \frac{1}{N}\sum_{a_i}^NR(a_i,s)\nabla\log\pi(a_i|s_i)$$
+
+Some draft from desk:
+![[Pasted image 20231109201334.png]]
+
+Do gradient ASCENT on this.
+
+
+**Proximal Policy optimization (PPO) algorithm (family of algorithms)**:
+![[Pasted image 20231109202131.png]]
+- clip reward -> agent doesn't do some radical things and doesn't forget something rare
+
+
+
+
