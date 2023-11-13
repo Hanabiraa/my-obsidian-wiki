@@ -26,5 +26,5 @@ Some are more suitable for Small-world models
 
 
 ## Deep learning metods
-see [[generative models]] volume, [[DDPM]], [[Discrete denoising diffusion for graph generation|Digress]], [[SPECTRE graph generation]] in particular
+see [[Generative models]] volume, [[DDPM]], [[Discrete denoising diffusion for graph generation|Digress]], [[SPECTRE graph generation]] in particular
 

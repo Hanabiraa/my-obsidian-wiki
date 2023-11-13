@@ -1,15 +1,15 @@
 %% Begin Waypoint %%
 - **[[ML]]**
-	- **[[computer vision]]**
+	- **[[Computer vision (CV)]]**
 	- **Ensebmles**
 		- **[[Boosting]]**
 		- [[Ensembles]]
-	- **[[generative models]]**
+	- **[[Generative models]]**
 	- [[Genetic algorithm]]
 	- **[[graph neural networks]]**
 	- [[Message-passing neural networks]]
 	- [[ML]]
-	- **[[NLP]]**
+	- **[[Natural language processing (NLP)]]**
 	- [[Precision & Recall]]
 	- **[[terms]]**
 	- [[Transformer]]

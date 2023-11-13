@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
-- **[[computer vision]]**
-	- [[computer vision]]
+- **[[Computer vision (CV)]]**
+	- [[Computer vision (CV)]]
 	- [[Image retrieval]]
 	- [[Image segmentation]]
 	- [[Instance segmentation]]

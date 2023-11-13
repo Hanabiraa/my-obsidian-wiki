@@ -1,14 +1,16 @@
 ---
-created: [" 13-04-2023 16:13"]
-aliases: [transformer]
+created:
+  - " 13-11-2023 19:05"
+aliases: 
 tags:
-- article/
-- ML
-- layer
-- model
+  - terms/
 ---
 
 # Transformer
 
-## Chapter 1
+> full term
 
+## definition
+
+
+## useful links

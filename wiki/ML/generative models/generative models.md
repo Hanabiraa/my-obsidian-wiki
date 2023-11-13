@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **[[generative models]]**
+- **[[Generative models]]**
 	- [[Challenges on graphs generation]]
 	- [[Cross-attention and self attention]]
 	- [[DDPM]]
@@ -9,7 +9,7 @@
 	- [[Energy-based models]]
 	- [[Flow-based learning]]
 	- [[Generative adversarial network]]
-	- [[generative models]]
+	- [[Generative models]]
 	- [[Generative recursive neural network]]
 	- [[Reinforcement Learning and Deep Q-Network]]
 	- [[SPECTRE graph generation]]
