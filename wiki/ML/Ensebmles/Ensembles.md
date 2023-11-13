@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **[[Ensembles]]**
-	- [[Boosting]]
+	- [[Gradient boosting]]
 	- [[Ensembles]]
 
 %% End Waypoint %%
