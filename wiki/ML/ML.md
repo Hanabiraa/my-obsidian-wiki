@@ -2,8 +2,8 @@
 - **[[ML]]**
 	- **[[computer vision]]**
 	- **Ensebmles**
+		- **[[Boosting]]**
 		- [[Ensembles]]
-		- [[Gradient boosting]]
 	- **[[generative models]]**
 	- [[Genetic algorithm]]
 	- **[[graph neural networks]]**
