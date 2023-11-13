@@ -2,7 +2,7 @@
 %% Begin Waypoint %%
 - **[[Boosting]]**
 	- [[Boosting]]
-	- [[Gradient boostin classification]]
+	- [[Gradient boosting classification]]
 	- [[Gradient boosting]]
 
 %% End Waypoint %%
