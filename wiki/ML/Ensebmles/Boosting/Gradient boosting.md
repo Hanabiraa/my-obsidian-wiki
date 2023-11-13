@@ -13,8 +13,6 @@ tags:
 - gradient of the loss w.r.t. output of previous model
 
 
-
-
 ![[Pasted image 20231113181459.png]]
 
 ![[Pasted image 20231113181524.png]]
