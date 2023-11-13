@@ -2,8 +2,10 @@
 - **[[ML]]**
 	- **[[Computer vision (CV)]]**
 	- **Ensebmles**
+		- [[Bagging]]
 		- **[[Boosting]]**
 		- [[Ensembles]]
+		- [[Staking]]
 	- **[[Generative models]]**
 	- [[Genetic algorithm]]
 	- **[[graph neural networks]]**
