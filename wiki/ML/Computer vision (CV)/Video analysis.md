@@ -67,7 +67,7 @@ Concatenate a pair of images and pass it to prediction network:
 
 > tracking of an object localized on the first frame
 > online mode
-> similar and occluded objects make task more comple
+> similar and occluded objects make task more complex
 ![[Pasted image 20231115190241.png]]
 
 
