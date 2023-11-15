@@ -59,3 +59,15 @@ Concatenate a pair of images and pass it to prediction network:
 **PWC-Net**
 
 **RAFT**
+
+**FlowFormer** - SOTA
+
+
+## Visual object tracking
+
+> tracking of an object localized on the first frame
+> online mode
+> similar and occluded objects make task more comple
+![[Pasted image 20231115190241.png]]
+
+
