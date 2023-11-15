@@ -99,5 +99,5 @@ Concatenate a pair of images and pass it to prediction network:
 > short meaningful movement
 > set of simple actions with a specific common goal
 
-
+**Classification task for videos**
 
