@@ -10,5 +10,6 @@
 	- [[Panoptic segmentation]]
 	- [[Semantic segmentation]]
 	- [[Superpixels segmentation]]
+	- [[Video analysis]]
 
 %% End Waypoint %%
