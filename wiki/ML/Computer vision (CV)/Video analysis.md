@@ -68,6 +68,36 @@ Concatenate a pair of images and pass it to prediction network:
 > tracking of an object localized on the first frame
 > online mode
 > similar and occluded objects make task more complex
+
+
 ![[Pasted image 20231115190241.png]]
+
+
+
+
+
+
+
+## Multiple object tracking (MOT)
+> track multiple objects on a long period of time
+
+
+### Errors
+
+![[Pasted image 20231115191729.png]]
+
+### Metrics
+![[Pasted image 20231115191911.png]]
+
+
+
+## Action recognition
+
+![[Pasted image 20231115193951.png]]
+
+**Action**
+> short meaningful movement
+> set of simple actions with a specific common goal
+
 
 
