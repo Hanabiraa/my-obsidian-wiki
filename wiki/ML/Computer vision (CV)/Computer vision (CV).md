@@ -8,6 +8,7 @@
 	- [[IoU matching criterion]]
 	- [[Object detection]]
 	- [[Panoptic segmentation]]
+	- [[Self-supervised learning]]
 	- [[Semantic segmentation]]
 	- [[Superpixels segmentation]]
 	- [[Video analysis]]
