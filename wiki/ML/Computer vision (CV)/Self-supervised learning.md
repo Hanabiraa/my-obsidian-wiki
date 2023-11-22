@@ -6,7 +6,7 @@ tags:
   - article/
 ---
 
-# Self-supervised learning
+# Self-supervised pre-training
 
 ## Motivation - labelling tradeoff
 - labeling enough data is exoensive
@@ -70,5 +70,20 @@ Pipeline:
 
 After that:
 use these encoders for some specific tasks
+
+### ALBEF
+
+![[Pasted image 20231122193335.png]]
+
+![[Pasted image 20231122193528.png]]
+
+### SEEM
+
+![[Pasted image 20231122193901.png]]
+- referring segmentation - segmentation according to description
+
+![[Pasted image 20231122193956.png]]
+
+- visual sampler - some masks resembling user's inputs
 
 
