@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **[[ML]]**
 	- **[[Computer vision (CV)]]**
+	- [[Distillation]]
 	- **Ensebmles**
 		- [[Bagging]]
 		- **[[Boosting]]**
