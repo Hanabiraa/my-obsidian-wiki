@@ -36,3 +36,7 @@ where μ and σ are outputs from the encoder.
 
 ## Picture of VAE framework
 ![[Pasted image 20230409123459.png]]
+
+
+## How can we ensure that it is $\mathcal{N}(0, 1)$ in the latent space?
+![[Pasted image 20231206221629.png]]
