@@ -35,3 +35,14 @@ The training of the generator and discriminator is kept alternating until the ge
 	* One is that they can sometimes be extremely hard to train in adversarial style. They may fall into the divergence trap very easily by getting stuck in a poor local minimum. 
 	* Mode collapse is also an issue, where the **generator** **produces samples that belong to a limited set of modes**, which results in **low diversity**. 
 	* Moreover, alternatively training and large computation workloads for two networks can result in long-term convergence process
+
+
+## Training
+
+По очереди
+
+![[Pasted image 20231206212912.png]]
+
+![[Pasted image 20231206212931.png]]
+
+
