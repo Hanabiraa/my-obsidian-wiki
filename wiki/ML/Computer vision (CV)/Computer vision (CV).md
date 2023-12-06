@@ -12,5 +12,6 @@
 	- [[Semantic segmentation]]
 	- [[Superpixels segmentation]]
 	- [[Video analysis]]
+	- [[Перенос стиля и синтез изображений]]
 
 %% End Waypoint %%
