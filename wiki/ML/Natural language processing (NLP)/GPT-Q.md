@@ -10,7 +10,7 @@ tags:
 
 ## What about its structure?
 
-> GPTQ is the State Of The Art quantization algorithm for post-training DL model quantization. It works by sequentially quantizing the model's linear layer weights.
+> GPTQ is the State Of The Art quantization algorithm (*see [[wiki/ML/Natural language processing (NLP)/Untitled|Untitled]] for quantization*) for post-training DL model quantization. It works by sequentially quantizing the model's linear layer weights.
 
   
 
@@ -30,15 +30,16 @@ Where:
 
 * $X$ is the input matrix of shape `(..., IN)`.
 
-* $XW^T$ is the unquantized output of shape `(..., OUT)`. We think of the norm above as taking a sum over those (...) dimensions.
+* $XW^T$ is the unquantized output of shape `(..., OUT)`. **We think of the norm above as taking a sum over those (...) dimensions.**
 
 * $W$ is the unquantized weight of shape `(OUT, IN)`.
 
 * $\widehat{W}$ is the quantized weight taken from some quantization grid.
 
   
-
-One can notice that the expression above is independent with regard to the rows of $W$ and $\widehat{W}$, meaning we can solve it for each row in parallel. This is the reason why we're working with row-wise quantization in the first place. Notice that the quantization grid only depends on min/max values withing the row and not the quantization process, so we can think of it as fixed.
+#### How to solve it?
+- One can notice that the expression above is independent with regard to the rows of $W$ and $\widehat{W}$, meaning we **can solve it for each row in parallel**. 
+- This is the reason why we're working with row-wise quantization in the first place. Notice that the quantization grid only depends on min/max values withing the row and not the quantization process, so we can think of it as fixed.
 
   
 
