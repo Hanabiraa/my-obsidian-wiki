@@ -23,11 +23,10 @@ More formally, the problem can be formulated as:
 
 $$
 
-W_q = argmin_{\widehat{W}}\|XW^T - X\widehat{W}^T\|_2^2
+W_q = argmin_{\widehat{W}}\|XW^T - X\widehat{W}^T\|_2^2,
 
-$$
-
-, where
+$$ 
+Where
 
 * $X$ is the input matrix of shape `(..., IN)`.
 
