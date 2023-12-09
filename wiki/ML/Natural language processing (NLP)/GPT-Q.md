@@ -26,7 +26,7 @@ $$
 W_q = argmin_{\widehat{W}}\|XW^T - X\widehat{W}^T\|_2^2,
 
 $$ 
-Where
+Where:
 
 * $X$ is the input matrix of shape `(..., IN)`.
 
