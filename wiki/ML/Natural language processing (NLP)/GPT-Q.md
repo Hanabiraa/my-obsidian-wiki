@@ -40,14 +40,11 @@ Where:
 #### How to solve it?
 - One can notice that the expression above is independent with regard to the rows of $W$ and $\widehat{W}$, meaning we **can solve it for each row in parallel**. 
 - This is the reason why we're working with row-wise quantization in the first place. Notice that the quantization grid only depends on min/max values withing the row and not the quantization process, so we can think of it as fixed.
+- The dimension of the optimization problem is `IN`, which is too much to solve exactly. The algorithm proposes to solve it **iteratively**.
 
   
 
-and the dimension of the optimization problem is `IN`, which is too much to solve exactly. The algorithm proposes to solve it iteratively.
-
-  
-
-Less us consider a vector of full precision weights $F$ and corresponding sent of inputs $X_F$. The corresponding objective is quadratic with Hessian
+Less us consider a vector of full precision weights $F$ and corresponding set of inputs $X_F$. The corresponding objective is quadratic with Hessian
 
 $$
 
@@ -55,13 +52,14 @@ H_F = 2X_F^TX_F^.
 
 $$
 
+#### The algorithm
 The algorithm can be described like this:
 
 * Do the following steps until $F$ is fully quantized:
 
 1. Given the next index to quantize $i$, and corresponding unquantized element $F_i$.
 
-2. Quantize the coordinate by prjecting in onto the quantization grid $Q_i = quant(F_i)$.
+2. Quantize the coordinate by prjecting it onto the quantization grid $Q_i = quant(F_i)$.
 
 3. Update all of the remaining weights $F_: = F_: - \frac{F_i - quant(F_i)}{\left[H_F^{-1}\right]_{ii}}\cdot\left[H_F^{-1}\right]_{i,:}$.
 
@@ -91,7 +89,7 @@ $$
 
 $$
 
-F_{:,i:} = F_{:,i:} - \frac{F_{:,i} - quant(F_{:,i})}{\left[H_F^{-1}\right]_{ii}}\odot\left[H_F^{-1}\right]_{i,i:}\leftarrow\text{\textbf{ you'll have to code this}}
+F_{:,i:} = F_{:,i:} - \frac{F_{:,i} - quant(F_{:,i})}{\left[H_F^{-1}\right]_{ii}}\odot\left[H_F^{-1}\right]_{i,i:}
 
 $$
 
@@ -116,3 +114,8 @@ $$
 Err_{:,i} =\frac{F_{:,i} - quant(F_{:,i})}{\left[H_F^{-1}\right]_{ii}}\text{ for all }i\text{ in block}.
 
 $$
+
+
+## See also:
+
+[[QUIK]]
