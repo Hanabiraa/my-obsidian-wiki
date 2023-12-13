@@ -1,7 +1,7 @@
 ---
 created:
   - " 13-12-2023 18:32"
-aliases: 
+aliases: [DALL-E]
 tags:
   - article/
 ---
@@ -38,6 +38,10 @@ Main idea: make generation sequential:
 
 During generation, see the context of some last generated neighborhoods
 
+## DALL-E
+![[Pasted image 20231213190415.png]]
+
+huge [[Transformer]] architecture
 
 
 ## See also
