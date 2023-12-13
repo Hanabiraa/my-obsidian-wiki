@@ -18,7 +18,5 @@ tags:
 At basic quantization level, QUIK already has a number of differences compared to GPTQ:
 
 1. QUIK quantizes the weights to **signed** integer values for better stability of matrix multiplication.
-
 2. QUIK enforces `zero` to be integer, to be able to perform `int` multiplication with it as well.
-
 3. QUIK changes the sign of `zero` (compare `quik_dequantize` with `dequantize`) for simplicity.

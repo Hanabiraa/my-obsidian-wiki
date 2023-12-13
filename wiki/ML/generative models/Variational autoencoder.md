@@ -7,6 +7,10 @@ tags:
 
 # Variational autoencoder
 
+## Autoencoder
+![[Pasted image 20231213181558.png]]
+
+
 ## Definition of work
 - VAE is a latent variable-based model that pairs a top-down generator with a bottom-up inference network. 
 - Instead of directly performing maximum likelihood estimation on the intractable marginal log-likelihood, training is done by optimizing the tractable [[ELBO|evidence lower bound]]:
