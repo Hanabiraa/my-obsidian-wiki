@@ -8,7 +8,7 @@ tags:
 
 # VQ-GAN
 
-## Overall structite
+## Overall structure
 
 ![[Pasted image 20231213185252.png]]
 
