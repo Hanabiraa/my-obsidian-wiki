@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **[[Generative models]]**
 	- [[Challenges on graphs generation]]
+	- [[ControlNet]]
 	- [[Cross-attention and self attention]]
 	- [[DDPM]]
 	- [[Diffusion models math and notation]]
@@ -11,6 +12,7 @@
 	- [[Generative adversarial network]]
 	- [[Generative models]]
 	- [[Generative recursive neural network]]
+	- [[Latent diffusion models]]
 	- [[Reinforcement Learning and Deep Q-Network]]
 	- [[SPECTRE graph generation]]
 	- [[Variational autoencoder]]
