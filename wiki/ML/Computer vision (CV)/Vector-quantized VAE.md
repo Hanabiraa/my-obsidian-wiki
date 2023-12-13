@@ -30,9 +30,10 @@ tags:
 
 Main idea: make generation sequential:
 
-![[Pasted image 20231213184633.png]]
+![[Pasted image 20231213184717.png]]
 
 - have 2 VAE
 	- first predict features in low resolution
 	- second predicts in the bigger dimension
 
+During generation, see the context of some last generated neighborhoods
