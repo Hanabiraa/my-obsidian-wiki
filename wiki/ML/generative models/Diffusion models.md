@@ -17,6 +17,20 @@ tags:
 
 
 
+# DALL-E 2
+![[Pasted image 20231213193611.png]]
+
+
+
+# High-res conditional generation 
+
+Conditional sampling can be achieved using three methods:
+![[Pasted image 20231213192841.png]]
+
+
+![[Pasted image 20231213193256.png]]
+
+
 # More broadly in the following articles:
 
 ## [[Energy-based models]] и Noise condition score network  - closely related to diffusion models
@@ -27,13 +41,7 @@ tags:
 
 ## Жоская [[Diffusion models math and notation]], стоящая за диффузионками
 
-# High-res conditional generation 
-
-Conditional sampling can be achieved using three methods:
-![[Pasted image 20231213192841.png]]
+## [[Latent diffusion models]]
 
 
-![[Pasted image 20231213193256.png]]
 
-# DALL-E 2
-![[Pasted image 20231213193611.png]]
