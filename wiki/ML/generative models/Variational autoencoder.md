@@ -65,3 +65,4 @@ where μ and σ are outputs from the encoder.
 # Related studies
 
 - [[Vector-quantized VAE]]
+- [[VQ-GAN]]

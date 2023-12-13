@@ -13,6 +13,7 @@
 	- [[Superpixels segmentation]]
 	- [[Vector-quantized VAE]]
 	- [[Video analysis]]
+	- [[VQ-GAN]]
 	- [[Перенос стиля и синтез изображений]]
 
 %% End Waypoint %%

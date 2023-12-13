@@ -37,3 +37,8 @@ Main idea: make generation sequential:
 	- second predicts in the bigger dimension
 
 During generation, see the context of some last generated neighborhoods
+
+
+
+## See also
+[[VQ-GAN]]
