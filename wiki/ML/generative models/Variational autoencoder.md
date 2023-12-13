@@ -19,10 +19,12 @@ Let's modify it to have more control of the intrinsic representation:
 - then reparameterize $\implies$ get probability distribution of the intrinsic features. This way $\epsilon$ may be seen as a constant and $\mu$ and $\sigma$ now can be learned:
 			![[Pasted image 20231213182625.png]]
 
+
+
 ### VAE loss
 
 ![[Pasted image 20231213182155.png]]
-- reconstruction loss + regularization for distribution matching (want the distribution of the hidden fatures to be somewhat similar to $\mathcal{N}(0, 1)$)
+- reconstruction loss ($L_{2}$-norm) + regularization for distribution matching (want the distribution of the hidden fatures to be somewhat similar to $\mathcal{N}(0, 1)$)
 - 
 
 
@@ -59,3 +61,7 @@ where μ and σ are outputs from the encoder.
 
 ## How can we ensure that it is $\mathcal{N}(0, 1)$ in the latent space?
 ![[Pasted image 20231206221629.png]]
+
+# Related studies
+
+- [[Vector-quantized VAE]]
