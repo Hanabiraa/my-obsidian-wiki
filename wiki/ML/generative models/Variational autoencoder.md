@@ -9,6 +9,21 @@ tags:
 
 ## Autoencoder
 ![[Pasted image 20231213181558.png]]
+- compresses the representation of an object to lower dimension
+
+
+Let's modify it to have more control of the intrinsic representation:
+## VAE
+![[Pasted image 20231213181943.png]]
+- prediction of $\mu$ and $\sigma$
+- then reparameterize $\implies$ get probability distribution of the intrinsic features. This way $\epsilon$ may be seen as a constant and $\mu$ and $\sigma$ now can be learned:
+			![[Pasted image 20231213182625.png]]
+
+### VAE loss
+
+![[Pasted image 20231213182155.png]]
+- reconstruction loss + regularization for distribution matching (want the distribution of the hidden fatures to be somewhat similar to $\mathcal{N}(0, 1)$)
+- 
 
 
 ## Definition of work
