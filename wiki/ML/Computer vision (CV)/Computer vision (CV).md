@@ -11,6 +11,7 @@
 	- [[Self-supervised pre-training]]
 	- [[Semantic segmentation]]
 	- [[Superpixels segmentation]]
+	- [[Vector-quantized VAE]]
 	- [[Video analysis]]
 	- [[Перенос стиля и синтез изображений]]
 

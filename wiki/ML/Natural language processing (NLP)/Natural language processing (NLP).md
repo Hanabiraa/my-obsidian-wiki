@@ -4,6 +4,7 @@
 	- [[GPT-Q]]
 	- [[LLM]]
 	- [[Natural language processing (NLP)]]
+	- [[QUIK]]
 	- [[Retrieval, agents]]
 	- [[Untitled]]
 
