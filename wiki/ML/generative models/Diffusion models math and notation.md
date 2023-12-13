@@ -34,9 +34,16 @@ rewrite as initial distribution notation:
 ## Reverse diffusion process
 ![[Pasted image 20230409103914.png]]
 
+
+![[Pasted image 20231213191440.png]]
+- neural network gets noised image and timestamp $t$ and then predicts what should be removed from the image to make it cleaner
+
 ## Loss function
 negative log-likelihood - compute variational lower bound
+![[Pasted image 20231213191653.png]]
+- teach neural network to predict the noise at any timestamp $t$
 
+### Broader:
 ![[Pasted image 20230409104512.png]]
 
 rewrite:
@@ -117,6 +124,19 @@ at last step dont add noise
 
 # Math in diffusion models
 
+## Connection to stochastic differential equations:
+![[Pasted image 20231213192147.png]]
+
+
+1) It describes how the distribution of samples change
+![[Pasted image 20231213192236.png]]
+2) also for the forward there si reverse SDE and ordinal=ry DE
+![[Pasted image 20231213192312.png]]
+
+- To obtain the image, integrate the reverse ODE
+- deterministic encoding and generation means that neural network learns the same mapping between the noise and images every time
+
+## Conspect from the lecture
 В конспекте описывается связь диффузии с нейростохастическими диффурами
 
 Основной смысл - есть процесс диффузии, он стохастический, но как вернуться обратно в ту же точку, если у нас есть случайность в процессе диффузии?

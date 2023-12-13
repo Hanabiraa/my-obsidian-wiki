@@ -1,6 +1,6 @@
 ---
 created: [" 07-04-2023 18:08"]
-aliases: [Диффузионная модель]
+aliases: [Диффузионная модель, DALLE-2]
 tags:
 - article/
 ---
@@ -27,3 +27,13 @@ tags:
 
 ## Жоская [[Diffusion models math and notation]], стоящая за диффузионками
 
+# High-res conditional generation 
+
+Conditional sampling can be achieved using three methods:
+![[Pasted image 20231213192841.png]]
+
+
+![[Pasted image 20231213193256.png]]
+
+# DALL-E 2
+![[Pasted image 20231213193611.png]]
