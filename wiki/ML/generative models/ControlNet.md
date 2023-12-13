@@ -15,7 +15,7 @@ tags:
 
 ![[Pasted image 20231213195040.png]]
 
-
+![[Pasted image 20231213195230.png]]
 
 # Related papers
 [[Diffusion models]]
