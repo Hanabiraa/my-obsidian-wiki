@@ -43,6 +43,10 @@ During generation, see the context of some last generated neighborhoods
 
 huge [[Transformer]] architecture
 
+![[Pasted image 20231213190802.png]]
+
+
+
 
 ## See also
 [[VQ-GAN]]
