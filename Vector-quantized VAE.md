@@ -16,4 +16,5 @@ tags:
 
 - e.g. resnet for encoder
 - search the most similar feature in the embedding dict (learned)
-- map the index for each feature the index of the most similar embedding (**discrete distribution**)
+- map the index for each feature the index of the most similar embedding 
+- **discrete distribution** $\implies$ can be thought as quantization
