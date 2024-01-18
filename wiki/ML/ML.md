@@ -2,6 +2,10 @@
 - **[[ML]]**
 	- **[[Computer vision (CV)]]**
 	- [[Distillation]]
+	- **[[Efficient DL systems (YSDA)]]**
+		- [[Efficient DL systems (YSDA)]]
+		- [[GPU architecture]]
+		- [[Lecture 1 - introduction]]
 	- **Ensebmles**
 		- [[Bagging]]
 		- **[[Boosting]]**
