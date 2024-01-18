@@ -56,3 +56,11 @@ GPU memory hierarchy:
 ### DL specifics
 
 ![[Pasted image 20240118190242.png]]
+
+be careful because we can't be sure whether or not execution finished
+
+`.item()` triggers CPU and GPU synchronisation - too slow if often called in the code
+
+`cudnn.benchmark` - tries the best async operation type - can speed up the code
+
+

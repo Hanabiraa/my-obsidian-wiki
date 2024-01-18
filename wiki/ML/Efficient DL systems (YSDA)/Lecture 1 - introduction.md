@@ -20,3 +20,12 @@ tags:
 	2) How do I ensure the model is maintainable?
 	3) How to avoid bugs in pipeline?
 
+## [[GPU architecture]]
+
+## Measuring performance
+- benchmarking - understand bottlenecks and measure the impact of optimization
+- `%%timeit` / `timeit.Timer` - **mind synchronization** 
+- Take into account some warmup and caching and other side-effects methods
+- `torch.utils.benchmark` - can use it
+- **Do not overoptimize!!!**
+
