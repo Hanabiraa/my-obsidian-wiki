@@ -6,6 +6,6 @@
 	- [[Natural language processing (NLP)]]
 	- [[QUIK]]
 	- [[Retrieval, agents]]
-	- [[Experiment management & ML code testing]]
+	- [[Lecture 2 - Experiment management & ML code testing]]
 
 %% End Waypoint %%
