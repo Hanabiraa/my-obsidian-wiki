@@ -20,5 +20,5 @@ tags:
 
 ### Why use low precision?
 - faster performance 
-- reduced memory usage (due to higher arithmetic intensity or smaller communication footprin)
+- reduced memory usage (due to higher arithmetic intensity or smaller communication footprint)
 - can use specialized hardware for even faster computation
