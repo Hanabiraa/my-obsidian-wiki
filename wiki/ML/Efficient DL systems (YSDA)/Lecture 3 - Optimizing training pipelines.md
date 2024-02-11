@@ -10,3 +10,6 @@ tags:
 
 ## [[Mixed precision training]]
 
+## [[Bottlenecks in data loading]]
+
+## [[Profiling]]
