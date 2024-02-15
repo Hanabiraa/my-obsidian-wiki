@@ -11,7 +11,7 @@ tags:
 ## What and why
 - In benchmarking, we measure the spped of a program as a black box
 - Profiling is a process of determining the runtime of **parts** of a program
-- More of a "white box" approach\
+- More of a "white box" approach
 
 ## How to profile
 > ![[Pasted image 20240211131456.png]]
