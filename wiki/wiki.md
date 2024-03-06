@@ -7,6 +7,7 @@
 	- **[[math]]**
 	- **[[ML]]**
 	- **[[networks]]**
+	- **[[Optimization]]**
 	- **[[soft-skills]]**
 	- [[wiki]]
 
