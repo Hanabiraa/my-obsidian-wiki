@@ -82,3 +82,7 @@ How to train?
 
 
 
+## Tensor Parallel
+
+model is split onto several GPUs
+![[Pasted image 20240307190035.png]]
