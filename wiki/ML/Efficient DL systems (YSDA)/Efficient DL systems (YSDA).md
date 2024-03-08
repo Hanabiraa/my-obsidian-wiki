@@ -9,6 +9,7 @@
 	- [[Lecture 4 - Distributed ML]]
 	- [[Lecture 5 - Data parallel training]]
 	- [[Lecture 6 - Dealing with large models]]
+	- [[Lecture 7 - Application Deployment]]
 	- [[Lecture 8 - LLM inference]]
 	- [[Mixed precision training]]
 	- [[Profiling]]
