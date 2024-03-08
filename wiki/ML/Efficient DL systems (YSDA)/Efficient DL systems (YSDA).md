@@ -8,6 +8,7 @@
 	- [[Lecture 3 - Optimizing training pipelines]]
 	- [[Lecture 4 - Distributed ML]]
 	- [[Lecture 5 - Data parallel training]]
+	- [[Lecture 6 - Dealing with large models]]
 	- [[Lecture 8 - LLM inference]]
 	- [[Mixed precision training]]
 	- [[Profiling]]
