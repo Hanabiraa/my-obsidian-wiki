@@ -103,4 +103,16 @@ Try to reproduce logits:
 
 
 [[GPT-Q]]:
-![[Pasted image 20240314190941.png]]
+> ![[Pasted image 20240314190941.png]]
+
+
+## ??? Encoder-decoder vs decoder
+**Who is faster with the same amount of parameters on inference?**
+> ![[Pasted image 20240314191601.png]]
+- on the classification - both $\pm$ identical
+- on the generation - forward for each token each decoder layer - more optimal to use encoder-decoder (more memory-bandwidth), as there is less decoder layers, and in distillation, there are less decoder layers in encoder-decoder architecture and the quality $\pm$ similar
+
+BUT encoder-decoder is more costly to learn
+
+## Conclusion
+![[Pasted image 20240314193611.png]]
