@@ -8,7 +8,7 @@ tags:
 
 # Lecture 9 - Efficient model inference
 
-## 
+## Distillation
 
 Pareto curve Quality vs Compute
 
@@ -27,7 +27,7 @@ MPU - memory bandwidth utilization
 MFU - memory FLOPs utilization
 > ![[Pasted image 20240314181318.png]]
 
-## Knowledge distillation
+### Knowledge distillation
 **General framework:**
 > ![[Pasted image 20240314181906.png]]
 
@@ -70,3 +70,31 @@ Try to reproduce logits:
 **YA experience:**
 > ![[Pasted image 20240314184421.png]]
 - can spend more time for distill - win in the long run (less compute afterwards on distilled small model)
+
+
+## Quantization
+
+### Formalization and benefits
+> ![[Pasted image 20240314184803.png]]
+- Convert FP16 to INT
+- Less GPU RAM for compute (at least 2 times)
+- increase latency and RPS
+- WxAy - weights to $x$ bits, activations to $y$ bits
+
+### Quantization types
+**PTQ - post training quantization**
+**QAT - quantization-aware traiing** - train and get passes in INTS
+> ![[Pasted image 20240314185101.png]]
+
+### Problems
+#### Quality drops (*old paper*)
+> ![[Pasted image 20240314185333.png]]
+- easier to quantize weights, harder - activations
+
+#### Outliers
+> ![[Pasted image 20240314185618.png]]
+- huge outliers - very large magnitude of column/row in weights matrix
+**Solution method:**
+> ![[Pasted image 20240314190137.png]]
+> migrate outliers to weights:
+> 
