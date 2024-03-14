@@ -22,7 +22,11 @@ Pareto curve Quality vs Compute
 Bandwidth - how many weights we carry to GPU and preprocess
 
 ### Flops vs Bandwidth utilization
-TPOT - 
+TPOT - Time per output token
 MPU - memory bandwidth utilization
-NFU - memory FLOPs utilization
+MFU - memory FLOPs utilization
 > ![[Pasted image 20240314181318.png]]
+
+## Knowledge distillation
+**General framework:**
+> ![[Pasted image 20240314181906.png]]
