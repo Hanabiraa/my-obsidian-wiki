@@ -45,4 +45,26 @@ Try to reproduce logits:
 
 **TinyBert** - effective BERT distillation:
 > ![[Pasted image 20240314182436.png]]
+- losses on hiddens, attention maps, embeddings
+
+
+**KL-Divergence can be bad for distillation of LLM:**
+> ![[Pasted image 20240314182919.png]]
+> - Intiutively, small model lacks expressivity of compute to distinguish teacher's distribution
+> - Make reverse-KL-divergence - and student will learn at least one mode:
+> ![[Pasted image 20240314183057.png]]
+**Problem** - now expected value is across student distribution -> unable to differentiate by y
+> ![[Pasted image 20240314183221.png]]
+> Solution - get RL, but neeeds thorough hyperparams optimization
+
+
+#### Better solution
+> ![[Pasted image 20240314183823.png]]
+
+
+
+
+
+
+
 
