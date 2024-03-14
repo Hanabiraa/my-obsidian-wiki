@@ -97,4 +97,10 @@ Try to reproduce logits:
 **Solution method:**
 > ![[Pasted image 20240314190137.png]]
 > migrate outliers to weights:
-> 
+> ![[Pasted image 20240314190157.png]]
+> ![[Pasted image 20240314190417.png]]
+> ![[Pasted image 20240314190740.png]]
+
+
+[[GPT-Q]]:
+![[Pasted image 20240314190941.png]]
