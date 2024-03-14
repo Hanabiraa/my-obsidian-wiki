@@ -86,6 +86,10 @@ Try to reproduce logits:
 **QAT - quantization-aware traiing** - train and get passes in INTS
 > ![[Pasted image 20240314185101.png]]
 
+Quantization scheme
+> ![[Pasted image 20240314195013.png]]
+*Data-free - without calibrational data*
+
 ### Problems
 #### Quality drops (*old paper*)
 > ![[Pasted image 20240314185333.png]]
@@ -104,6 +108,8 @@ Try to reproduce logits:
 
 [[GPT-Q]]:
 > ![[Pasted image 20240314190941.png]]
+
+
 
 
 ## ??? Encoder-decoder vs decoder
