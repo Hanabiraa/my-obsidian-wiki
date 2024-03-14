@@ -62,9 +62,11 @@ Try to reproduce logits:
 > ![[Pasted image 20240314183823.png]]
 
 
+#### CE RL
+> ![[Pasted image 20240314184141.png]]
+- RL instead of distillation
+- Reward model learns from users feedback and then scores quality of generation
 
-
-
-
-
-
+**YA experience:**
+> ![[Pasted image 20240314184421.png]]
+- can spend more time for distill - win in the long run (less compute afterwards on distilled small model)
