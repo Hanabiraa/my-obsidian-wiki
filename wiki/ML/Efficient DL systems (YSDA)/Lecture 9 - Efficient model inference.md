@@ -35,5 +35,14 @@ Generate these labels and pairs - " a.k.a. generate training set"
 > ![[Pasted image 20240314182017.png]]
 
 
-Try to reproduce loguts:
+Try to reproduce logits:
 > ![[Pasted image 20240314182032.png]]
+> generate from teacher and learn its logits
+
+
+> ![[Pasted image 20240314182150.png]]
+
+
+**TinyBert** - effective BERT distillation:
+> ![[Pasted image 20240314182436.png]]
+
