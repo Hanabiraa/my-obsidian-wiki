@@ -105,6 +105,8 @@ Quantization scheme types
 > ![[Pasted image 20240314190417.png]]
 > ![[Pasted image 20240314190740.png]]
 
+quantization to INT8 basic structure:
+
 
 [[GPT-Q]]:
 > ![[Pasted image 20240314190941.png]]
