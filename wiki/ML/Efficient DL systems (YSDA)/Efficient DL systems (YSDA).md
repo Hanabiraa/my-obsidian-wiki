@@ -11,6 +11,7 @@
 	- [[Lecture 6 - Dealing with large models]]
 	- [[Lecture 7 - Application Deployment]]
 	- [[Lecture 8 - LLM inference]]
+	- [[Lecture 9 - Efficient model inference]]
 	- [[Mixed precision training]]
 	- [[Profiling]]
 
