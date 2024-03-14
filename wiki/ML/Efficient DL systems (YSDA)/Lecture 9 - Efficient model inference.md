@@ -30,3 +30,10 @@ MFU - memory FLOPs utilization
 ## Knowledge distillation
 **General framework:**
 > ![[Pasted image 20240314181906.png]]
+
+Generate these labels and pairs - " a.k.a. generate training set" 
+> ![[Pasted image 20240314182017.png]]
+
+
+Try to reproduce loguts:
+> ![[Pasted image 20240314182032.png]]
