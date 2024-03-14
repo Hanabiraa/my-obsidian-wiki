@@ -86,7 +86,7 @@ Try to reproduce logits:
 **QAT - quantization-aware traiing** - train and get passes in INTS
 > ![[Pasted image 20240314185101.png]]
 
-Quantization scheme
+Quantization scheme types
 > ![[Pasted image 20240314195013.png]]
 *Data-free - without calibrational data*
 
