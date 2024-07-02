@@ -10,7 +10,7 @@ tags:
 
 ## What about its structure?
 
-> GPTQ is the State Of The Art quantization algorithm (*see [[wiki/ML/Natural language processing (NLP)/Untitled|Untitled]] for quantization*) for post-training DL model quantization. It works by sequentially quantizing the model's linear layer weights.
+> GPTQ is the State Of The Art quantization algorithm (*see [[NLP|NLP]] for quantization*) for post-training DL model quantization. It works by sequentially quantizing the model's linear layer weights.
 
   
 
