@@ -8,9 +8,10 @@ tags:
 
 # Some practical aspects of machine learning on graphs
 
-From YSDA2024
+From YSDA course 2024 by Oleg Platonov
 
-> In this seminar, we will talk about a few useful topics about graph ML that are not particularly related to any lecture or to each other. This notebook provides a high level overview of the topics and some useful links for those who want to learn more about them. In what follows, we will mostly focus on GNNs and the tasks of node classification and regression, but some of the ideas apply to broader settings, and there are a couple sections about deep learning on molecules closer to the end of the notebook.
+> In this seminar, we will talk about a few useful topics about graph ML that are not particularly related to any lecture or to each other. This notebook provides a high level overview of the topics and some useful links for those who want to learn more about them. 
+> In what follows, we will mostly focus on GNNs and the tasks of node classification and regression, but some of the ideas apply to broader settings, and there are a couple sections about deep learning on molecules closer to the end of the notebook.
 
   
   
