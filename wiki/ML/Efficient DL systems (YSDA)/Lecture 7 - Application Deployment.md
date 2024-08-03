@@ -8,5 +8,13 @@ tags:
 
 # Lecture 7 - Application Deployment
 
-## Chapter 1
+## TCP-IP, HTTP
+
+See [[Модель TCP-IP]], [[HTTP]]
+
+## Docker
+
+- containerization for isolated environment
+
+See [[wiki/docker/terms/Docker|Docker]], [[What is Docker? (Basics)]]
 

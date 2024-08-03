@@ -7,7 +7,7 @@ tags:
 
 # Dockerfiles
 
-## Use Multi-stage Builds
+## Use Multistage Builds
 
 Take advantage of multi-stage builds to create leaner, more secure [[Docker image|Docker images]].
 
