@@ -31,3 +31,14 @@ tags:
 
 # HTTP responses
 
+- Has specified structure which represents the response from a server
+- Has return codes
+
+## Error codes
+1XX - informational
+2XX - OK
+3XX - redirect to another server
+4XX - error from user side
+5XX - error from server side
+> ![[Pasted image 20240803180101.png]]
+
