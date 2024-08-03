@@ -27,7 +27,7 @@ tags:
 	- e.g. ContentType, ContentLength
 - body
 
-![[Pasted image 20240803175348.png]]
+> ![[Pasted image 20240803175348.png]]
 
 # HTTP responses
 
@@ -41,4 +41,17 @@ tags:
 4XX - error from user side
 5XX - error from server side
 > ![[Pasted image 20240803180101.png]]
+
+# Python http server - Flask
+> ![[Pasted image 20240803180421.png]]
+
+
+Pros:
+- simple and straightforward
+- written in python
+- can run (almost) any python code (including ml models)
+Cons:
+- written in python
+- not secure
+- doesn't scale well
 
