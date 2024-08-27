@@ -37,4 +37,4 @@ in torch: threads (write to different streams) or `torch.cuda.Stream`
 
 less slowdown during with larger batch size - time for loading params doesn't depend on batch size
 
-#### ..
+#### ...
