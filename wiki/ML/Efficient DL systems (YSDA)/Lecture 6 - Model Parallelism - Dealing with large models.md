@@ -51,11 +51,33 @@ only weights are on gpu or only some parameters, etc.
 
 #### Model Parallelism
 
-##### Sequential parallelism
+##### Sequential
 > ![[Pasted image 20240827211638.png]]
 
 During a single time event only a single GPU is working, others are waiting ==> Shard batch on microbatches
 
-##### Bubble
+##### Bubble - Pipeline Parallelism
 > ![[Pasted image 20240827211956.png]]
-> 
+> First and last pieces will always be unparallelled
+> Bubble - underutilization
+
+
+##### Pipeline-Parallel training
+> ![[Pasted image 20240827212329.png]]
+> e.g. ViT on ImageNet decrease performance
+
+
+##### Tensor Parallelism
+Some operations are element-wise. For matrix multiplications - e.g. chunk weight matrices or chunk by the inputs
+> ![[Pasted image 20240828000320.png]]
+> Needs more communications and synchronizations
+
+* Split by output neurons -> concatenation as communication 
+* Split by input neurons -> summation as communication
+
+For instance Consider torch implementation of Linear layer: $y = xA^{T} + b$. We can implement tensor parallel for 2 gpus as follows:
+> ![[Pasted image 20240827235712.png]]
+> Description:
+
+Inputs are stored completely on all GPUS. First linear layer - GPU1 computes upper half of $y_{1}$, GPU2 - lower half of $y_{1}$ (split $A_{1}$ by rows). ReLU - can be done in parallel. Second Linear layer - GPU1 computes first partial $y_{2,1}\in \mathbf{R}^{d_{\text{out}}}$, GPU2 computes second partial $y_{2,2}\in \mathbf{R}^{d_{\text{out}}}$ (split $A_{2}$ by columns). Only **one communication** at the end - allreduce: $\hat{y} = y_{2, 1} + y_{2, 2}$
+
