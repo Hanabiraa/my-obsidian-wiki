@@ -49,12 +49,13 @@ only weights are on gpu or only some parameters, etc.
 %% ##### Framework DeepSpeed %%
 
 
-#### Model Parallelism
-
+## Model Parallelism
+### Pipeline Parallelism
 ##### Sequential
 > ![[Pasted image 20240827211638.png]]
 
 During a single time event only a single GPU is working, others are waiting ==> Shard batch on microbatches
+
 
 ##### Bubble - Pipeline Parallelism
 > ![[Pasted image 20240827211956.png]]
@@ -67,7 +68,7 @@ During a single time event only a single GPU is working, others are waiting ==> 
 > e.g. ViT on ImageNet decrease performance
 
 
-##### Tensor Parallelism
+### Tensor Parallelism
 Some operations are element-wise. For matrix multiplications - e.g. chunk weight matrices or chunk by the inputs
 > ![[Pasted image 20240828000320.png]]
 > Needs more communications and synchronizations
