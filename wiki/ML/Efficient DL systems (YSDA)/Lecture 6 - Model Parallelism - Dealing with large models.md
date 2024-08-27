@@ -36,5 +36,8 @@ Store some unnecessary numbers during some periods of computation (e.g. Adam wei
 in torch: threads (write to different streams) or `torch.cuda.Stream`
 
 less slowdown during with larger batch size - time for loading params doesn't depend on batch size
-
+##### ZeRO-offload
+![[Pasted image 20240827210746.png]]
+only weights are on g
 #### ...
+
