@@ -30,14 +30,29 @@ tags:
 ### **Expert mode**: not even parameters (model is larger than GPU)
 Store some unnecessary numbers during some periods of computation (e.g. Adam weights during forward pass)
 #### memory offloading
-
+##### L2L-offloading
 > ![[Pasted image 20240827205930.png]]
+> 
 
-in torch: threads (write to different streams) or `torch.cuda.Stream`
+in `torch`: threads (write to different streams) or `torch.cuda.Stream`
 
 less slowdown during with larger batch size - time for loading params doesn't depend on batch size
 ##### ZeRO-offload
-![[Pasted image 20240827210746.png]]
-only weights are on g
+> ![[Pasted image 20240827210746.png]]
+
+only weights are on gpu or only some parameters, etc.
+
+> ![[Pasted image 20240827210952.png]]
+> Can introduce staleness (like in parameter server)
+
+
+##### Framework DeepSpeed
+
+
+
+
+
+
+
 #### ...
 
