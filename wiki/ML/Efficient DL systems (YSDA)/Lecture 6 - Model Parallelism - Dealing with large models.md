@@ -36,7 +36,7 @@ Store some unnecessary numbers during some periods of computation (e.g. Adam wei
 
 in `torch`: threads (write to different streams) or `torch.cuda.Stream`
 
-less slowdown while wowith larger batch size - time for loading params doesn't depend on batch size
+less slowdown while working with larger batch size - time for loading params doesn't depend on batch size
 ##### ZeRO-offload
 > ![[Pasted image 20240827210746.png]]
 
@@ -49,10 +49,13 @@ only weights are on gpu or only some parameters, etc.
 %% ##### Framework DeepSpeed %%
 
 
+#### Model Parallelism
 
+##### Sequential parallelism
+> ![[Pasted image 20240827211638.png]]
 
+During a single time event only a single GPU is working, others are waiting ==> Shard batch on microbatches
 
-
-
-#### ...
-
+##### Bubble
+> ![[Pasted image 20240827211956.png]]
+> 
