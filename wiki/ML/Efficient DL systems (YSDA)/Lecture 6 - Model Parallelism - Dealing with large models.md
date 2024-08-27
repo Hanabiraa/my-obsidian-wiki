@@ -50,19 +50,19 @@ only weights are on gpu or only some parameters, etc.
 
 
 ## Model Parallelism
-### Pipeline Parallelism
+
 ##### Sequential
 > ![[Pasted image 20240827211638.png]]
 
 During a single time event only a single GPU is working, others are waiting ==> Shard batch on microbatches
 
 
-#### Bubble - Pipeline Parallelism
+##### Bubble - Pipeline Parallelism
 > ![[Pasted image 20240827211956.png]]
 > First and last pieces will always be unparallelled
 > Bubble - underutilization
 
-
+### Pipeline Parallelism
 ##### Pipeline-Parallel training
 > ![[Pasted image 20240827212329.png]]
 > e.g. ViT on ImageNet decrease performance
