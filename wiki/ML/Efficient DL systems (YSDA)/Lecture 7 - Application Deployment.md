@@ -18,3 +18,20 @@ See [[Модель TCP-IP]], [[HTTP]]
 
 See [[wiki/docker/terms/Docker|Docker]], [[What is Docker? (Basics)]]
 
+## Orchestrator
+
+- K8s
+- Docker Swarm
+- openshift
+- nomad
+- etc.
+
+## Statistics & metrics
+e.g. Prometheus
+
+## Serialization, gRPC
+
+gRPC has more throughput than http
+
+serialization of data using protobufs
+
