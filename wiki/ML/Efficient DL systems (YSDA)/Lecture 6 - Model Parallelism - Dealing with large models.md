@@ -91,7 +91,7 @@ Inputs are stored completely on all GPUS. First linear layer - GPU1 computes upp
 
 * Pipeline parallelism doesn't offer benefit  for a single given input - it's still processed by all GPUs => tensor parallelism has a potential to speed up (e.g. in the example above tensor parallelism offers half less FLOPS per GPU). 
 * **Good idea:** Tensor parallelism inside one server, remaining layers - on the other server. Between the servers - pipeline parallelism.
-* **Good idea:** Can use Data parallelism if you have remaining compute power. It's also preferrable for the cases where a model fits on a single GPU
+* **Good idea:** Can use Data parallelism if you have remaining compute power. It's also preferable for the cases where a model fits on a single GPU
 
 **Q: What if you have 1024 GPUs, but the model fits on 8?**
-- Data P
+- DDP
