@@ -46,7 +46,7 @@ only weights are on gpu or only some parameters, etc.
 > Can introduce staleness (like in parameter server)
 
 
-##### Framework DeepSpeed
+%% ##### Framework DeepSpeed %%
 
 
 
