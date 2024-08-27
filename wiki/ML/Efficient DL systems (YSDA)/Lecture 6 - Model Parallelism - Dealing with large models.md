@@ -87,4 +87,7 @@ Inputs are stored completely on all GPUS. First linear layer - GPU1 computes upp
 > ![[Pasted image 20240828000450.png]]
 - [ ] Watch these tutorials
 
-Pipeline parallelism doesn't offer benefit  for a single given input - it's still processed by all GPUs => tensor parallelism has a potential to speed up (e.g. in the example above tensor parallelism offers half less FLOPS per GPU). 
+
+
+* Pipeline parallelism doesn't offer benefit  for a single given input - it's still processed by all GPUs => tensor parallelism has a potential to speed up (e.g. in the example above tensor parallelism offers half less FLOPS per GPU). 
+* **Good idea:** Tensor parallelism inside one server, remaining layers - on the other server. Between the servers - pipeline parallelism.
