@@ -50,7 +50,7 @@ only weights are on gpu or only some parameters, etc.
 
 
 ## Model Parallelism
-
+### Pipeline Parallelism
 ##### Sequential
 > ![[Pasted image 20240827211638.png]]
 
@@ -62,7 +62,7 @@ During a single time event only a single GPU is working, others are waiting ==> 
 > First and last pieces will always be unparallelled
 > Bubble - underutilization
 
-### Pipeline Parallelism
+
 ##### Pipeline-Parallel training
 > ![[Pasted image 20240827212329.png]]
 > e.g. ViT on ImageNet decrease performance
@@ -94,4 +94,17 @@ Inputs are stored completely on all GPUS. First linear layer - GPU1 computes upp
 * **Good idea:** Can use Data parallelism if you have remaining compute power. It's also preferable for the cases where a model fits on a single GPU
 
 **Q: What if you have 1024 GPUs, but the model fits on 8?**
-- DDP
+- Large-scale training: combine model- and data-parallel
+
+Can be done like that: Tensor parallel $\implies$ Pipeline parallel $\implies$ Data Parallel (as DDP scales better than pipelines)
+
+### ZeRO
+> ![[Pasted image 20240828004911.png]]
+
+#### Sharded Data Parallelism
+- model is sharded
+- data is parallelied
+
+See ZeRO movie:
+> ![[Pasted image 20240828003721.png]]
+
