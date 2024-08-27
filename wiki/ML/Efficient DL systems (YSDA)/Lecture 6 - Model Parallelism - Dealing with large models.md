@@ -17,7 +17,7 @@ tags:
 > ![[Pasted image 20240827195442.png]]
 > Loss is divided by global steps for them to be global avg grads (optional)
 > For some networks this is not equal to big batches (e.g. contrastive learning, batchnorm)
-- **Expert mode**: cannot fir a single sample
+- **Hard mode**: cannot fit a single sample
 
 - **Expert mode**: not even parameters
 
