@@ -81,3 +81,9 @@ For instance Consider torch implementation of Linear layer: $y = xA^{T} + b$. We
 
 Inputs are stored completely on all GPUS. First linear layer - GPU1 computes upper half of $y_{1}$, GPU2 - lower half of $y_{1}$ (split $A_{1}$ by rows). ReLU - can be done in parallel. Second Linear layer - GPU1 computes first partial $y_{2,1}\in \mathbf{R}^{d_{\text{out}}}$, GPU2 computes second partial $y_{2,2}\in \mathbf{R}^{d_{\text{out}}}$ (split $A_{2}$ by columns). Only **one communication** at the end - allreduce: $\hat{y} = y_{2, 1} + y_{2, 2}$
 
+
+### Model parallelism overall
+> ![[Pasted image 20240828000450.png]]
+- [ ] Watch these tutorials
+
+Pipeline parallelism doesn't offer benefit  for a single given input - it's still processed by all GPUs => tensor parallelism has a potential to speed up (e.g. in the example above tensor parallelism offers half less FLOPS per GPU). 
