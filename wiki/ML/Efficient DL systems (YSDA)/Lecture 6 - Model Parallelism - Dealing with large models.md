@@ -57,7 +57,7 @@ only weights are on gpu or only some parameters, etc.
 During a single time event only a single GPU is working, others are waiting ==> Shard batch on microbatches
 
 
-##### Bubble - Pipeline Parallelism
+#### Bubble - Pipeline Parallelism
 > ![[Pasted image 20240827211956.png]]
 > First and last pieces will always be unparallelled
 > Bubble - underutilization
