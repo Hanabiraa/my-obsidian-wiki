@@ -127,7 +127,6 @@ Hidden size grows - communication is `batch * hidden`. Communication
 
 ## Example configuration
 
+> ![[Pasted image 20240828142541.png]]
 
-
-> ![[Pasted image 20240828141920.png]]
-
+If a model doesn't fit, one can quantize it too :)
