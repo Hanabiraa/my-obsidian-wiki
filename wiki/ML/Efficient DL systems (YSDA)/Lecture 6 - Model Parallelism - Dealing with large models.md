@@ -101,10 +101,33 @@ Can be done like that: Tensor parallel $\implies$ Pipeline parallel $\implies$ D
 ### ZeRO
 > ![[Pasted image 20240828004911.png]]
 
+FSDP - fully sharded data parallel - no need to rewrite code
+
 #### Sharded Data Parallelism
 - model is sharded
 - data is parallelied
 
 See ZeRO movie:
 > ![[Pasted image 20240828003721.png]]
+
+
+### Thoughts
+- small batch - tensor parallelism & ZeRO are more efficient
+- FSDP
+
+
+
+
+**Data parallelism - *model* moves, model parallelism -  *data* moves**
+
+## The square-cube law of deep learning
+> ![[Pasted image 20240828005723.png]]
+Hidden size grows - communication is `batch * hidden`. Communication
+
+
+## Example configuration
+
+
+
+> ![[Pasted image 20240828141920.png]]
 
